@@ -1,6 +1,7 @@
 name: Update
 
 on:
+  workflow_dispatch: # 手动触发
   label:
     types:
       - created # for test
