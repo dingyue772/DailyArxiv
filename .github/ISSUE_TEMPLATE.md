@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 06, 2025
+title: Latest 5 Papers - March 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias](http://arxiv.org/abs/2503.03595v1)** | 2025-03-05 |  |
+| **[Monitoring Decoding: Mitigating Hallucination via Evaluating the Factuality of Partial Response during Generation](http://arxiv.org/abs/2503.03106v1)** | 2025-03-05 |  |
+| **[SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs](http://arxiv.org/abs/2503.03032v1)** | 2025-03-04 |  |
 | **[Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers](http://arxiv.org/abs/2503.02851v1)** | 2025-03-04 |  |
 | **[AILS-NTUA at SemEval-2025 Task 3: Leveraging Large Language Models and Translation Strategies for Multilingual Hallucination Detection](http://arxiv.org/abs/2503.02442v1)** | 2025-03-04 |  |
-| **[MedHEval: Benchmarking Hallucinations and Mitigation Strategies in Medical Large Vision-Language Models](http://arxiv.org/abs/2503.02157v1)** | 2025-03-04 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
-| **[Evaluating LLMs' Assessment of Mixed-Context Hallucination Through the Lens of Summarization](http://arxiv.org/abs/2503.01670v1)** | 2025-03-03 | <details><summary>8 pag...</summary><p>8 pages, 5 figures for main body</p></details> |
-| **[Tackling Hallucination from Conditional Models for Medical Image Reconstruction with DynamicDPS](http://arxiv.org/abs/2503.01075v1)** | 2025-03-03 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
@@ -25,18 +25,18 @@ labels: documentation
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](http://arxiv.org/abs/2503.02875v1)** | 2025-03-04 |  |
-| **[Multidimensional Consistency Improves Reasoning in Language Models](http://arxiv.org/abs/2503.02670v1)** | 2025-03-04 |  |
-| **[ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](http://arxiv.org/abs/2503.02390v1)** | 2025-03-04 |  |
-| **[An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning](http://arxiv.org/abs/2503.02382v1)** | 2025-03-04 |  |
-| **[DeLTa: A Decoding Strategy based on Logit Trajectory Prediction Improves Factuality and Reasoning Ability](http://arxiv.org/abs/2503.02343v1)** | 2025-03-04 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/githubhyz/DeLTa</p></details> |
+| **[PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning](http://arxiv.org/abs/2503.03747v1)** | 2025-03-05 | 7 pages, 7 figures |
+| **[Towards Understanding Distilled Reasoning Models: A Representational Approach](http://arxiv.org/abs/2503.03730v1)** | 2025-03-05 | 13 pages, 11 figures |
+| **[Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models](http://arxiv.org/abs/2503.03669v1)** | 2025-03-05 | <details><summary>Suppl...</summary><p>Supplementary materials, including code, is available on our GitHub: https://github.com/emcie-co/parlant/tree/arqs-a-systematic-method-for-optimizing-instruction-following-in-llms</p></details> |
+| **[Analogical Reasoning Inside Large Language Models: Concept Vectors and the Limits of Abstraction](http://arxiv.org/abs/2503.03666v1)** | 2025-03-05 | Preprint |
+| **[Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection](http://arxiv.org/abs/2503.03562v2)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](http://arxiv.org/abs/2503.02832v1)** | 2025-03-04 | 15 pages, 2 figures |
-| **[ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](http://arxiv.org/abs/2503.02390v1)** | 2025-03-04 |  |
-| **[An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning](http://arxiv.org/abs/2503.02382v1)** | 2025-03-04 |  |
-| **[Teaching Metric Distance to Autoregressive Multimodal Foundational Models](http://arxiv.org/abs/2503.02379v1)** | 2025-03-04 |  |
-| **[h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform](http://arxiv.org/abs/2503.02187v1)** | 2025-03-04 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025</p></details> |
+| **[Visualising Policy-Reward Interplay to Inform Zeroth-Order Preference Optimisation of Large Language Models](http://arxiv.org/abs/2503.03460v1)** | 2025-03-05 | WIP |
+| **[FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4](http://arxiv.org/abs/2503.03238v1)** | 2025-03-05 |  |
+| **[The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models](http://arxiv.org/abs/2503.03122v1)** | 2025-03-05 |  |
+| **[SAGE: Steering and Refining Dialog Generation with State-Action Augmentation](http://arxiv.org/abs/2503.03040v1)** | 2025-03-04 |  |
+| **[LLM Misalignment via Adversarial RLHF Platforms](http://arxiv.org/abs/2503.03039v1)** | 2025-03-04 |  |
 
