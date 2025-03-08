@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 07, 2025
+title: Latest 5 Papers - March 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HalluCounter: Reference-free LLM Hallucination Detection in the Wild!](http://arxiv.org/abs/2503.04615v1)** | 2025-03-06 | 30 pages, 4 figures |
+| **[TPC: Cross-Temporal Prediction Connection for Vision-Language Model Hallucination Reduction](http://arxiv.org/abs/2503.04457v1)** | 2025-03-06 |  |
 | **[Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias](http://arxiv.org/abs/2503.03595v1)** | 2025-03-05 |  |
 | **[Monitoring Decoding: Mitigating Hallucination via Evaluating the Factuality of Partial Response during Generation](http://arxiv.org/abs/2503.03106v1)** | 2025-03-05 |  |
 | **[SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs](http://arxiv.org/abs/2503.03032v1)** | 2025-03-04 |  |
-| **[Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers](http://arxiv.org/abs/2503.02851v1)** | 2025-03-04 |  |
-| **[AILS-NTUA at SemEval-2025 Task 3: Leveraging Large Language Models and Translation Strategies for Multilingual Hallucination Detection](http://arxiv.org/abs/2503.02442v1)** | 2025-03-04 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
@@ -25,18 +25,18 @@ labels: documentation
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning](http://arxiv.org/abs/2503.03747v1)** | 2025-03-05 | 7 pages, 7 figures |
-| **[Towards Understanding Distilled Reasoning Models: A Representational Approach](http://arxiv.org/abs/2503.03730v1)** | 2025-03-05 | 13 pages, 11 figures |
-| **[Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models](http://arxiv.org/abs/2503.03669v1)** | 2025-03-05 | <details><summary>Suppl...</summary><p>Supplementary materials, including code, is available on our GitHub: https://github.com/emcie-co/parlant/tree/arqs-a-systematic-method-for-optimizing-instruction-following-in-llms</p></details> |
-| **[Analogical Reasoning Inside Large Language Models: Concept Vectors and the Limits of Abstraction](http://arxiv.org/abs/2503.03666v1)** | 2025-03-05 | Preprint |
-| **[Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection](http://arxiv.org/abs/2503.03562v2)** | 2025-03-06 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](http://arxiv.org/abs/2503.04697v1)** | 2025-03-06 |  |
+| **[Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases](http://arxiv.org/abs/2503.04691v1)** | 2025-03-06 |  |
+| **[DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module](http://arxiv.org/abs/2503.04685v1)** | 2025-03-06 |  |
+| **[START: Self-taught Reasoner with Tools](http://arxiv.org/abs/2503.04625v1)** | 2025-03-06 | <details><summary>38 pa...</summary><p>38 pages, 5 figures and 6 tables</p></details> |
+| **[Compositional Causal Reasoning Evaluation in Language Models](http://arxiv.org/abs/2503.04556v1)** | 2025-03-06 |  |
 
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Implicit Cross-Lingual Rewarding for Efficient Multilingual Preference Alignment](http://arxiv.org/abs/2503.04647v1)** | 2025-03-06 | Work in progress |
+| **[Better Process Supervision with Bi-directional Rewarding Signals](http://arxiv.org/abs/2503.04618v1)** | 2025-03-06 |  |
+| **[SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning](http://arxiv.org/abs/2503.04530v1)** | 2025-03-06 |  |
 | **[Visualising Policy-Reward Interplay to Inform Zeroth-Order Preference Optimisation of Large Language Models](http://arxiv.org/abs/2503.03460v1)** | 2025-03-05 | WIP |
 | **[FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4](http://arxiv.org/abs/2503.03238v1)** | 2025-03-05 |  |
-| **[The Devil Is in the Details: Tackling Unimodal Spurious Correlations for Generalizable Multimodal Reward Models](http://arxiv.org/abs/2503.03122v1)** | 2025-03-05 |  |
-| **[SAGE: Steering and Refining Dialog Generation with State-Action Augmentation](http://arxiv.org/abs/2503.03040v1)** | 2025-03-04 |  |
-| **[LLM Misalignment via Adversarial RLHF Platforms](http://arxiv.org/abs/2503.03039v1)** | 2025-03-04 |  |
 
