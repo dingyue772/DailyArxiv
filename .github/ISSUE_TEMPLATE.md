@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 09, 2025
+title: Latest 5 Papers - March 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -27,8 +27,8 @@ labels: documentation
 | --- | --- | --- |
 | **[L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](http://arxiv.org/abs/2503.04697v1)** | 2025-03-06 |  |
 | **[Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases](http://arxiv.org/abs/2503.04691v1)** | 2025-03-06 |  |
-| **[DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module](http://arxiv.org/abs/2503.04685v1)** | 2025-03-06 |  |
-| **[START: Self-taught Reasoner with Tools](http://arxiv.org/abs/2503.04625v1)** | 2025-03-06 | <details><summary>38 pa...</summary><p>38 pages, 5 figures and 6 tables</p></details> |
+| **[DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module](http://arxiv.org/abs/2503.04685v2)** | 2025-03-07 |  |
+| **[START: Self-taught Reasoner with Tools](http://arxiv.org/abs/2503.04625v2)** | 2025-03-07 | <details><summary>38 pa...</summary><p>38 pages, 5 figures and 6 tables</p></details> |
 | **[Compositional Causal Reasoning Evaluation in Language Models](http://arxiv.org/abs/2503.04556v1)** | 2025-03-06 |  |
 
 ## Reward Model
