@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 10, 2025
+title: Latest 5 Papers - March 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -25,18 +25,18 @@ labels: documentation
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](http://arxiv.org/abs/2503.04697v1)** | 2025-03-06 |  |
-| **[Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases](http://arxiv.org/abs/2503.04691v1)** | 2025-03-06 |  |
-| **[DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module](http://arxiv.org/abs/2503.04685v2)** | 2025-03-07 |  |
-| **[START: Self-taught Reasoner with Tools](http://arxiv.org/abs/2503.04625v2)** | 2025-03-07 | <details><summary>38 pa...</summary><p>38 pages, 5 figures and 6 tables</p></details> |
-| **[Compositional Causal Reasoning Evaluation in Language Models](http://arxiv.org/abs/2503.04556v1)** | 2025-03-06 |  |
+| **[Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning](http://arxiv.org/abs/2503.05641v1)** | 2025-03-07 | <details><summary>The f...</summary><p>The first three authors contributed equally. Project Page: https://symbolic_moe.github.io/</p></details> |
+| **[An Empirical Study of Conformal Prediction in LLM with ASP Scaffolds for Robust Reasoning](http://arxiv.org/abs/2503.05439v1)** | 2025-03-07 |  |
+| **[Knowledge Updating? No More Model Editing! Just Selective Contextual Reasoning](http://arxiv.org/abs/2503.05212v1)** | 2025-03-07 |  |
+| **[Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning](http://arxiv.org/abs/2503.05193v1)** | 2025-03-07 |  |
+| **[Rewarding Curse: Analyze and Mitigate Reward Modeling Issues for LLM Reasoning](http://arxiv.org/abs/2503.05188v1)** | 2025-03-07 | 18 pages, 21 figures |
 
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unified Reward Model for Multimodal Understanding and Generation](http://arxiv.org/abs/2503.05236v1)** | 2025-03-07 | <details><summary>proje...</summary><p>project page: https://codegoat24.github.io/UnifiedReward/</p></details> |
+| **[Rewarding Curse: Analyze and Mitigate Reward Modeling Issues for LLM Reasoning](http://arxiv.org/abs/2503.05188v1)** | 2025-03-07 | 18 pages, 21 figures |
+| **[Empirical Bound Information-Directed Sampling for Norm-Agnostic Bandits](http://arxiv.org/abs/2503.05098v1)** | 2025-03-07 |  |
 | **[Implicit Cross-Lingual Rewarding for Efficient Multilingual Preference Alignment](http://arxiv.org/abs/2503.04647v1)** | 2025-03-06 | Work in progress |
 | **[Better Process Supervision with Bi-directional Rewarding Signals](http://arxiv.org/abs/2503.04618v1)** | 2025-03-06 |  |
-| **[SOLAR: Scalable Optimization of Large-scale Architecture for Reasoning](http://arxiv.org/abs/2503.04530v1)** | 2025-03-06 |  |
-| **[Visualising Policy-Reward Interplay to Inform Zeroth-Order Preference Optimisation of Large Language Models](http://arxiv.org/abs/2503.03460v1)** | 2025-03-05 | WIP |
-| **[FANS -- Formal Answer Selection for Natural Language Math Reasoning Using Lean4](http://arxiv.org/abs/2503.03238v1)** | 2025-03-05 |  |
 
