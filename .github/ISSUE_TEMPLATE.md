@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 14, 2025
+title: Latest 5 Papers - March 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,36 +7,36 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention](http://arxiv.org/abs/2503.10602v1)** | 2025-03-13 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, the first two authors contributed equally</p></details> |
+| **[Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding](http://arxiv.org/abs/2503.10183v1)** | 2025-03-13 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 9 tables</p></details> |
 | **[Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection](http://arxiv.org/abs/2503.09153v1)** | 2025-03-12 | <details><summary>9 pag...</summary><p>9 pages, 12 figures, conference</p></details> |
 | **[Gradient-guided Attention Map Editing: Towards Efficient Contextual Hallucination Mitigation](http://arxiv.org/abs/2503.08963v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted as Finding of NAACL 2025</p></details> |
 | **[Attention Reallocation: Towards Zero-cost and Controllable Hallucination Mitigation of MLLMs](http://arxiv.org/abs/2503.08342v2)** | 2025-03-12 |  |
-| **[Attention Hijackers: Detect and Disentangle Attention Hijacking in LVLMs for Hallucination Mitigation](http://arxiv.org/abs/2503.08216v1)** | 2025-03-11 |  |
-| **[HalluVerse25: Fine-grained Multilingual Benchmark Dataset for LLM Hallucinations](http://arxiv.org/abs/2503.07833v1)** | 2025-03-10 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance](http://arxiv.org/abs/2503.10391v1)** | 2025-03-13 |  |
+| **[LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents](http://arxiv.org/abs/2503.10200v1)** | 2025-03-13 |  |
+| **[Information Density Principle for MLLM Benchmarks](http://arxiv.org/abs/2503.10079v1)** | 2025-03-13 |  |
+| **[UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?](http://arxiv.org/abs/2503.09949v1)** | 2025-03-13 |  |
 | **[Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video Understanding](http://arxiv.org/abs/2503.09143v1)** | 2025-03-12 | <details><summary>Proje...</summary><p>Project: https://egovisiongroup.github.io/Exo2Ego.github.io/</p></details> |
-| **[SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories](http://arxiv.org/abs/2503.08625v1)** | 2025-03-11 | <details><summary>CVPR2...</summary><p>CVPR2025;Code will be released at \url{https://github.com/aim-uofa/SegAgent}</p></details> |
-| **[KAP: MLLM-assisted OCR Text Enhancement for Hybrid Retrieval in Chinese Non-Narrative Documents](http://arxiv.org/abs/2503.08452v1)** | 2025-03-11 |  |
-| **[Attention Reallocation: Towards Zero-cost and Controllable Hallucination Mitigation of MLLMs](http://arxiv.org/abs/2503.08342v2)** | 2025-03-12 |  |
-| **[ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges](http://arxiv.org/abs/2503.06553v1)** | 2025-03-09 |  |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](http://arxiv.org/abs/2503.09567v2)** | 2025-03-13 | <details><summary>Paper...</summary><p>Paper are available at https://long-cot.github.io/</p></details> |
-| **[Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](http://arxiv.org/abs/2503.09516v1)** | 2025-03-12 | 16 pages |
-| **[A Survey on Enhancing Causal Reasoning Ability of Large Language Models](http://arxiv.org/abs/2503.09326v1)** | 2025-03-12 |  |
-| **[Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection](http://arxiv.org/abs/2503.09153v1)** | 2025-03-12 | <details><summary>9 pag...</summary><p>9 pages, 12 figures, conference</p></details> |
-| **[Adaptive Backdoor Attacks with Reasonable Constraints on Graph Neural Networks](http://arxiv.org/abs/2503.09049v1)** | 2025-03-12 |  |
+| **[GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](http://arxiv.org/abs/2503.10639v1)** | 2025-03-13 | <details><summary>Datas...</summary><p>Dataset and models are released in https://github.com/rongyaofang/GoT</p></details> |
+| **[SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems](http://arxiv.org/abs/2503.10627v1)** | 2025-03-13 | <details><summary>Initi...</summary><p>Initially released in September 2024. Project page: https://sciverse-cuhk.github.io</p></details> |
+| **[DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding](http://arxiv.org/abs/2503.10621v1)** | 2025-03-13 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables, github: https://github.com/ayesha-ishaq/DriveLMM-o1</p></details> |
+| **[R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization](http://arxiv.org/abs/2503.10615v1)** | 2025-03-13 | <details><summary>Code ...</summary><p>Code and Model: https://github.com/Fancy-MLLM/R1-onevision</p></details> |
+| **[Unveiling the Mathematical Reasoning in DeepSeek Models: A Comparative Study of Large Language Models](http://arxiv.org/abs/2503.10573v1)** | 2025-03-13 |  |
 
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VisualPRM: An Effective Process Reward Model for Multimodal Reasoning](http://arxiv.org/abs/2503.10291v1)** | 2025-03-13 |  |
+| **[Policy Teaching via Data Poisoning in Learning from Human Preferences](http://arxiv.org/abs/2503.10228v1)** | 2025-03-13 | In AISTATS 2025 |
+| **[Representation-based Reward Modeling for Efficient Safety Alignment of Large Language Model](http://arxiv.org/abs/2503.10093v1)** | 2025-03-13 |  |
+| **[PluralLLM: Pluralistic Alignment in LLMs via Federated Learning](http://arxiv.org/abs/2503.09925v1)** | 2025-03-13 |  |
 | **[RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling](http://arxiv.org/abs/2503.09601v2)** | 2025-03-13 |  |
-| **[PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop](http://arxiv.org/abs/2503.09595v1)** | 2025-03-12 |  |
-| **[D3PO: Preference-Based Alignment of Discrete Diffusion Models](http://arxiv.org/abs/2503.08295v1)** | 2025-03-11 |  |
-| **[Aligning Text to Image in Diffusion Models is Easier Than You Think](http://arxiv.org/abs/2503.08250v1)** | 2025-03-11 |  |
-| **[Towards Large Language Models that Benefit for All: Benchmarking Group Fairness in Reward Models](http://arxiv.org/abs/2503.07806v1)** | 2025-03-10 |  |
 
