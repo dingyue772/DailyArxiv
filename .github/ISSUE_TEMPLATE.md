@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 16, 2025
+title: Latest 5 Papers - March 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -8,7 +8,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention](http://arxiv.org/abs/2503.10602v1)** | 2025-03-13 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, the first two authors contributed equally</p></details> |
-| **[Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding](http://arxiv.org/abs/2503.10183v1)** | 2025-03-13 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 9 tables</p></details> |
+| **[Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding](http://arxiv.org/abs/2503.10183v2)** | 2025-03-14 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 9 tables</p></details> |
 | **[Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection](http://arxiv.org/abs/2503.09153v1)** | 2025-03-12 | <details><summary>9 pag...</summary><p>9 pages, 12 figures, conference</p></details> |
 | **[Gradient-guided Attention Map Editing: Towards Efficient Contextual Hallucination Mitigation](http://arxiv.org/abs/2503.08963v1)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted as Finding of NAACL 2025</p></details> |
 | **[Attention Reallocation: Towards Zero-cost and Controllable Hallucination Mitigation of MLLMs](http://arxiv.org/abs/2503.08342v2)** | 2025-03-12 |  |
