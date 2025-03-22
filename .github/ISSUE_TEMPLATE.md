@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 21, 2025
+title: Latest 5 Papers - March 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Don't Fight Hallucinations, Use Them: Estimating Image Realism using NLI over Atomic Facts](http://arxiv.org/abs/2503.15948v1)** | 2025-03-20 | <details><summary>Proce...</summary><p>Proceedings of De-Factify 4: 4nd Workshop on Multimodal Fact Checking and Hate Speech Detection, co-located with AAAI-2025</p></details> |
+| **[MASH-VLM: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations](http://arxiv.org/abs/2503.15871v1)** | 2025-03-20 | <details><summary>Accep...</summary><p>Accepted for CVPR 2025</p></details> |
 | **[Mitigating Object Hallucinations in MLLMs via Multi-Frequency Perturbations](http://arxiv.org/abs/2503.14895v1)** | 2025-03-19 |  |
 | **[Calibrating Verbal Uncertainty as a Linear Feature to Reduce Hallucinations](http://arxiv.org/abs/2503.14477v1)** | 2025-03-18 |  |
 | **[From "Hallucination" to "Suture": Insights from Language Philosophy to Enhance Large Language Models](http://arxiv.org/abs/2503.14392v1)** | 2025-03-18 | 7 pages |
-| **[ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large language Models](http://arxiv.org/abs/2503.13107v1)** | 2025-03-17 |  |
-| **[HICD: Hallucination-Inducing via Attention Dispersion for Contrastive Decoding to Mitigate Hallucinations in Large Language Models](http://arxiv.org/abs/2503.12908v1)** | 2025-03-17 | <details><summary>Under...</summary><p>Under review at ARR - February 2025</p></details> |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
@@ -25,18 +25,18 @@ labels: documentation
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Chains-of-Thoughts of Large Language Models Suffer from Hallucinations, Cognitive Biases, or Phobias in Bayesian Reasoning?](http://arxiv.org/abs/2503.15268v1)** | 2025-03-19 | 24 pages, 3 figures |
-| **[World Models in Artificial Intelligence: Sensing, Learning, and Reasoning Like a Child](http://arxiv.org/abs/2503.15168v1)** | 2025-03-19 | 11 pages, 1 figure |
-| **[Reasoning Effort and Problem Complexity: A Scaling Analysis in LLMs](http://arxiv.org/abs/2503.15113v1)** | 2025-03-19 | <details><summary>Publi...</summary><p>Published at ICLR 2025 Workshop on Reasoning and Planning for LLMs</p></details> |
-| **[VIPER: Visual Perception and Explainable Reasoning for Sequential Decision-Making](http://arxiv.org/abs/2503.15108v1)** | 2025-03-19 |  |
-| **[Neuro Symbolic Knowledge Reasoning for Procedural Video Question Answering](http://arxiv.org/abs/2503.14957v1)** | 2025-03-19 |  |
+| **[Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](http://arxiv.org/abs/2503.16419v1)** | 2025-03-20 | <details><summary>Proje...</summary><p>Project Website: https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs</p></details> |
+| **[Exploring the Hidden Reasoning Process of Large Language Models by Misleading Them](http://arxiv.org/abs/2503.16401v1)** | 2025-03-20 |  |
+| **[Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation](http://arxiv.org/abs/2503.16385v1)** | 2025-03-20 |  |
+| **[Neurosymbolic Architectural Reasoning: Towards Formal Analysis through Neural Software Architecture Inference](http://arxiv.org/abs/2503.16262v1)** | 2025-03-20 |  |
+| **[Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data](http://arxiv.org/abs/2503.16260v1)** | 2025-03-20 | Under review |
 
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos](http://arxiv.org/abs/2503.16400v1)** | 2025-03-20 |  |
+| **[Cultural Alignment in Large Language Models Using Soft Prompt Tuning](http://arxiv.org/abs/2503.16094v1)** | 2025-03-20 |  |
 | **[What Makes a Reward Model a Good Teacher? An Optimization Perspective](http://arxiv.org/abs/2503.15477v1)** | 2025-03-19 | <details><summary>Code ...</summary><p>Code available at https://github.com/princeton-pli/what-makes-good-rm</p></details> |
 | **[VARP: Reinforcement Learning from Vision-Language Model Feedback with Agent Regularized Preferences](http://arxiv.org/abs/2503.13817v1)** | 2025-03-18 | 8 pages |
 | **[Superalignment with Dynamic Human Values](http://arxiv.org/abs/2503.13621v1)** | 2025-03-17 | <details><summary>Publi...</summary><p>Published at the ICLR 2025 Workshop on Bidirectional Human-AI Alignment (BiAlign)</p></details> |
-| **[MetaScale: Test-Time Scaling with Evolving Meta-Thoughts](http://arxiv.org/abs/2503.13447v1)** | 2025-03-17 | Work in progress |
-| **[Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation](http://arxiv.org/abs/2503.12854v1)** | 2025-03-17 |  |
 
