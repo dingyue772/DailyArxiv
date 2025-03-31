@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 30, 2025
+title: Latest 5 Papers - March 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -13,23 +13,14 @@ labels: documentation
 | **[Mitigating Low-Level Visual Hallucinations Requires Self-Awareness: Database, Model and Training Strategy](http://arxiv.org/abs/2503.20673v2)** | 2025-03-27 |  |
 | **[Vision-Amplified Semantic Entropy for Hallucination Detection in Medical Visual Question Answering](http://arxiv.org/abs/2503.20504v1)** | 2025-03-26 | 11 pages, 2 figures |
 
-## MLLM
+## language model uncertainty
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Video-R1: Reinforcing Video Reasoning in MLLMs](http://arxiv.org/abs/2503.21776v1)** | 2025-03-27 | <details><summary>Proje...</summary><p>Project page: https://github.com/tulerfeng/Video-R1</p></details> |
-| **[FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs](http://arxiv.org/abs/2503.21457v1)** | 2025-03-27 | Accepted by CVPR2025 |
-| **[Instruction-Oriented Preference Alignment for Enhancing Multi-Modal Comprehension Capability of MLLMs](http://arxiv.org/abs/2503.20309v1)** | 2025-03-26 | Technical report |
-| **[LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](http://arxiv.org/abs/2503.19990v1)** | 2025-03-25 | 12 pages, 7 figures |
-| **[Judge Anything: MLLM as a Judge Across Any Modality](http://arxiv.org/abs/2503.17489v1)** | 2025-03-21 |  |
-
-## Reasoning
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Video-R1: Reinforcing Video Reasoning in MLLMs](http://arxiv.org/abs/2503.21776v1)** | 2025-03-27 | <details><summary>Proje...</summary><p>Project page: https://github.com/tulerfeng/Video-R1</p></details> |
-| **[GateLens: A Reasoning-Enhanced LLM Agent for Automotive Software Release Analytics](http://arxiv.org/abs/2503.21735v1)** | 2025-03-27 |  |
-| **[ReaRAG: Knowledge-guided Reasoning Enhances Factuality of Large Reasoning Models with Iterative Retrieval Augmented Generation](http://arxiv.org/abs/2503.21729v1)** | 2025-03-27 |  |
-| **[MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX](http://arxiv.org/abs/2503.21699v1)** | 2025-03-27 |  |
-| **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](http://arxiv.org/abs/2503.21696v1)** | 2025-03-27 | <details><summary>Code:...</summary><p>Code: https://github.com/zwq2018/embodied_reasoner Dataset: https://huggingface.co/datasets/zwq2018/embodied_reasoner</p></details> |
+| **[Language Model Uncertainty Quantification with Attention Chain](http://arxiv.org/abs/2503.19168v1)** | 2025-03-24 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, 30 tables</p></details> |
+| **[Investigating Human-Aligned Large Language Model Uncertainty](http://arxiv.org/abs/2503.12528v1)** | 2025-03-16 |  |
+| **[Accounting for Sycophancy in Language Model Uncertainty Estimation](http://arxiv.org/abs/2410.14746v1)** | 2024-10-17 |  |
+| **[Benchmarking Large Language Model Uncertainty for Prompt Optimization](http://arxiv.org/abs/2409.10044v2)** | 2024-12-25 |  |
+| **["I'm Not Sure, But...": Examining the Impact of Large Language Models' Uncertainty Expression on User Reliance and Trust](http://arxiv.org/abs/2405.00623v2)** | 2024-05-15 | <details><summary>Accep...</summary><p>Accepted to FAccT 2024. This version includes the appendix</p></details> |
 
 ## Reward Model
 | **Title** | **Date** | **Comment** |
