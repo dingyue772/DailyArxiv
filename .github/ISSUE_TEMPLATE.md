@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 31, 2025
+title: Latest 5 Papers - April 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -25,9 +25,9 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[R-PRM: Reasoning-Driven Process Reward Modeling](http://arxiv.org/abs/2503.21295v1)** | 2025-03-27 | <details><summary>The p...</summary><p>The project is available at https://github.com/NJUNLP/R-PRM</p></details> |
-| **[Multi-head Reward Aggregation Guided by Entropy](http://arxiv.org/abs/2503.20995v1)** | 2025-03-26 |  |
-| **[ViLBench: A Suite for Vision-Language Process Reward Modeling](http://arxiv.org/abs/2503.20271v1)** | 2025-03-26 |  |
-| **[GAPO: Learning Preferential Prompt through Generative Adversarial Policy Optimization](http://arxiv.org/abs/2503.20194v1)** | 2025-03-26 |  |
-| **[ExCoT: Optimizing Reasoning for Text-to-SQL with Execution Feedback](http://arxiv.org/abs/2503.19988v1)** | 2025-03-25 |  |
+| **[Probabilistic Uncertain Reward Model: A Natural Generalization of Bradley-Terry Reward Model](http://arxiv.org/abs/2503.22480v1)** | 2025-03-28 |  |
+| **[Process Reward Modeling with Entropy-Driven Uncertainty](http://arxiv.org/abs/2503.22233v1)** | 2025-03-28 |  |
+| **[Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback](http://arxiv.org/abs/2503.22230v2)** | 2025-03-31 |  |
+| **[Sell It Before You Make It: Revolutionizing E-Commerce with Personalized AI-Generated Items](http://arxiv.org/abs/2503.22182v1)** | 2025-03-28 | Under Review |
+| **[Is Best-of-N the Best of Them? Coverage, Scaling, and Optimality in Inference-Time Alignment](http://arxiv.org/abs/2503.21878v1)** | 2025-03-27 |  |
 
