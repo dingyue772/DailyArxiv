@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - April 04, 2025
+title: Latest 5 Papers - April 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -25,9 +25,9 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inference-Time Scaling for Generalist Reward Modeling](http://arxiv.org/abs/2504.02495v1)** | 2025-04-03 | <details><summary>Prepr...</summary><p>Preprint, under review. 42 pages</p></details> |
 | **[Adaptive Rectification Sampling for Test-Time Compute Scaling](http://arxiv.org/abs/2504.01317v1)** | 2025-04-02 |  |
 | **[When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning](http://arxiv.org/abs/2504.01005v1)** | 2025-04-01 | 29 pages |
 | **[GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning](http://arxiv.org/abs/2504.00891v1)** | 2025-04-01 |  |
 | **[VerifiAgent: a Unified Verification Agent in Language Model Reasoning](http://arxiv.org/abs/2504.00406v1)** | 2025-04-01 |  |
-| **[Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1](http://arxiv.org/abs/2503.24376v1)** | 2025-03-31 | <details><summary>Techn...</summary><p>Technical Report (In Progress); Code released at: https://github.com/TencentARC/SEED-Bench-R1</p></details> |
 
