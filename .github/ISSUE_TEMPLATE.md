@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - April 17, 2025
+title: Latest 5 Papers - April 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning](http://arxiv.org/abs/2504.11456v1)** | 2025-04-15 | WIP |
-| **[Teaching Large Language Models to Reason through Learning and Forgetting](http://arxiv.org/abs/2504.11364v1)** | 2025-04-15 |  |
-| **[Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning](http://arxiv.org/abs/2504.11354v1)** | 2025-04-15 | 22 pages |
-| **[A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce](http://arxiv.org/abs/2504.11343v1)** | 2025-04-15 | 12 pages, 4 figures |
-| **[Nondeterministic Polynomial-time Problem Challenge: An Ever-Scaling Reasoning Benchmark for LLMs](http://arxiv.org/abs/2504.11239v1)** | 2025-04-15 | <details><summary>Preli...</summary><p>Preliminary work, 10 pages for main text</p></details> |
+| **[FLIP Reasoning Challenge](http://arxiv.org/abs/2504.12256v1)** | 2025-04-16 | <details><summary>Publi...</summary><p>Published at First Workshop on Open Science for Foundation Models at ICLR 2025</p></details> |
+| **[d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2504.12216v1)** | 2025-04-16 | <details><summary>25 pa...</summary><p>25 pages, project page at https://dllm-reasoning.github.io/</p></details> |
+| **[Reasoning-Based AI for Startup Evaluation (R.A.I.S.E.): A Memory-Augmented, Multi-Step Decision Framework](http://arxiv.org/abs/2504.12090v1)** | 2025-04-16 |  |
+| **[Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection](http://arxiv.org/abs/2504.11900v1)** | 2025-04-16 | Preprint |
+| **[Could Thinking Multilingually Empower LLM Reasoning?](http://arxiv.org/abs/2504.11833v1)** | 2025-04-16 |  |
 
