@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - April 25, 2025
+title: Latest 5 Papers - April 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text](http://arxiv.org/abs/2504.16913v1)** | 2025-04-23 | <details><summary>De-Fa...</summary><p>De-Factify 4: 4th Workshop on Multimodal Fact Checking and Hate Speech Detection, co-located with AAAI 2025. Pennsylvania</p></details> |
-| **[AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning dataset](http://arxiv.org/abs/2504.16891v1)** | 2025-04-23 | <details><summary>Repor...</summary><p>Report of AIMO-2 winning submission</p></details> |
-| **[GreenMind: A Next-Generation Vietnamese Large Language Model for Structured and Logical Reasoning](http://arxiv.org/abs/2504.16832v1)** | 2025-04-23 |  |
-| **[Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](http://arxiv.org/abs/2504.16656v1)** | 2025-04-23 |  |
-| **[Think Hierarchically, Act Dynamically: Hierarchical Multi-modal Fusion and Reasoning for Vision-and-Language Navigation](http://arxiv.org/abs/2504.16516v1)** | 2025-04-23 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, Submitted to ACM MM 2025</p></details> |
+| **[Safety in Large Reasoning Models: A Survey](http://arxiv.org/abs/2504.17704v1)** | 2025-04-24 |  |
+| **[Evaluating Grounded Reasoning by Code-Assisted Large Language Models for Mathematics](http://arxiv.org/abs/2504.17665v1)** | 2025-04-24 |  |
+| **[DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training](http://arxiv.org/abs/2504.17565v1)** | 2025-04-24 |  |
+| **[A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task](http://arxiv.org/abs/2504.17547v1)** | 2025-04-24 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 4 tables</p></details> |
+| **[Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation](http://arxiv.org/abs/2504.17207v1)** | 2025-04-24 | <details><summary>Proje...</summary><p>Project Page: https://apc-vlm.github.io/</p></details> |
 
