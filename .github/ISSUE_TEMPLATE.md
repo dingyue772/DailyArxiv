@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - April 29, 2025
+title: Latest 5 Papers - April 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Optimizing Multi-Round Enhanced Training in Diffusion Models for Improved Preference Understanding](http://arxiv.org/abs/2504.18204v1)** | 2025-04-25 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2503.17660</p></details> |
-| **[Process Reward Models That Think](http://arxiv.org/abs/2504.16828v1)** | 2025-04-23 |  |
-| **[Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning](http://arxiv.org/abs/2504.16656v2)** | 2025-04-25 |  |
-| **[Learning Explainable Dense Reward Shapes via Bayesian Optimization](http://arxiv.org/abs/2504.16272v1)** | 2025-04-22 |  |
-| **[Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](http://arxiv.org/abs/2504.16073v1)** | 2025-04-22 |  |
+| **[PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations](http://arxiv.org/abs/2504.20520v1)** | 2025-04-29 |  |
+| **[Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User](http://arxiv.org/abs/2504.20458v1)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2025</p></details> |
+| **[Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models](http://arxiv.org/abs/2504.20157v1)** | 2025-04-28 |  |
+| **[Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets](http://arxiv.org/abs/2504.19981v1)** | 2025-04-28 |  |
+| **[Anyprefer: An Agentic Framework for Preference Data Synthesis](http://arxiv.org/abs/2504.19276v1)** | 2025-04-27 |  |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TRACE Back from the Future: A Probabilistic Reasoning Approach to Controllable Language Generation](http://arxiv.org/abs/2504.18535v1)** | 2025-04-25 |  |
-| **[Fast-Slow Thinking for Large Vision-Language Model Reasoning](http://arxiv.org/abs/2504.18458v1)** | 2025-04-25 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, and 12 tables</p></details> |
-| **[Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation](http://arxiv.org/abs/2504.18453v1)** | 2025-04-25 |  |
-| **[PolyMath: Evaluating Mathematical Reasoning in Multilingual Contexts](http://arxiv.org/abs/2504.18428v1)** | 2025-04-25 |  |
-| **[LaRI: Layered Ray Intersections for Single-view 3D Geometric Reasoning](http://arxiv.org/abs/2504.18424v1)** | 2025-04-25 | <details><summary>Proje...</summary><p>Project page: https://ruili3.github.io/lari</p></details> |
+| **[Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models](http://arxiv.org/abs/2504.20946v1)** | 2025-04-29 |  |
+| **[ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](http://arxiv.org/abs/2504.20930v1)** | 2025-04-29 |  |
+| **[Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning](http://arxiv.org/abs/2504.20835v1)** | 2025-04-29 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, Submitted to ACM MM 2025</p></details> |
+| **[Reinforcement Learning for LLM Reasoning Under Memory Constraints](http://arxiv.org/abs/2504.20834v1)** | 2025-04-29 |  |
+| **[Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption](http://arxiv.org/abs/2504.20769v1)** | 2025-04-29 |  |
 
