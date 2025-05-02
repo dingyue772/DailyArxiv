@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - May 01, 2025
+title: Latest 5 Papers - May 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models](http://arxiv.org/abs/2504.20946v1)** | 2025-04-29 |  |
-| **[ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](http://arxiv.org/abs/2504.20930v1)** | 2025-04-29 |  |
-| **[Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning](http://arxiv.org/abs/2504.20835v1)** | 2025-04-29 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, Submitted to ACM MM 2025</p></details> |
-| **[Reinforcement Learning for LLM Reasoning Under Memory Constraints](http://arxiv.org/abs/2504.20834v1)** | 2025-04-29 |  |
-| **[Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption](http://arxiv.org/abs/2504.20769v1)** | 2025-04-29 |  |
+| **[DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](http://arxiv.org/abs/2504.21801v1)** | 2025-04-30 |  |
+| **[WebThinker: Empowering Large Reasoning Models with Deep Research Capability](http://arxiv.org/abs/2504.21776v1)** | 2025-04-30 |  |
+| **[AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization](http://arxiv.org/abs/2504.21659v1)** | 2025-04-30 |  |
+| **[ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning](http://arxiv.org/abs/2504.21370v1)** | 2025-04-30 | <details><summary>An ap...</summary><p>An appendix will be uploaded soon</p></details> |
+| **[BiasGuard: A Reasoning-enhanced Bias Detection Tool For Large Language Models](http://arxiv.org/abs/2504.21299v1)** | 2025-04-30 |  |
 
