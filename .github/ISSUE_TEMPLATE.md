@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - May 02, 2025
+title: Latest 5 Papers - May 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MINERVA: Evaluating Complex Video Reasoning](http://arxiv.org/abs/2505.00681v1)** | 2025-05-01 |  |
+| **[Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4](http://arxiv.org/abs/2505.00603v1)** | 2025-05-01 |  |
+| **[100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models](http://arxiv.org/abs/2505.00551v1)** | 2025-05-01 |  |
+| **[Between Underthinking and Overthinking: An Empirical Study of Reasoning Length and correctness in LLMs](http://arxiv.org/abs/2505.00127v1)** | 2025-04-30 |  |
 | **[DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition](http://arxiv.org/abs/2504.21801v1)** | 2025-04-30 |  |
-| **[WebThinker: Empowering Large Reasoning Models with Deep Research Capability](http://arxiv.org/abs/2504.21776v1)** | 2025-04-30 |  |
-| **[AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization](http://arxiv.org/abs/2504.21659v1)** | 2025-04-30 |  |
-| **[ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning](http://arxiv.org/abs/2504.21370v1)** | 2025-04-30 | <details><summary>An ap...</summary><p>An appendix will be uploaded soon</p></details> |
-| **[BiasGuard: A Reasoning-enhanced Bias Detection Tool For Large Language Models](http://arxiv.org/abs/2504.21299v1)** | 2025-04-30 |  |
 
