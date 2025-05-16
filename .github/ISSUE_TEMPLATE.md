@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - May 15, 2025
+title: Latest 5 Papers - May 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?](http://arxiv.org/abs/2505.09614v1)** | 2025-05-14 |  |
-| **[Evaluating GPT- and Reasoning-based Large Language Models on Physics Olympiad Problems: Surpassing Human Performance and Implications for Educational Assessment](http://arxiv.org/abs/2505.09438v1)** | 2025-05-14 |  |
-| **[The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners](http://arxiv.org/abs/2505.09396v1)** | 2025-05-14 |  |
-| **[RAG-Enabled Intent Reasoning for Application-Network Interaction](http://arxiv.org/abs/2505.09339v1)** | 2025-05-14 |  |
-| **[Scent of Knowledge: Optimizing Search-Enhanced Reasoning with Information Foraging](http://arxiv.org/abs/2505.09316v1)** | 2025-05-14 | 16 pages |
+| **[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](http://arxiv.org/abs/2505.10557v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
+| **[Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models](http://arxiv.org/abs/2505.10554v1)** | 2025-05-15 | In Progress |
+| **[Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning](http://arxiv.org/abs/2505.10547v1)** | 2025-05-15 | <details><summary>Websi...</summary><p>Website: https://milanganai.github.io/fortress/</p></details> |
+| **[Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models](http://arxiv.org/abs/2505.10543v1)** | 2025-05-15 |  |
+| **[The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think](http://arxiv.org/abs/2505.10185v1)** | 2025-05-15 | Work in progress |
 
