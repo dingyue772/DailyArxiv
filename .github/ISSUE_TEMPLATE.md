@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - May 18, 2025
+title: Latest 5 Papers - May 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generalization in Monitored Markov Decision Processes (Mon-MDPs)](http://arxiv.org/abs/2505.08988v1)** | 2025-05-13 | Under Review |
-| **[InfoPO: On Mutual Information Maximization for Large Language Model Alignment](http://arxiv.org/abs/2505.08507v1)** | 2025-05-13 | NAACL 2025 |
-| **[DanceGRPO: Unleashing GRPO on Visual Generation](http://arxiv.org/abs/2505.07818v1)** | 2025-05-12 | <details><summary>Proje...</summary><p>Project Page: https://dancegrpo.github.io/</p></details> |
-| **[On the Robustness of Reward Models for Language Model Alignment](http://arxiv.org/abs/2505.07271v1)** | 2025-05-12 | ICML 2025 |
-| **[Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning](http://arxiv.org/abs/2505.07263v1)** | 2025-05-12 |  |
+| **[HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages](http://arxiv.org/abs/2505.11475v1)** | 2025-05-16 | 38 pages, 2 figures |
+| **[Is PRM Necessary? Problem-Solving RL Implicitly Induces PRM Capability in LLMs](http://arxiv.org/abs/2505.11227v1)** | 2025-05-16 |  |
+| **[BLEUBERI: BLEU is a surprisingly effective reward for instruction following](http://arxiv.org/abs/2505.11080v1)** | 2025-05-16 | <details><summary>28 pa...</summary><p>28 pages, 11 figures, 15 tables</p></details> |
+| **[ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations](http://arxiv.org/abs/2505.10911v1)** | 2025-05-16 |  |
+| **[A Systematic Analysis of Base Model Choice for Reward Modeling](http://arxiv.org/abs/2505.10775v1)** | 2025-05-16 | <details><summary>19 pa...</summary><p>19 pages, 13 figures, 5 tables</p></details> |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](http://arxiv.org/abs/2505.10557v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 Findings</p></details> |
-| **[Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models](http://arxiv.org/abs/2505.10554v1)** | 2025-05-15 | In Progress |
-| **[Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning](http://arxiv.org/abs/2505.10547v1)** | 2025-05-15 | <details><summary>Websi...</summary><p>Website: https://milanganai.github.io/fortress/</p></details> |
-| **[Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models](http://arxiv.org/abs/2505.10543v1)** | 2025-05-15 |  |
-| **[The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think](http://arxiv.org/abs/2505.10185v1)** | 2025-05-15 | Work in progress |
+| **[SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning](http://arxiv.org/abs/2505.11484v1)** | 2025-05-16 | 14 pages |
+| **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v1)** | 2025-05-16 |  |
+| **[When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs](http://arxiv.org/abs/2505.11423v1)** | 2025-05-16 |  |
+| **[Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](http://arxiv.org/abs/2505.11404v1)** | 2025-05-16 |  |
+| **[Benchmarking Critical Questions Generation: A Challenging Reasoning Task for Large Language Models](http://arxiv.org/abs/2505.11341v1)** | 2025-05-16 |  |
 
