@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - May 20, 2025
+title: Latest 5 Papers - May 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reward Reasoning Model](http://arxiv.org/abs/2505.14674v1)** | 2025-05-20 |  |
+| **[SCOPE: Compress Mathematical Reasoning Steps for Efficient Automated Process Annotation](http://arxiv.org/abs/2505.14419v1)** | 2025-05-20 |  |
+| **[Beyond the First Error: Process Reward Models for Reflective Mathematical Reasoning](http://arxiv.org/abs/2505.14391v1)** | 2025-05-20 |  |
+| **[Think-J: Learning to Think for Generative LLM-as-a-Judge](http://arxiv.org/abs/2505.14268v1)** | 2025-05-20 | 16 pages, 14 figures |
 | **[MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision](http://arxiv.org/abs/2505.13427v1)** | 2025-05-19 |  |
-| **[R3: Robust Rubric-Agnostic Reward Models](http://arxiv.org/abs/2505.13388v1)** | 2025-05-19 | Preprint |
-| **[ExTrans: Multilingual Deep Reasoning Translation via Exemplar-Enhanced Reinforcement Learning](http://arxiv.org/abs/2505.12996v1)** | 2025-05-19 | 12 pages, 2 figures |
-| **[Multi-Level Aware Preference Learning: Enhancing RLHF for Complex Multi-Instruction Tasks](http://arxiv.org/abs/2505.12845v1)** | 2025-05-19 |  |
-| **[Bias Fitting to Mitigate Length Bias of Reward Model in RLHF](http://arxiv.org/abs/2505.12843v1)** | 2025-05-19 | <details><summary>Due t...</summary><p>Due to the word limit for arXiv abstract, the abstract here has been abridged compared to the one in the PDF</p></details> |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](http://arxiv.org/abs/2505.13444v1)** | 2025-05-19 |  |
-| **[Optimizing Anytime Reasoning via Budget Relative Policy Optimization](http://arxiv.org/abs/2505.13438v1)** | 2025-05-19 |  |
-| **[MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision](http://arxiv.org/abs/2505.13427v1)** | 2025-05-19 |  |
-| **[G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning](http://arxiv.org/abs/2505.13426v1)** | 2025-05-19 | <details><summary>21 pa...</summary><p>21 pages, 14 figures, code released at https://github.com/chenllliang/G1</p></details> |
-| **[FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning](http://arxiv.org/abs/2505.13419v1)** | 2025-05-19 | 10 pages, 7 figures |
+| **[Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training](http://arxiv.org/abs/2505.14681v1)** | 2025-05-20 | Work in progress |
+| **[Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning](http://arxiv.org/abs/2505.14677v1)** | 2025-05-20 |  |
+| **[Reward Reasoning Model](http://arxiv.org/abs/2505.14674v1)** | 2025-05-20 |  |
+| **[SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment](http://arxiv.org/abs/2505.14667v1)** | 2025-05-20 | 22 pages |
+| **[General-Reasoner: Advancing LLM Reasoning Across All Domains](http://arxiv.org/abs/2505.14652v1)** | 2025-05-20 |  |
 
