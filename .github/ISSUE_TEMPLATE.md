@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - May 29, 2025
+title: Latest 5 Papers - May 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -18,7 +18,7 @@ labels: documentation
 | --- | --- | --- |
 | **[AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models](http://arxiv.org/abs/2505.22662v1)** | 2025-05-28 |  |
 | **[GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning](http://arxiv.org/abs/2505.22661v1)** | 2025-05-28 | Accepted by ACL 2025 |
-| **[Maximizing Confidence Alone Improves Reasoning](http://arxiv.org/abs/2505.22660v1)** | 2025-05-28 |  |
+| **[Maximizing Confidence Alone Improves Reasoning](http://arxiv.org/abs/2505.22660v2)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://rent-rl.github.io/</p></details> |
 | **[The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason](http://arxiv.org/abs/2505.22653v1)** | 2025-05-28 | Preprint |
 | **[Sherlock: Self-Correcting Reasoning in Vision-Language Models](http://arxiv.org/abs/2505.22651v1)** | 2025-05-28 | 27 pages |
 
