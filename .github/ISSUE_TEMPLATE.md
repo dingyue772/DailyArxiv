@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - May 30, 2025
+title: Latest 5 Papers - May 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason](http://arxiv.org/abs/2505.22653v1)** | 2025-05-28 | Preprint |
-| **[Text2Grad: Reinforcement Learning from Natural Language Feedback](http://arxiv.org/abs/2505.22338v1)** | 2025-05-28 | <details><summary>The c...</summary><p>The code for our method is available at https://github.com/microsoft/Text2Grad</p></details> |
-| **[UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents](http://arxiv.org/abs/2505.21496v1)** | 2025-05-27 | <details><summary>https...</summary><p>https://github.com/Euphoria16/UI-Genie</p></details> |
-| **[Policy Optimized Text-to-Image Pipeline Design](http://arxiv.org/abs/2505.21478v1)** | 2025-05-27 |  |
-| **[Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation](http://arxiv.org/abs/2505.20825v1)** | 2025-05-27 |  |
+| **[Socratic-PRMBench: Benchmarking Process Reward Models with Systematic Reasoning Patterns](http://arxiv.org/abs/2505.23474v1)** | 2025-05-29 |  |
+| **[Discriminative Policy Optimization for Token-Level Reward Models](http://arxiv.org/abs/2505.23363v1)** | 2025-05-29 | ICML 2025 |
+| **[Towards Reward Fairness in RLHF: From a Resource Allocation Perspective](http://arxiv.org/abs/2505.23349v1)** | 2025-05-29 | Accepted to ACL 2025 |
+| **[Proximalized Preference Optimization for Diverse Feedback Types: A Decomposed Perspective on DPO](http://arxiv.org/abs/2505.23316v1)** | 2025-05-29 |  |
+| **[DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes](http://arxiv.org/abs/2505.23179v1)** | 2025-05-29 |  |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models](http://arxiv.org/abs/2505.22662v1)** | 2025-05-28 |  |
-| **[GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning](http://arxiv.org/abs/2505.22661v1)** | 2025-05-28 | Accepted by ACL 2025 |
-| **[Maximizing Confidence Alone Improves Reasoning](http://arxiv.org/abs/2505.22660v2)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://rent-rl.github.io/</p></details> |
-| **[The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason](http://arxiv.org/abs/2505.22653v1)** | 2025-05-28 | Preprint |
-| **[Sherlock: Self-Correcting Reasoning in Vision-Language Models](http://arxiv.org/abs/2505.22651v1)** | 2025-05-28 | 27 pages |
+| **[Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought](http://arxiv.org/abs/2505.23766v1)** | 2025-05-29 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project Page: https://yunzeman.github.io/argus/</p></details> |
+| **[DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning](http://arxiv.org/abs/2505.23754v1)** | 2025-05-29 |  |
+| **[PixelThink: Towards Efficient Chain-of-Pixel Reasoning](http://arxiv.org/abs/2505.23727v1)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project Page: https://PixelThink.github.io</p></details> |
+| **[SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models](http://arxiv.org/abs/2505.23713v1)** | 2025-05-29 | <details><summary>Code ...</summary><p>Code available at https://github.com/xzx34/SocialMaze</p></details> |
+| **[Let's Reason Formally: Natural-Formal Hybrid Reasoning Enhances LLM's Math Capability](http://arxiv.org/abs/2505.23703v1)** | 2025-05-29 |  |
 
