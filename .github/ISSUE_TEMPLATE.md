@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - June 10, 2025
+title: Latest 5 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Preference Learning for AI Alignment: a Causal Perspective](http://arxiv.org/abs/2506.05967v1)** | 2025-06-06 |  |
-| **[Efficient Online RFT with Plug-and-Play LLM Judges: Unlocking State-of-the-Art Performance](http://arxiv.org/abs/2506.05748v1)** | 2025-06-06 |  |
-| **[SynthesizeMe! Inducing Persona-Guided Prompts for Personalized Reward Models in LLMs](http://arxiv.org/abs/2506.05598v1)** | 2025-06-05 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Conference</p></details> |
-| **[Flattery, Fluff, and Fog: Diagnosing and Mitigating Idiosyncratic Biases in Preference Models](http://arxiv.org/abs/2506.05339v2)** | 2025-06-09 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/anirudhb123/preference-model-biases</p></details> |
-| **[A Smooth Sea Never Made a Skilled $\texttt{SAILOR}$: Robust Imitation via Learning to Search](http://arxiv.org/abs/2506.05294v1)** | 2025-06-05 |  |
+| **[Reinforcing Multimodal Understanding and Generation with Dual Self-rewards](http://arxiv.org/abs/2506.07963v1)** | 2025-06-09 |  |
+| **[SELT: Self-Evaluation Tree Search for LLMs with Task Decomposition](http://arxiv.org/abs/2506.07557v1)** | 2025-06-09 | 11 pages, 5 figures |
+| **[Explicit Preference Optimization: No Need for an Implicit Reward Model](http://arxiv.org/abs/2506.07492v1)** | 2025-06-09 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2407.09072</p></details> |
+| **[ProteinZero: Self-Improving Protein Generation via Online Reinforcement Learning](http://arxiv.org/abs/2506.07459v1)** | 2025-06-09 |  |
+| **[Reward Model Interpretability via Optimal and Pessimal Tokens](http://arxiv.org/abs/2506.07326v1)** | 2025-06-08 | <details><summary>Accep...</summary><p>Accepted for publication in Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25), to appear June 2025</p></details> |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzlehunts](http://arxiv.org/abs/2506.06211v1)** | 2025-06-06 |  |
-| **[Table-r1: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models](http://arxiv.org/abs/2506.06137v1)** | 2025-06-06 |  |
-| **[VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning](http://arxiv.org/abs/2506.06097v1)** | 2025-06-06 |  |
-| **[Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router](http://arxiv.org/abs/2506.05901v1)** | 2025-06-06 |  |
-| **[Object Navigation with Structure-Semantic Reasoning-Based Multi-level Map and Multimodal Decision-Making LLM](http://arxiv.org/abs/2506.05896v1)** | 2025-06-06 | 16 pages, 11 figures |
+| **[Play to Generalize: Learning to Reason Through Game Play](http://arxiv.org/abs/2506.08011v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page: https://yunfeixie233.github.io/ViGaL/</p></details> |
+| **[Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction](http://arxiv.org/abs/2506.07976v2)** | 2025-06-10 | <details><summary>Fixed...</summary><p>Fixed typo in Figure 6 and Conclusion</p></details> |
+| **[Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations](http://arxiv.org/abs/2506.07943v1)** | 2025-06-09 |  |
+| **[Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models](http://arxiv.org/abs/2506.07936v1)** | 2025-06-09 |  |
+| **[WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning](http://arxiv.org/abs/2506.07905v1)** | 2025-06-09 |  |
 
