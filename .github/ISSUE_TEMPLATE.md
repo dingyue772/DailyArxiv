@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - June 16, 2025
+title: Latest 5 Papers - June 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PB$^2$: Preference Space Exploration via Population-Based Methods in Preference-Based Reinforcement Learning](http://arxiv.org/abs/2506.13741v1)** | 2025-06-16 |  |
+| **[From Outcomes to Processes: Guiding PRM Learning from ORM for Inference-Time Alignment](http://arxiv.org/abs/2506.12446v1)** | 2025-06-14 |  |
+| **[Theoretical Tensions in RLHF: Reconciling Empirical Success with Inconsistencies in Social Choice Theory](http://arxiv.org/abs/2506.12350v1)** | 2025-06-14 |  |
 | **[TreeRL: LLM Reinforcement Learning with On-Policy Tree Search](http://arxiv.org/abs/2506.11902v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 main conference</p></details> |
-| **[Med-PRM: Medical Reasoning Models with Stepwise, Guideline-verified Process Rewards](http://arxiv.org/abs/2506.11474v1)** | 2025-06-13 |  |
-| **[Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards](http://arxiv.org/abs/2506.11425v1)** | 2025-06-13 |  |
-| **[ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems](http://arxiv.org/abs/2506.10955v1)** | 2025-06-12 | 38 pages, 14 figures |
-| **[EQA-RM: A Generative Embodied Reward Model with Test-time Scaling](http://arxiv.org/abs/2506.10389v1)** | 2025-06-12 | preprint |
+| **[Personalized LLM Decoding via Contrasting Personal Preference](http://arxiv.org/abs/2506.12109v1)** | 2025-06-13 |  |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making](http://arxiv.org/abs/2506.12012v1)** | 2025-06-13 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Under review</p></details> |
-| **[VGR: Visual Grounded Reasoning](http://arxiv.org/abs/2506.11991v1)** | 2025-06-13 | 9 pages, 4 figures |
-| **[Schema-R1: A reasoning training approach for schema linking in Text-to-SQL Task](http://arxiv.org/abs/2506.11986v1)** | 2025-06-13 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, conference</p></details> |
-| **[DART: Distilling Autoregressive Reasoning to Silent Thought](http://arxiv.org/abs/2506.11752v1)** | 2025-06-13 |  |
-| **[MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space](http://arxiv.org/abs/2506.11684v1)** | 2025-06-13 |  |
+| **[AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.13757v1)** | 2025-06-16 | <details><summary>Websi...</summary><p>Website link:https://autovla.github.io/</p></details> |
+| **[ExtendAttack: Attacking Servers of LRMs via Extending Reasoning](http://arxiv.org/abs/2506.13737v1)** | 2025-06-16 |  |
+| **[Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models](http://arxiv.org/abs/2506.13726v1)** | 2025-06-16 | <details><summary>Accep...</summary><p>Accepted to LLMSEC 2025</p></details> |
+| **[TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning](http://arxiv.org/abs/2506.13705v1)** | 2025-06-16 | Preprint |
+| **[Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning](http://arxiv.org/abs/2506.13654v1)** | 2025-06-16 | <details><summary>Proje...</summary><p>Project page: https://egolife-ai.github.io/Ego-R1/</p></details> |
 
