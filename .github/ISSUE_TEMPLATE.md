@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - June 23, 2025
+title: Latest 5 Papers - June 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.16853v1)** | 2025-06-20 | <details><summary>28 pa...</summary><p>28 pages, Under review</p></details> |
-| **[ReasonGRM: Enhancing Generative Reward Models through Large Reasoning Models](http://arxiv.org/abs/2506.16712v1)** | 2025-06-20 |  |
-| **[Robust Reward Modeling via Causal Rubrics](http://arxiv.org/abs/2506.16507v1)** | 2025-06-19 |  |
-| **[Relic: Enhancing Reward Model Generalization for Low-Resource Indic Languages with Few-Shot Examples](http://arxiv.org/abs/2506.16502v1)** | 2025-06-19 |  |
-| **[GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks](http://arxiv.org/abs/2506.16114v1)** | 2025-06-19 |  |
+| **[ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs](http://arxiv.org/abs/2506.18896v1)** | 2025-06-23 | <details><summary>Codes...</summary><p>Codes and Models: https://github.com/Gen-Verse/ReasonFlux</p></details> |
+| **[LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning](http://arxiv.org/abs/2506.18841v1)** | 2025-06-23 |  |
+| **[RDPO: Real Data Preference Optimization for Physics Consistency Video Generation](http://arxiv.org/abs/2506.18655v1)** | 2025-06-23 | 16 pages, 10 figures |
+| **[Shrinking the Generation-Verification Gap with Weak Verifiers](http://arxiv.org/abs/2506.18203v1)** | 2025-06-22 |  |
+| **[Reflective Verbal Reward Design for Pluralistic Alignment](http://arxiv.org/abs/2506.17834v1)** | 2025-06-21 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, accepted to the IJCAI 2025 Human-Centred AI track. Project repository at: https://osf.io/8yxf2/</p></details> |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[No Free Lunch: Rethinking Internal Feedback for LLM Reasoning](http://arxiv.org/abs/2506.17219v1)** | 2025-06-20 |  |
-| **[Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](http://arxiv.org/abs/2506.17218v1)** | 2025-06-20 | <details><summary>Proje...</summary><p>Project page: https://vlm-mirage.github.io/</p></details> |
-| **[BREAD: Branched Rollouts from Expert Anchors Bridge SFT & RL for Reasoning](http://arxiv.org/abs/2506.17211v1)** | 2025-06-20 |  |
-| **[Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models](http://arxiv.org/abs/2506.17114v1)** | 2025-06-20 |  |
-| **[MEXA: Towards General Multimodal Reasoning with Dynamic Multi-Expert Aggregation](http://arxiv.org/abs/2506.17113v1)** | 2025-06-20 | <details><summary>The f...</summary><p>The first two authors contributed equally; Github link: https://github.com/Yui010206/MEXA</p></details> |
+| **[ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs](http://arxiv.org/abs/2506.18896v1)** | 2025-06-23 | <details><summary>Codes...</summary><p>Codes and Models: https://github.com/Gen-Verse/ReasonFlux</p></details> |
+| **[OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization](http://arxiv.org/abs/2506.18880v1)** | 2025-06-23 |  |
+| **[STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning](http://arxiv.org/abs/2506.18831v1)** | 2025-06-23 |  |
+| **[ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation](http://arxiv.org/abs/2506.18810v1)** | 2025-06-23 | <details><summary>Codes...</summary><p>Codes are available at https://github.com/tsa18/ConciseHint</p></details> |
+| **[MedSeg-R: Medical Image Segmentation with Clinical Reasoning](http://arxiv.org/abs/2506.18669v1)** | 2025-06-23 |  |
 
