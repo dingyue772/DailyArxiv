@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - June 24, 2025
+title: Latest 5 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -19,6 +19,6 @@ labels: documentation
 | **[ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs](http://arxiv.org/abs/2506.18896v1)** | 2025-06-23 | <details><summary>Codes...</summary><p>Codes and Models: https://github.com/Gen-Verse/ReasonFlux</p></details> |
 | **[OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization](http://arxiv.org/abs/2506.18880v1)** | 2025-06-23 |  |
 | **[STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning](http://arxiv.org/abs/2506.18831v1)** | 2025-06-23 |  |
-| **[ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation](http://arxiv.org/abs/2506.18810v1)** | 2025-06-23 | <details><summary>Codes...</summary><p>Codes are available at https://github.com/tsa18/ConciseHint</p></details> |
+| **[ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation](http://arxiv.org/abs/2506.18810v2)** | 2025-06-24 | <details><summary>Codes...</summary><p>Codes are available at https://github.com/tsa18/ConciseHint</p></details> |
 | **[MedSeg-R: Medical Image Segmentation with Clinical Reasoning](http://arxiv.org/abs/2506.18669v1)** | 2025-06-23 |  |
 
