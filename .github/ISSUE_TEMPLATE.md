@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - June 25, 2025
+title: Latest 5 Papers - June 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Off-Policy Evaluation and Learning for the Future under Non-Stationarity](http://arxiv.org/abs/2506.20417v1)** | 2025-06-25 |  |
+| **[Ctrl-Z Sampling: Diffusion Sampling with Controlled Random Zigzag Explorations](http://arxiv.org/abs/2506.20294v1)** | 2025-06-25 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 2 tables</p></details> |
+| **[Multi-Preference Lambda-weighted Listwise DPO for Dynamic Preference Alignment](http://arxiv.org/abs/2506.19780v1)** | 2025-06-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, appendix included. To appear in Proceedings of AAAI 2026. Code: https://github.com/yuhui15/Multi-Preference-Lambda-weighted-DPO</p></details> |
+| **[Inference-Time Reward Hacking in Large Language Models](http://arxiv.org/abs/2506.19248v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted to ICML 2025 Workshop on Models of Human Feedback for AI Alignment</p></details> |
 | **[ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs](http://arxiv.org/abs/2506.18896v1)** | 2025-06-23 | <details><summary>Codes...</summary><p>Codes and Models: https://github.com/Gen-Verse/ReasonFlux</p></details> |
-| **[LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning](http://arxiv.org/abs/2506.18841v1)** | 2025-06-23 |  |
-| **[RDPO: Real Data Preference Optimization for Physics Consistency Video Generation](http://arxiv.org/abs/2506.18655v1)** | 2025-06-23 | 16 pages, 10 figures |
-| **[Shrinking the Generation-Verification Gap with Weak Verifiers](http://arxiv.org/abs/2506.18203v1)** | 2025-06-22 |  |
-| **[Reflective Verbal Reward Design for Pluralistic Alignment](http://arxiv.org/abs/2506.17834v1)** | 2025-06-21 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, accepted to the IJCAI 2025 Human-Centred AI track. Project repository at: https://osf.io/8yxf2/</p></details> |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs](http://arxiv.org/abs/2506.18896v1)** | 2025-06-23 | <details><summary>Codes...</summary><p>Codes and Models: https://github.com/Gen-Verse/ReasonFlux</p></details> |
-| **[OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization](http://arxiv.org/abs/2506.18880v1)** | 2025-06-23 |  |
-| **[STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning](http://arxiv.org/abs/2506.18831v1)** | 2025-06-23 |  |
-| **[ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints during Generation](http://arxiv.org/abs/2506.18810v2)** | 2025-06-24 | <details><summary>Codes...</summary><p>Codes are available at https://github.com/tsa18/ConciseHint</p></details> |
-| **[MedSeg-R: Medical Image Segmentation with Clinical Reasoning](http://arxiv.org/abs/2506.18669v1)** | 2025-06-23 |  |
+| **[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](http://arxiv.org/abs/2506.20664v1)** | 2025-06-25 | 41 pages, 19 figures |
+| **[Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios](http://arxiv.org/abs/2506.20531v1)** | 2025-06-25 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, under-review conference</p></details> |
+| **[An Agentic System for Rare Disease Diagnosis with Traceable Reasoning](http://arxiv.org/abs/2506.20430v1)** | 2025-06-25 |  |
+| **[Tabular Feature Discovery With Reasoning Type Exploration](http://arxiv.org/abs/2506.20357v1)** | 2025-06-25 |  |
+| **[Enhancing Large Language Models through Structured Reasoning](http://arxiv.org/abs/2506.20241v1)** | 2025-06-25 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 
