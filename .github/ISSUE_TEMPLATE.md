@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - June 30, 2025
+title: Latest 5 Papers - July 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Reward Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalist Reward Models: Found Inside Large Language Models](http://arxiv.org/abs/2506.23235v1)** | 2025-06-29 |  |
+| **[Boosting LLM's Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning](http://arxiv.org/abs/2506.23056v1)** | 2025-06-29 | ACL 2025 Main |
+| **[Listener-Rewarded Thinking in VLMs for Image Preferences](http://arxiv.org/abs/2506.22832v1)** | 2025-06-28 |  |
 | **[Lost at the Beginning of Reasoning](http://arxiv.org/abs/2506.22058v1)** | 2025-06-27 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 2 tables</p></details> |
 | **[TROFI: Trajectory-Ranked Offline Inverse Reinforcement Learning](http://arxiv.org/abs/2506.22008v1)** | 2025-06-27 | <details><summary>Publi...</summary><p>Published at Reinforcement Learning and Video Games Workshop at RLC 2025</p></details> |
-| **[PrefPaint: Enhancing Image Inpainting through Expert Human Feedback](http://arxiv.org/abs/2506.21834v1)** | 2025-06-27 |  |
-| **[SEEA-R1: Tree-Structured Reinforcement Fine-Tuning for Self-Evolving Embodied Agents](http://arxiv.org/abs/2506.21669v1)** | 2025-06-26 |  |
-| **[Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents](http://arxiv.org/abs/2506.21252v1)** | 2025-06-26 | ACL 2025 Main |
 
 ## Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MiCo: Multi-image Contrast for Reinforcement Visual Reasoning](http://arxiv.org/abs/2506.22434v1)** | 2025-06-27 |  |
-| **[EFRame: Deeper Reasoning via Exploration-Filtering-Replay Reinforcement Learning Framework](http://arxiv.org/abs/2506.22200v1)** | 2025-06-27 |  |
-| **[Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](http://arxiv.org/abs/2506.22146v1)** | 2025-06-27 |  |
-| **[Reasoning in machine vision: learning to think fast and slow](http://arxiv.org/abs/2506.22075v1)** | 2025-06-27 |  |
-| **[Lost at the Beginning of Reasoning](http://arxiv.org/abs/2506.22058v1)** | 2025-06-27 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 2 tables</p></details> |
+| **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2506.24119v1)** | 2025-06-30 | Work in Progress |
+| **[Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](http://arxiv.org/abs/2506.23918v1)** | 2025-06-30 | <details><summary>We ma...</summary><p>We maintain a real-time GitHub repository tracking progress at: https://github.com/zhaochen0110/Awesome_Think_With_Images</p></details> |
+| **[Advancing Multi-Step Mathematical Reasoning in Large Language Models through Multi-Layered Self-Reflection with Auto-Prompting](http://arxiv.org/abs/2506.23888v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted for publication in: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2025). Research Track</p></details> |
+| **[Garbage In, Reasoning Out? Why Benchmark Scores are Unreliable and What to Do About It](http://arxiv.org/abs/2506.23864v1)** | 2025-06-30 |  |
+| **[Do Thinking Tokens Help or Trap? Towards More Efficient Large Reasoning Model](http://arxiv.org/abs/2506.23840v1)** | 2025-06-30 | 13 pages, 5 figures |
 
