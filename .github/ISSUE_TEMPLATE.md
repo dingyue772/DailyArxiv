@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - July 05, 2025
+title: Latest 5 Papers - July 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -17,4 +17,8 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason](http://arxiv.org/abs/2507.02841v1)** | 2025-07-03 |  |
+| **[ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning](http://arxiv.org/abs/2507.02834v1)** | 2025-07-03 |  |
+| **[Multimodal Mathematical Reasoning with Diverse Solving Perspective](http://arxiv.org/abs/2507.02804v1)** | 2025-07-03 | 8 pages |
+| **[Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](http://arxiv.org/abs/2507.02799v1)** | 2025-07-03 |  |
+| **[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](http://arxiv.org/abs/2507.02773v1)** | 2025-07-03 |  |
 
