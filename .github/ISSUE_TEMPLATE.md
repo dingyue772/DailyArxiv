@@ -1,24 +1,24 @@
 ---
-title: Latest 5 Papers - July 07, 2025
+title: Latest 5 Papers - July 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
 
-## Reward Model
+## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Listwise Preference Alignment Optimization for Tail Item Recommendation](http://arxiv.org/abs/2507.02255v1)** | 2025-07-03 |  |
-| **[Test-Time Scaling with Reflective Generative Model](http://arxiv.org/abs/2507.01951v1)** | 2025-07-02 |  |
-| **[Emotionally Intelligent Task-oriented Dialogue Systems: Architecture, Representation, and Optimisation](http://arxiv.org/abs/2507.01594v1)** | 2025-07-02 | 19 pages, 6 figures |
-| **[Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning](http://arxiv.org/abs/2507.01551v2)** | 2025-07-03 |  |
-| **[Activation Reward Models for Few-Shot Model Alignment](http://arxiv.org/abs/2507.01368v1)** | 2025-07-02 |  |
+| **[Using multi-agent architecture to mitigate the risk of LLM hallucinations](http://arxiv.org/abs/2507.01446v1)** | 2025-07-02 |  |
+| **[ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models](http://arxiv.org/abs/2507.00898v1)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025. Project page: https://zifuwan.github.io/ONLY/</p></details> |
+| **[TUM-MiKaNi at SemEval-2025 Task 3: Towards Multilingual and Knowledge-Aware Non-factual Hallucination Identification](http://arxiv.org/abs/2507.00579v1)** | 2025-07-01 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, SemEval-2025 Task 3, ACL</p></details> |
+| **[CAI: Caption-Sensitive Attention Intervention for Mitigating Object Hallucination in Large Vision-Language Models](http://arxiv.org/abs/2506.23590v1)** | 2025-06-30 |  |
+| **[ReCo: Reminder Composition Mitigates Hallucinations in Vision-Language Models](http://arxiv.org/abs/2506.22636v1)** | 2025-06-27 |  |
 
-## Reasoning
+## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason](http://arxiv.org/abs/2507.02841v1)** | 2025-07-03 |  |
-| **[ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning](http://arxiv.org/abs/2507.02834v1)** | 2025-07-03 |  |
-| **[Multimodal Mathematical Reasoning with Diverse Solving Perspective](http://arxiv.org/abs/2507.02804v1)** | 2025-07-03 | 8 pages |
-| **[Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](http://arxiv.org/abs/2507.02799v1)** | 2025-07-03 |  |
-| **[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](http://arxiv.org/abs/2507.02773v1)** | 2025-07-03 |  |
+| **[MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints](http://arxiv.org/abs/2507.02438v1)** | 2025-07-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[AI Meets Maritime Training: Precision Analytics for Enhanced Safety and Performance](http://arxiv.org/abs/2507.01274v1)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted and Presented at 11th International Maritime Science Conference</p></details> |
+| **[LLM-based Realistic Safety-Critical Driving Video Generation](http://arxiv.org/abs/2507.01264v1)** | 2025-07-02 |  |
+| **[Enhancing LLM Agent Safety via Causal Influence Prompting](http://arxiv.org/abs/2507.00979v1)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 Findings, Source code: https://github.com/HahmDY/causal_influence_prompting.git</p></details> |
+| **[Reasoning as an Adaptive Defense for Safety](http://arxiv.org/abs/2507.00971v1)** | 2025-07-01 | <details><summary>42 pa...</summary><p>42 pages, 11 Figures, 7 Tables</p></details> |
 
