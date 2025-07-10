@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - July 09, 2025
+title: Latest 5 Papers - July 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-modal Representations for Fine-grained Multi-label Critical View of Safety Recognition](http://arxiv.org/abs/2507.05007v1)** | 2025-07-07 |  |
-| **[Re-Emergent Misalignment: How Narrow Fine-Tuning Erodes Safety Alignment in LLMs](http://arxiv.org/abs/2507.03662v1)** | 2025-07-04 |  |
-| **[Enhancing Uncertainty Quantification for Runtime Safety Assurance Using Causal Risk Analysis and Operational Design Domain](http://arxiv.org/abs/2507.03515v1)** | 2025-07-04 |  |
-| **[MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints](http://arxiv.org/abs/2507.02438v1)** | 2025-07-03 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[AI Meets Maritime Training: Precision Analytics for Enhanced Safety and Performance](http://arxiv.org/abs/2507.01274v1)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted and Presented at 11th International Maritime Science Conference</p></details> |
+| **[Integrating Perceptions: A Human-Centered Physical Safety Model for Human-Robot Interaction](http://arxiv.org/abs/2507.06700v1)** | 2025-07-09 | <details><summary>Accep...</summary><p>Accepted to IEEE RO-MAN 2025 Conference</p></details> |
+| **[What Demands Attention in Urban Street Scenes? From Scene Understanding towards Road Safety: A Survey of Vision-driven Datasets and Studies](http://arxiv.org/abs/2507.06513v1)** | 2025-07-09 | <details><summary>45 pa...</summary><p>45 pages, 52 figures, 2 large tables (divided into 5), 73 datatsets, 35 tasks</p></details> |
+| **[Development and Real-World Application of Commercial Motor Vehicle Safety Enforcement Dashboards](http://arxiv.org/abs/2507.06351v1)** | 2025-07-08 | <details><summary>Prese...</summary><p>Presented at Transportation Research Board Annual Meeting 2025. Presentation number: TRBAM-25-04350</p></details> |
+| **[OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety](http://arxiv.org/abs/2507.06134v1)** | 2025-07-08 | 19 pages, 10 figures |
+| **[RabakBench: Scaling Human Annotations to Construct Localized Multilingual Safety Benchmarks for Low-Resource Languages](http://arxiv.org/abs/2507.05980v1)** | 2025-07-08 |  |
 
