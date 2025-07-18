@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - July 17, 2025
+title: Latest 5 Papers - July 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridging Boundaries: How to Foster Effective Research Collaborations Across Affiliations in the Field of Trust and Safety](http://arxiv.org/abs/2507.13008v1)** | 2025-07-17 | 19 pages, no figures |
+| **[Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework](http://arxiv.org/abs/2507.12872v1)** | 2025-07-17 | <details><summary>24 pa...</summary><p>24 pages (14 pages main text, 4 pages bibliography, 6 pages appendices), 3 figures</p></details> |
 | **[Probabilistic Safety Verification for an Autonomous Ground Vehicle: A Situation Coverage Grid Approach](http://arxiv.org/abs/2507.12158v1)** | 2025-07-16 | 6 pages, 6 figures |
 | **[Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](http://arxiv.org/abs/2507.11473v1)** | 2025-07-15 |  |
 | **[The downgrading semantics of memory safety](http://arxiv.org/abs/2507.11282v1)** | 2025-07-15 | 56 pages, 27 figures |
-| **[The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs](http://arxiv.org/abs/2507.11097v1)** | 2025-07-15 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, work in progress</p></details> |
-| **[Data-Driven Safety Certificates of Infinite Networks with Unknown Models and Interconnection Topologies](http://arxiv.org/abs/2507.10979v1)** | 2025-07-15 |  |
 
