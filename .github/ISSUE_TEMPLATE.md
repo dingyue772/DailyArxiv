@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - July 20, 2025
+title: Latest 5 Papers - July 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safety Certification in the Latent space using Control Barrier Functions and World Models](http://arxiv.org/abs/2507.13871v1)** | 2025-07-18 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. arXiv admin note: text overlap with arXiv:2409.12616</p></details> |
+| **[Food safety trends across Europe: insights from the 392-million-entry CompreHensive European Food Safety (CHEFS) database](http://arxiv.org/abs/2507.13802v1)** | 2025-07-18 |  |
+| **[BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety](http://arxiv.org/abs/2507.13625v1)** | 2025-07-18 | 19 pages, 13 figures |
+| **[Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers](http://arxiv.org/abs/2507.13474v1)** | 2025-07-17 |  |
 | **[Bridging Boundaries: How to Foster Effective Research Collaborations Across Affiliations in the Field of Trust and Safety](http://arxiv.org/abs/2507.13008v1)** | 2025-07-17 | 19 pages, no figures |
-| **[Manipulation Attacks by Misaligned AI: Risk Analysis and Safety Case Framework](http://arxiv.org/abs/2507.12872v1)** | 2025-07-17 | <details><summary>24 pa...</summary><p>24 pages (14 pages main text, 4 pages bibliography, 6 pages appendices), 3 figures</p></details> |
-| **[Probabilistic Safety Verification for an Autonomous Ground Vehicle: A Situation Coverage Grid Approach](http://arxiv.org/abs/2507.12158v1)** | 2025-07-16 | 6 pages, 6 figures |
-| **[Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](http://arxiv.org/abs/2507.11473v1)** | 2025-07-15 |  |
-| **[The downgrading semantics of memory safety](http://arxiv.org/abs/2507.11282v1)** | 2025-07-15 | 56 pages, 27 figures |
 
