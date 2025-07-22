@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - July 21, 2025
+title: Latest 5 Papers - July 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Extracting Visual Facts from Intermediate Layers for Mitigating Hallucinations in Multimodal Large Language Models](http://arxiv.org/abs/2507.15652v1)** | 2025-07-21 |  |
+| **[Hallucination Score: Towards Mitigating Hallucinations in Generative Image Super-Resolution](http://arxiv.org/abs/2507.14367v1)** | 2025-07-18 | <details><summary>12 pa...</summary><p>12 pages, 17 figures and 7 tables</p></details> |
+| **[CCL-XCoT: An Efficient Cross-Lingual Knowledge Transfer Method for Mitigating Hallucination Generation](http://arxiv.org/abs/2507.14239v1)** | 2025-07-17 |  |
 | **[Mitigating Object Hallucinations via Sentence-Level Early Intervention](http://arxiv.org/abs/2507.12455v1)** | 2025-07-16 |  |
 | **[RODS: Robust Optimization Inspired Diffusion Sampling for Detecting and Reducing Hallucination in Generative Models](http://arxiv.org/abs/2507.12201v1)** | 2025-07-16 |  |
-| **[MCA-LLaVA: Manhattan Causal Attention for Reducing Hallucination in Large Vision-Language Models](http://arxiv.org/abs/2507.09184v1)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted in ACM MM 2025</p></details> |
-| **[Beyond vividness: Content analysis of induced hallucinations reveals the hidden structure of individual differences in visual imagery](http://arxiv.org/abs/2507.09011v1)** | 2025-07-11 |  |
-| **[AutoRAG-LoRA: Hallucination-Triggered Knowledge Retuning via Lightweight Adapters](http://arxiv.org/abs/2507.10586v1)** | 2025-07-11 |  |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safety Controller Synthesis for Stochastic Networked Systems under Communication Constraints](http://arxiv.org/abs/2507.15031v1)** | 2025-07-20 |  |
+| **[AlphaAlign: Incentivizing Safety Alignment with Extremely Simplified Reinforcement Learning](http://arxiv.org/abs/2507.14987v1)** | 2025-07-20 |  |
+| **[Hierarchical Multi-Agent Reinforcement Learning with Control Barrier Functions for Safety-Critical Autonomous Systems](http://arxiv.org/abs/2507.14850v1)** | 2025-07-20 |  |
+| **[Automated Safety Evaluations Across 20 Large Language Models: The Aymara LLM Risk and Responsibility Matrix](http://arxiv.org/abs/2507.14719v1)** | 2025-07-19 |  |
 | **[Safety Certification in the Latent space using Control Barrier Functions and World Models](http://arxiv.org/abs/2507.13871v1)** | 2025-07-18 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. arXiv admin note: text overlap with arXiv:2409.12616</p></details> |
-| **[Food safety trends across Europe: insights from the 392-million-entry CompreHensive European Food Safety (CHEFS) database](http://arxiv.org/abs/2507.13802v1)** | 2025-07-18 |  |
-| **[BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety](http://arxiv.org/abs/2507.13625v1)** | 2025-07-18 | 19 pages, 13 figures |
-| **[Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers](http://arxiv.org/abs/2507.13474v1)** | 2025-07-17 |  |
-| **[Bridging Boundaries: How to Foster Effective Research Collaborations Across Affiliations in the Field of Trust and Safety](http://arxiv.org/abs/2507.13008v1)** | 2025-07-17 | 19 pages, no figures |
 
