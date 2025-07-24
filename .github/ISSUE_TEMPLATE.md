@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - July 23, 2025
+title: Latest 5 Papers - July 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safety Assurance for Quadrotor Kinodynamic Motion Planning](http://arxiv.org/abs/2507.17679v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted for publication at 2025 Modeling, Estimation and Control Conference (MECC)</p></details> |
+| **[HySafe-AI: Hybrid Safety Architectural Analysis Framework for AI Systems: A Case Study](http://arxiv.org/abs/2507.17118v1)** | 2025-07-23 | 7 pages |
+| **[LoRA is All You Need for Safety Alignment of Reasoning LLMs](http://arxiv.org/abs/2507.17075v1)** | 2025-07-22 |  |
 | **[Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](http://arxiv.org/abs/2507.16302v1)** | 2025-07-22 | <details><summary>Prepr...</summary><p>Preprint version. Under review</p></details> |
 | **["Just a strange pic": Evaluating 'safety' in GenAI Image safety annotation tasks from diverse annotators' perspectives](http://arxiv.org/abs/2507.16033v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted to AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society 2025 (AIES 2025)</p></details> |
-| **[Safety Controller Synthesis for Stochastic Networked Systems under Communication Constraints](http://arxiv.org/abs/2507.15031v1)** | 2025-07-20 |  |
-| **[AlphaAlign: Incentivizing Safety Alignment with Extremely Simplified Reinforcement Learning](http://arxiv.org/abs/2507.14987v1)** | 2025-07-20 |  |
-| **[Hierarchical Multi-Agent Reinforcement Learning with Control Barrier Functions for Safety-Critical Autonomous Systems](http://arxiv.org/abs/2507.14850v1)** | 2025-07-20 |  |
 
