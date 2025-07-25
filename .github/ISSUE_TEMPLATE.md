@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - July 24, 2025
+title: Latest 5 Papers - July 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment](http://arxiv.org/abs/2507.18631v1)** | 2025-07-24 |  |
+| **[SafeWork-R1: Coevolving Safety and Intelligence under the AI-45$^{\circ}$ Law](http://arxiv.org/abs/2507.18576v1)** | 2025-07-24 | <details><summary>47 pa...</summary><p>47 pages, 18 figures, authors are listed in alphabetical order by their last names</p></details> |
+| **[Actively evaluating and learning the distinctions that matter: Vaccine safety signal detection from emergency triage notes](http://arxiv.org/abs/2507.18123v1)** | 2025-07-24 | 14 pages |
 | **[Safety Assurance for Quadrotor Kinodynamic Motion Planning](http://arxiv.org/abs/2507.17679v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted for publication at 2025 Modeling, Estimation and Control Conference (MECC)</p></details> |
 | **[HySafe-AI: Hybrid Safety Architectural Analysis Framework for AI Systems: A Case Study](http://arxiv.org/abs/2507.17118v1)** | 2025-07-23 | 7 pages |
-| **[LoRA is All You Need for Safety Alignment of Reasoning LLMs](http://arxiv.org/abs/2507.17075v1)** | 2025-07-22 |  |
-| **[Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning](http://arxiv.org/abs/2507.16302v1)** | 2025-07-22 | <details><summary>Prepr...</summary><p>Preprint version. Under review</p></details> |
-| **["Just a strange pic": Evaluating 'safety' in GenAI Image safety annotation tasks from diverse annotators' perspectives](http://arxiv.org/abs/2507.16033v1)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted to AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society 2025 (AIES 2025)</p></details> |
 
