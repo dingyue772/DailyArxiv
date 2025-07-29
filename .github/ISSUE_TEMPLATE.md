@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - July 28, 2025
+title: Latest 5 Papers - July 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VisHall3D: Monocular Semantic Scene Completion from Reconstructing the Visible Regions to Hallucinating the Invisible Regions](http://arxiv.org/abs/2507.19188v1)** | 2025-07-25 |  |
-| **[LISA: A Layer-wise Integration and Suppression Approach for Hallucination Mitigation in Multimodal Large Language Models](http://arxiv.org/abs/2507.19110v1)** | 2025-07-25 |  |
-| **[A Survey of Multimodal Hallucination Evaluation and Detection](http://arxiv.org/abs/2507.19024v1)** | 2025-07-25 | 33 pages, 5 figures |
-| **[ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs](http://arxiv.org/abs/2507.16488v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main Conference)</p></details> |
-| **[Extracting Visual Facts from Intermediate Layers for Mitigating Hallucinations in Multimodal Large Language Models](http://arxiv.org/abs/2507.15652v1)** | 2025-07-21 |  |
+| **[MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them](http://arxiv.org/abs/2507.21017v1)** | 2025-07-28 | <details><summary>Code ...</summary><p>Code and data: https://github.com/sunblaze-ucb/mirage-bench.git</p></details> |
+| **[FRED: Financial Retrieval-Enhanced Detection and Editing of Hallucinations in Language Models](http://arxiv.org/abs/2507.20930v1)** | 2025-07-28 |  |
+| **[First Hallucination Tokens Are Different from Conditional Ones](http://arxiv.org/abs/2507.20836v1)** | 2025-07-28 | <details><summary>4.5 p...</summary><p>4.5 pages, 3 figures, Dataset, Knowledge Paper, Hallucination, Trustworthiness</p></details> |
+| **[Enhancing Hallucination Detection via Future Context](http://arxiv.org/abs/2507.20546v1)** | 2025-07-28 |  |
+| **[Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG](http://arxiv.org/abs/2507.20136v1)** | 2025-07-27 | <details><summary>KDD C...</summary><p>KDD Cup 2025 Meta CRAG-MM Challenge</p></details> |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation](http://arxiv.org/abs/2507.19227v1)** | 2025-07-25 |  |
-| **[Layer-Aware Representation Filtering: Purifying Finetuning Data to Preserve LLM Safety Alignment](http://arxiv.org/abs/2507.18631v2)** | 2025-07-25 |  |
-| **[SafeWork-R1: Coevolving Safety and Intelligence under the AI-45$^{\circ}$ Law](http://arxiv.org/abs/2507.18576v1)** | 2025-07-24 | <details><summary>47 pa...</summary><p>47 pages, 18 figures, authors are listed in alphabetical order by their last names</p></details> |
-| **[Actively evaluating and learning the distinctions that matter: Vaccine safety signal detection from emergency triage notes](http://arxiv.org/abs/2507.18123v1)** | 2025-07-24 | 14 pages |
-| **[Safety Assurance for Quadrotor Kinodynamic Motion Planning](http://arxiv.org/abs/2507.17679v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted for publication at 2025 Modeling, Estimation and Control Conference (MECC)</p></details> |
+| **[Security Tensors as a Cross-Modal Bridge: Extending Text-Aligned Safety to Vision in LVLM](http://arxiv.org/abs/2507.20994v1)** | 2025-07-28 | <details><summary>Codes...</summary><p>Codes and data are available at https://github.com/listen0425/Security-Tensors</p></details> |
+| **[Core Safety Values for Provably Corrigible Agents](http://arxiv.org/abs/2507.20964v1)** | 2025-07-28 | 14 pages |
+| **[What's Really Different with AI? -- A Behavior-based Perspective on System Safety for Automated Driving Systems](http://arxiv.org/abs/2507.20685v1)** | 2025-07-28 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table, to be published in 2025 IEEE International Automated Vehicle Validation Conference (IAVVC)</p></details> |
+| **[HJB-based online safety-embedded critic learning for uncertain systems with self-triggered mechanism](http://arxiv.org/abs/2507.20545v1)** | 2025-07-28 |  |
+| **[The Blessing and Curse of Dimensionality in Safety Alignment](http://arxiv.org/abs/2507.20333v1)** | 2025-07-27 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2025</p></details> |
 
