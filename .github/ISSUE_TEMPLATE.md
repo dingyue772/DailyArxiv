@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - August 01, 2025
+title: Latest 5 Papers - August 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
