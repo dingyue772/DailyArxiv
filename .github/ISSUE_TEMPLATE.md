@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - August 17, 2025
+title: Latest 5 Papers - August 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hallucination in LLM-Based Code Generation: An Automotive Case Study](http://arxiv.org/abs/2508.11257v1)** | 2025-08-15 |  |
 | **[MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs](http://arxiv.org/abs/2508.10264v1)** | 2025-08-14 |  |
 | **[Prompt-Response Semantic Divergence Metrics for Faithfulness Hallucination and Misalignment Detection in Large Language Models](http://arxiv.org/abs/2508.10192v1)** | 2025-08-13 | 24 pages, 3 figures |
 | **[SHALE: A Scalable Benchmark for Fine-grained Hallucination Evaluation in LVLMs](http://arxiv.org/abs/2508.09584v2)** | 2025-08-14 |  |
 | **[Hallucination vs interpretation: rethinking accuracy and precision in AI-assisted data extraction for knowledge synthesis](http://arxiv.org/abs/2508.09458v2)** | 2025-08-14 |  |
-| **[Hallucinations in Code Change to Natural Language Generation: Prevalence and Evaluation of Detection Metrics](http://arxiv.org/abs/2508.08661v1)** | 2025-08-12 | <details><summary>8 mai...</summary><p>8 main pages, 5 figures</p></details> |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Online Safety under Multiple Constraints and Input Bounds using gatekeeper: Theory and Applications](http://arxiv.org/abs/2508.09963v1)** | 2025-08-13 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted for publication in IEEE L-CSS 2025</p></details> |
-| **[The PacifAIst Benchmark:Would an Artificial Intelligence Choose to Sacrifice Itself for Human Safety?](http://arxiv.org/abs/2508.09762v1)** | 2025-08-13 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 tables</p></details> |
-| **[From Formal Methods to Data-Driven Safety Certificates of Unknown Large-Scale Networks](http://arxiv.org/abs/2508.09520v1)** | 2025-08-13 |  |
-| **[NeuronTune: Fine-Grained Neuron Modulation for Balanced Safety-Utility Alignment in LLMs](http://arxiv.org/abs/2508.09473v1)** | 2025-08-13 |  |
-| **[How Safe Will I Be Given What I Saw? Calibrated Prediction of Safety Chances for Image-Controlled Autonomy](http://arxiv.org/abs/2508.09346v1)** | 2025-08-12 |  |
+| **[Optimal CO2 storage management considering safety constraints in multi-stakeholder multi-site CCS projects: a game theoretic perspective](http://arxiv.org/abs/2508.11618v1)** | 2025-08-15 | 38 pages, 16 figures |
+| **[SafeConstellations: Steering LLM Safety to Reduce Over-Refusals Through Task-Specific Trajectory](http://arxiv.org/abs/2508.11290v1)** | 2025-08-15 | Preprint |
+| **[ORFuzz: Fuzzing the "Other Side" of LLM Safety -- Testing Over-Refusal](http://arxiv.org/abs/2508.11222v1)** | 2025-08-15 |  |
+| **[Geometry-Aware Predictive Safety Filters on Humanoids: From Poisson Safety Functions to CBF Constrained MPC](http://arxiv.org/abs/2508.11129v1)** | 2025-08-15 | <details><summary>2025 ...</summary><p>2025 IEEE-RAS 24th International Conference on Humanoid Robots</p></details> |
+| **[Families' Vision of Generative AI Agents for Household Safety Against Digital and Physical Threats](http://arxiv.org/abs/2508.11030v1)** | 2025-08-14 |  |
 
