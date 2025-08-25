@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - August 24, 2025
+title: Latest 5 Papers - August 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SDGO: Self-Discrimination-Guided Optimization for Consistent Safety in Large Language Models](http://arxiv.org/abs/2508.15648v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025, 15 pages, 4 figures, 6 tables</p></details> |
-| **[A Dynamical Systems Framework for Reinforcement Learning Safety and Robustness Verification](http://arxiv.org/abs/2508.15588v1)** | 2025-08-21 |  |
-| **[SafetyFlow: An Agent-Flow System for Automated LLM Safety Benchmarking](http://arxiv.org/abs/2508.15526v1)** | 2025-08-21 | <details><summary>Code ...</summary><p>Code and dataset are available at https://github.com/yangyangyang127/SafetyFlow</p></details> |
-| **[Safety-Critical Learning for Long-Tail Events: The TUM Traffic Accident Dataset](http://arxiv.org/abs/2508.14567v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted for ICRA 40 Year Anniversary (ICRA40)</p></details> |
-| **[Adversarial Generation and Collaborative Evolution of Safety-Critical Scenarios for Autonomous Vehicles](http://arxiv.org/abs/2508.14527v1)** | 2025-08-20 |  |
+| **[SafeSpace: An Integrated Web Application for Digital Safety and Emotional Well-being](http://arxiv.org/abs/2508.16488v1)** | 2025-08-22 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Preprint submitted to arXiv</p></details> |
+| **[Integrated Noise and Safety Management in UAM via A Unified Reinforcement Learning Framework](http://arxiv.org/abs/2508.16440v1)** | 2025-08-22 |  |
+| **[LLMSymGuard: A Symbolic Safety Guardrail Framework Leveraging Interpretable Jailbreak Concepts](http://arxiv.org/abs/2508.16325v1)** | 2025-08-22 |  |
+| **[MedOmni-45°: A Safety-Performance Benchmark for Reasoning-Oriented LLMs in Medicine](http://arxiv.org/abs/2508.16213v1)** | 2025-08-22 | 9 pages |
+| **[Advancing rail safety: An onboard measurement system of rolling stock wheel flange wear based on dynamic machine learning algorithms](http://arxiv.org/abs/2508.15963v1)** | 2025-08-21 | <details><summary>Journ...</summary><p>Journal article published in Transportation Research Record: The Journal of Transportation Research Board</p></details> |
 
