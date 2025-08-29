@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - August 28, 2025
+title: Latest 5 Papers - August 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mitigating Hallucinations in Multimodal LLMs via Object-aware Preference Optimization](http://arxiv.org/abs/2508.20181v1)** | 2025-08-27 | BMVC 2025 |
+| **[GLSim: Detecting Object Hallucinations in LVLMs via Global-Local Similarity](http://arxiv.org/abs/2508.19972v1)** | 2025-08-27 |  |
+| **[Hallucinating with AI: AI Psychosis as Distributed Delusions](http://arxiv.org/abs/2508.19588v1)** | 2025-08-27 |  |
+| **[Grounding the Ungrounded: A Spectral-Graph Framework for Quantifying Hallucinations in multimodal LLMs](http://arxiv.org/abs/2508.19366v1)** | 2025-08-26 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 1 table</p></details> |
 | **[Principled Detection of Hallucinations in Large Language Models via Multiple Testing](http://arxiv.org/abs/2508.18473v2)** | 2025-08-27 | 16 pages |
-| **[Being Kind Isn't Always Being Safe: Diagnosing Affective Hallucination in LLMs](http://arxiv.org/abs/2508.16921v1)** | 2025-08-23 | 31 pages |
-| **[QueryBandits for Hallucination Mitigation: Exploiting Semantic Features for No-Regret Rewriting](http://arxiv.org/abs/2508.16697v1)** | 2025-08-22 |  |
-| **[Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets](http://arxiv.org/abs/2508.15442v2)** | 2025-08-24 |  |
-| **[Semantic Energy: Detecting LLM Hallucination Beyond Entropy](http://arxiv.org/abs/2508.14496v2)** | 2025-08-27 |  |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PRISM: Robust VLM Alignment with Principled Reasoning for Integrated Safety in Multimodality](http://arxiv.org/abs/2508.18649v1)** | 2025-08-26 |  |
-| **[Speculative Safety-Aware Decoding](http://arxiv.org/abs/2508.17739v1)** | 2025-08-25 | <details><summary>EMNLP...</summary><p>EMNLP'2025 main conference; more experiments will be added to the coming camera-ready version</p></details> |
-| **[Persuasion Dynamics in LLMs: Investigating Robustness and Adaptability in Knowledge and Safety with DuET-PD](http://arxiv.org/abs/2508.17450v1)** | 2025-08-24 | <details><summary>To ap...</summary><p>To appear at EMNLP 2025</p></details> |
-| **[Safety Under State Uncertainty: Robustifying Control Barrier Functions](http://arxiv.org/abs/2508.17226v1)** | 2025-08-24 |  |
-| **[SafeSpace: An Integrated Web Application for Digital Safety and Emotional Well-being](http://arxiv.org/abs/2508.16488v1)** | 2025-08-22 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 1 table. Preprint submitted to arXiv</p></details> |
+| **[When technology is not enough: Insights from a pilot cybersecurity culture assessment in a safety-critical industrial organisation](http://arxiv.org/abs/2508.20811v1)** | 2025-08-28 | <details><summary>*Grou...</summary><p>*Group Research and Development, DNV, 1363 H{\o}vik, Norway, {\dag}Safety Risk Nordic, DNV, 1363 H{\o}vik, Norway</p></details> |
+| **[Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection](http://arxiv.org/abs/2508.20766v1)** | 2025-08-28 | Under Review |
+| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](http://arxiv.org/abs/2508.20744v1)** | 2025-08-28 |  |
+| **[Governable AI: Provable Safety Under Extreme Threat Models](http://arxiv.org/abs/2508.20411v1)** | 2025-08-28 |  |
+| **[Characterization of Safety in Stochastic Difference Inclusions using Barrier Functions](http://arxiv.org/abs/2508.20204v1)** | 2025-08-27 | 13 pages |
 
