@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 03, 2025
+title: Latest 5 Papers - September 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v1)** | 2025-08-29 |  |
+| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v2)** | 2025-09-02 |  |
 | **[Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs](http://arxiv.org/abs/2508.21238v1)** | 2025-08-28 |  |
 | **[Decoding Memories: An Efficient Pipeline for Self-Consistency Hallucination Detection](http://arxiv.org/abs/2508.21228v1)** | 2025-08-28 | <details><summary>14 pa...</summary><p>14 pages, under review</p></details> |
 | **[Mitigating Hallucinations in Multimodal LLMs via Object-aware Preference Optimization](http://arxiv.org/abs/2508.20181v1)** | 2025-08-27 | BMVC 2025 |
