@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 04, 2025
+title: Latest 5 Papers - September 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long Video Understanding](http://arxiv.org/abs/2508.21496v2)** | 2025-09-02 |  |
-| **[Addressing accuracy and hallucination of LLMs in Alzheimer's disease research through knowledge graphs](http://arxiv.org/abs/2508.21238v1)** | 2025-08-28 |  |
-| **[Decoding Memories: An Efficient Pipeline for Self-Consistency Hallucination Detection](http://arxiv.org/abs/2508.21228v1)** | 2025-08-28 | <details><summary>14 pa...</summary><p>14 pages, under review</p></details> |
-| **[Mitigating Hallucinations in Multimodal LLMs via Object-aware Preference Optimization](http://arxiv.org/abs/2508.20181v1)** | 2025-08-27 | BMVC 2025 |
-| **[GLSim: Detecting Object Hallucinations in LVLMs via Global-Local Similarity](http://arxiv.org/abs/2508.19972v1)** | 2025-08-27 |  |
+| **[Can LLMs Lie? Investigation beyond Hallucination](http://arxiv.org/abs/2509.03518v1)** | 2025-09-03 | <details><summary>Websi...</summary><p>Website at https://llm-liar.github.io/</p></details> |
+| **[Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](http://arxiv.org/abs/2509.03113v1)** | 2025-09-03 |  |
+| **[Exploring and Mitigating Fawning Hallucinations in Large Language Models](http://arxiv.org/abs/2509.00869v1)** | 2025-08-31 |  |
+| **[OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination](http://arxiv.org/abs/2509.00723v1)** | 2025-08-31 |  |
+| **[Two Causes, Not One: Rethinking Omission and Fabrication Hallucinations in MLLMs](http://arxiv.org/abs/2509.00371v1)** | 2025-08-30 | Preprint,Underreview |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Aviation Safety Analysis: Automated HFACS Classification Using Reinforcement Learning with Group Relative Policy Optimization](http://arxiv.org/abs/2508.21201v1)** | 2025-08-28 |  |
-| **[When technology is not enough: Insights from a pilot cybersecurity culture assessment in a safety-critical industrial organisation](http://arxiv.org/abs/2508.20811v1)** | 2025-08-28 | <details><summary>*Grou...</summary><p>*Group Research and Development, DNV, 1363 H{\o}vik, Norway, {\dag}Safety Risk Nordic, DNV, 1363 H{\o}vik, Norway</p></details> |
-| **[Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection](http://arxiv.org/abs/2508.20766v1)** | 2025-08-28 | Under Review |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](http://arxiv.org/abs/2508.20744v1)** | 2025-08-28 |  |
-| **[Governable AI: Provable Safety Under Extreme Threat Models](http://arxiv.org/abs/2508.20411v1)** | 2025-08-28 |  |
+| **[SAFE--MA--RRT: Multi-Agent Motion Planning with Data-Driven Safety Certificates](http://arxiv.org/abs/2509.04413v1)** | 2025-09-04 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Automation Science and Engineering</p></details> |
+| **[Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios](http://arxiv.org/abs/2509.04403v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Findings</p></details> |
+| **[Decentralized Safety-Critical Control of Resilient DC Microgrids with Large-Signal Stability Guarantees](http://arxiv.org/abs/2509.03789v1)** | 2025-09-04 |  |
+| **[AI Safety Assurance in Electric Vehicles: A Case Study on AI-Driven SOC Estimation](http://arxiv.org/abs/2509.03270v1)** | 2025-09-03 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, EVS38, https://evs38-program.org/en/evs-38-proceedings/all</p></details> |
+| **[Parallel-Constraint Model Predictive Control: Exploiting Parallel Computation for Improving Safety](http://arxiv.org/abs/2509.03261v1)** | 2025-09-03 |  |
 
