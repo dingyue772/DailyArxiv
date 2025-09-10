@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 09, 2025
+title: Latest 5 Papers - September 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Noise to Narrative: Tracing the Origins of Hallucinations in Transformers](http://arxiv.org/abs/2509.06938v1)** | 2025-09-08 |  |
+| **[HAVE: Head-Adaptive Gating and ValuE Calibration for Hallucination Mitigation in Large Language Models](http://arxiv.org/abs/2509.06596v1)** | 2025-09-08 |  |
 | **[Why Language Models Hallucinate](http://arxiv.org/abs/2509.04664v1)** | 2025-09-04 |  |
-| **[AraHalluEval: A Fine-grained Hallucination Evaluation Framework for Arabic LLMs](http://arxiv.org/abs/2509.04656v1)** | 2025-09-04 |  |
-| **[Can LLMs Lie? Investigation beyond Hallucination](http://arxiv.org/abs/2509.03518v1)** | 2025-09-03 | <details><summary>Websi...</summary><p>Website at https://llm-liar.github.io/</p></details> |
-| **[Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](http://arxiv.org/abs/2509.03113v1)** | 2025-09-03 |  |
-| **[Learned Hallucination Detection in Black-Box LLMs using Token-level Entropy Production Rate](http://arxiv.org/abs/2509.04492v1)** | 2025-09-01 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 1 table. pre-print version</p></details> |
+| **[AraHalluEval: A Fine-grained Hallucination Evaluation Framework for Arabic LLMs](http://arxiv.org/abs/2509.04656v2)** | 2025-09-09 |  |
+| **[Beyond ROUGE: N-Gram Subspace Features for LLM Hallucination Detection](http://arxiv.org/abs/2509.05360v1)** | 2025-09-03 |  |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparative Analysis of Transformer Models in Disaster Tweet Classification for Public Safety](http://arxiv.org/abs/2509.04650v2)** | 2025-09-08 |  |
-| **[SAFE--MA--RRT: Multi-Agent Motion Planning with Data-Driven Safety Certificates](http://arxiv.org/abs/2509.04413v1)** | 2025-09-04 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Automation Science and Engineering</p></details> |
-| **[Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios](http://arxiv.org/abs/2509.04403v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Findings</p></details> |
-| **[Q-SafeML: Safety Assessment of Quantum Machine Learning via Quantum Distance Metrics](http://arxiv.org/abs/2509.04536v1)** | 2025-09-04 |  |
-| **[Decentralized Safety-Critical Control of Resilient DC Microgrids with Large-Signal Stability Guarantees](http://arxiv.org/abs/2509.03789v1)** | 2025-09-04 |  |
+| **[Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint](http://arxiv.org/abs/2509.06795v1)** | 2025-09-08 |  |
+| **[Safety Meets Speed: Accelerated Neural MPC with Safety Guarantees and No Retraining](http://arxiv.org/abs/2509.06404v1)** | 2025-09-08 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, accepted to RA-L</p></details> |
+| **[Embedding Poisoning: Bypassing Safety Alignment via Embedding Semantic Shift](http://arxiv.org/abs/2509.06338v1)** | 2025-09-08 | 16 pages,9 figures |
+| **[Towards an Automated Framework to Audit Youth Safety on TikTok](http://arxiv.org/abs/2509.05838v1)** | 2025-09-06 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, submitted to EMNLP 2025 and ECAT Research Workshop 2025</p></details> |
+| **[ThreatGPT: An Agentic AI Framework for Enhancing Public Safety through Threat Modeling](http://arxiv.org/abs/2509.05379v1)** | 2025-09-04 |  |
 
