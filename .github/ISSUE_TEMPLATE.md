@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 11, 2025
+title: Latest 5 Papers - September 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MESH -- Understanding Videos Like Human: Measuring Hallucinations in Large Video Models](http://arxiv.org/abs/2509.08538v1)** | 2025-09-10 |  |
+| **[MESH -- Understanding Videos Like Human: Measuring Hallucinations in Large Video Models](http://arxiv.org/abs/2509.08538v2)** | 2025-09-11 |  |
 | **[D-LEAF: Localizing and Correcting Hallucinations in Multimodal LLMs via Layer-to-head Attention Diagnostics](http://arxiv.org/abs/2509.07864v1)** | 2025-09-09 |  |
 | **[HALT-RAG: A Task-Adaptable Framework for Hallucination Detection with Calibrated NLI Ensembles and Abstention](http://arxiv.org/abs/2509.07475v1)** | 2025-09-09 |  |
 | **[From Noise to Narrative: Tracing the Origins of Hallucinations in Transformers](http://arxiv.org/abs/2509.06938v1)** | 2025-09-08 |  |
