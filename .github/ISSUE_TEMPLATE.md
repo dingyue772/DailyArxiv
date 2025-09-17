@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 16, 2025
+title: Latest 5 Papers - September 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unsupervised Hallucination Detection by Inspecting Reasoning Processes](http://arxiv.org/abs/2509.10004v1)** | 2025-09-12 | <details><summary>To ap...</summary><p>To appear in EMNLP 2025</p></details> |
-| **[MetaRAG: Metamorphic Testing for Hallucination Detection in RAG Systems](http://arxiv.org/abs/2509.09360v1)** | 2025-09-11 | under review |
-| **[MESH -- Understanding Videos Like Human: Measuring Hallucinations in Large Video Models](http://arxiv.org/abs/2509.08538v2)** | 2025-09-11 |  |
-| **[D-LEAF: Localizing and Correcting Hallucinations in Multimodal LLMs via Layer-to-head Attention Diagnostics](http://arxiv.org/abs/2509.07864v1)** | 2025-09-09 |  |
-| **[HALT-RAG: A Task-Adaptable Framework for Hallucination Detection with Calibrated NLI Ensembles and Abstention](http://arxiv.org/abs/2509.07475v1)** | 2025-09-09 |  |
+| **[Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose Video Hallucination by Fine-grained Spatial-Temporal Grounding](http://arxiv.org/abs/2509.11866v1)** | 2025-09-15 | 25 pages, 16 figures |
+| **[HalluDetect: Detecting, Mitigating, and Benchmarking Hallucinations in Conversational Systems](http://arxiv.org/abs/2509.11619v1)** | 2025-09-15 | <details><summary>6 pag...</summary><p>6 pages + references + appendix, 3 figures, 2 tables</p></details> |
+| **[D$^2$HScore: Reasoning-Aware Hallucination Detection via Semantic Breadth and Depth Analysis in LLMs](http://arxiv.org/abs/2509.11569v1)** | 2025-09-15 | under review |
+| **[HARP: Hallucination Detection via Reasoning Subspace Projection](http://arxiv.org/abs/2509.11536v1)** | 2025-09-15 |  |
+| **[Mitigating Hallucinations in Large Vision-Language Models by Self-Injecting Hallucinations](http://arxiv.org/abs/2509.11287v1)** | 2025-09-14 | emnlp 2025 accepted |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Uncertainty-Aware Tabular Prediction: Evaluating VBLL-Enhanced TabPFN in Safety-Critical Medical Data](http://arxiv.org/abs/2509.10048v1)** | 2025-09-12 |  |
-| **[A Hybrid Hinge-Beam Continuum Robot with Passive Safety Capping for Real-Time Fatigue Awareness](http://arxiv.org/abs/2509.09404v1)** | 2025-09-11 |  |
-| **[Improving LLM Safety and Helpfulness using SFT and DPO: A Study on OPT-350M](http://arxiv.org/abs/2509.09055v1)** | 2025-09-10 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Code and dataset available at https://github.com/PiyushWithPant/Improving-LLM-Safety-and-Helpfulness-using-SFT-and-DPO</p></details> |
-| **[YouthSafe: A Youth-Centric Safety Benchmark and Safeguard Model for Large Language Models](http://arxiv.org/abs/2509.08997v1)** | 2025-09-10 | 15 pages, 4 figures |
-| **[PromptGuard: An Orchestrated Prompting Framework for Principled Synthetic Text Generation for Vulnerable Populations using LLMs with Enhanced Safety, Fairness, and Controllability](http://arxiv.org/abs/2509.08910v1)** | 2025-09-10 |  |
+| **[A Converse Control Lyapunov Theorem for Joint Safety and Stability](http://arxiv.org/abs/2509.12182v1)** | 2025-09-15 |  |
+| **[RailSafeNet: Visual Scene Understanding for Tram Safety](http://arxiv.org/abs/2509.12125v2)** | 2025-09-16 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, EPIA2025</p></details> |
+| **[When Safe Unimodal Inputs Collide: Optimizing Reasoning Chains for Cross-Modal Safety in Multimodal Large Language Models](http://arxiv.org/abs/2509.12060v2)** | 2025-09-16 |  |
+| **[Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check](http://arxiv.org/abs/2509.11629v1)** | 2025-09-15 |  |
+| **[Model Predictive Control with High-Probability Safety Guarantee for Nonlinear Stochastic Systems](http://arxiv.org/abs/2509.11584v1)** | 2025-09-15 |  |
 
