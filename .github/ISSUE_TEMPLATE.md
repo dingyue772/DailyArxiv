@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 23, 2025
+title: Latest 5 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EigenTrack: Spectral Activation Feature Tracking for Hallucination and Out-of-Distribution Detection in LLMs and VLMs](http://arxiv.org/abs/2509.15735v1)** | 2025-09-19 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2026, September 2025</p></details> |
-| **[ORCA: Agentic Reasoning For Hallucination and Adversarial Robustness in Vision-Language Models](http://arxiv.org/abs/2509.15435v1)** | 2025-09-18 |  |
-| **[Knowledge-Driven Hallucination in Large Language Models: An Empirical Study on Process Modeling](http://arxiv.org/abs/2509.15336v1)** | 2025-09-18 | <details><summary>The V...</summary><p>The Version of Record of this contribution will be published in the proceedings of the 2nd International Workshop on Generative AI for Process Mining (GenAI4PM 2025). This preprint has not undergone peer review or any post-submission improvements or corrections</p></details> |
-| **[Diving into Mitigating Hallucinations from a Vision Perspective for Large Vision-Language Models](http://arxiv.org/abs/2509.13836v1)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted by EMNLP2025 Finding</p></details> |
-| **[Geometric Uncertainty for Detecting and Correcting Hallucinations in LLMs](http://arxiv.org/abs/2509.13813v1)** | 2025-09-17 |  |
+| **[Turk-LettuceDetect: A Hallucination Detection Models for Turkish RAG Applications](http://arxiv.org/abs/2509.17671v1)** | 2025-09-22 |  |
+| **[ChartHal: A Fine-grained Framework Evaluating Hallucination of Large Vision Language Models in Chart Understanding](http://arxiv.org/abs/2509.17481v1)** | 2025-09-22 |  |
+| **[Semantic Reformulation Entropy for Robust Hallucination Detection in QA Tasks](http://arxiv.org/abs/2509.17445v1)** | 2025-09-22 | <details><summary>5page...</summary><p>5pages, 5 figures, submit to ICASSP 2026</p></details> |
+| **[Enhancing Financial RAG with Agentic AI and Multi-HyDE: A Novel Approach to Knowledge Retrieval and Hallucination Reduction](http://arxiv.org/abs/2509.16369v1)** | 2025-09-19 | <details><summary>14 Pa...</summary><p>14 Pages, 8 Tables, 2 Figures. Accepted and to be published in the proceedings of FinNLP, Empirical Methods in Natural Language Processing 2025</p></details> |
+| **[How Large Language Models are Designed to Hallucinate](http://arxiv.org/abs/2509.16297v1)** | 2025-09-19 | <details><summary>23 pa...</summary><p>23 pages, 2 tables, 2 figures</p></details> |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SABER: Uncovering Vulnerabilities in Safety Alignment via Cross-Layer Residual Connection](http://arxiv.org/abs/2509.16060v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted in EMNLP'25 Main</p></details> |
-| **[Learning Safety for Obstacle Avoidance via Control Barrier Functions](http://arxiv.org/abs/2509.16037v1)** | 2025-09-19 | 9 pages, 6 figures |
-| **[Beyond Surface Alignment: Rebuilding LLMs Safety Mechanism via Probabilistically Ablating Refusal Direction](http://arxiv.org/abs/2509.15202v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted by EMNLP2025 Finding</p></details> |
-| **[Designing Latent Safety Filters using Pre-Trained Vision Models](http://arxiv.org/abs/2509.14758v1)** | 2025-09-18 |  |
-| **[Toxicity Red-Teaming: Benchmarking LLM Safety in Singapore's Low-Resource Languages](http://arxiv.org/abs/2509.15260v1)** | 2025-09-18 | 9 pages, EMNLP 2025 |
+| **[Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs](http://arxiv.org/abs/2509.18058v2)** | 2025-09-23 |  |
+| **[DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving](http://arxiv.org/abs/2509.17940v1)** | 2025-09-22 | NeurIPS 2025 |
+| **[EigenSafe: A Spectral Framework for Learning-Based Stochastic Safety Filtering](http://arxiv.org/abs/2509.17750v1)** | 2025-09-22 | <details><summary>Works...</summary><p>Workshop on Safe and Robust Robot Learning for Operation in the Real World (SAFE-ROL) at CoRL 2025</p></details> |
+| **[Distributionally Robust Safety Verification of Neural Networks via Worst-Case CVaR](http://arxiv.org/abs/2509.17413v1)** | 2025-09-22 |  |
+| **[The SAGES Critical View of Safety Challenge: A Global Benchmark for AI-Assisted Surgical Quality Assessment](http://arxiv.org/abs/2509.17100v1)** | 2025-09-21 | 18 pages, 10 figures |
 
