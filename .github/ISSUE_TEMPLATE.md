@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 25, 2025
+title: Latest 5 Papers - September 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hallucination as an Upper Bound: A New Perspective on Text-to-Image Evaluation](http://arxiv.org/abs/2509.21257v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at GenProCC NeurIPS 2025 Workshop</p></details> |
+| **[PerHalluEval: Persian Hallucination Evaluation Benchmark for Large Language Models](http://arxiv.org/abs/2509.21104v1)** | 2025-09-25 |  |
+| **[Eliminating stability hallucinations in llm-based tts models via attention guidance](http://arxiv.org/abs/2509.19852v1)** | 2025-09-24 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP2026</p></details> |
 | **[LLM-based Agents Suffer from Hallucinations: A Survey of Taxonomy, Methods, and Directions](http://arxiv.org/abs/2509.18970v1)** | 2025-09-23 |  |
 | **[Turk-LettuceDetect: A Hallucination Detection Models for Turkish RAG Applications](http://arxiv.org/abs/2509.17671v1)** | 2025-09-22 |  |
-| **[ChartHal: A Fine-grained Framework Evaluating Hallucination of Large Vision Language Models in Chart Understanding](http://arxiv.org/abs/2509.17481v1)** | 2025-09-22 |  |
-| **[Semantic Reformulation Entropy for Robust Hallucination Detection in QA Tasks](http://arxiv.org/abs/2509.17445v1)** | 2025-09-22 | <details><summary>5page...</summary><p>5pages, 5 figures, submit to ICASSP 2026</p></details> |
-| **[Enhancing Financial RAG with Agentic AI and Multi-HyDE: A Novel Approach to Knowledge Retrieval and Hallucination Reduction](http://arxiv.org/abs/2509.16369v1)** | 2025-09-19 | <details><summary>14 Pa...</summary><p>14 Pages, 8 Tables, 2 Figures. Accepted and to be published in the proceedings of FinNLP, Empirical Methods in Natural Language Processing 2025</p></details> |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Steering Multimodal Large Language Models Decoding for Context-Aware Safety](http://arxiv.org/abs/2509.19212v1)** | 2025-09-23 | <details><summary>A lig...</summary><p>A lightweight and model-agnostic decoding framework that dynamically adjusts token generation based on multimodal context</p></details> |
-| **[SPiDR: A Simple Approach for Zero-Shot Safety in Sim-to-Real Transfer](http://arxiv.org/abs/2509.18648v1)** | 2025-09-23 |  |
-| **[Refined Barrier Conditions for Finite-Time Safety and Reach-Avoid Guarantees in Stochastic Systems](http://arxiv.org/abs/2509.18518v1)** | 2025-09-23 |  |
-| **[Evaluating the Safety and Skill Reasoning of Large Reasoning Models Under Compute Constraints](http://arxiv.org/abs/2509.18382v1)** | 2025-09-22 |  |
-| **[Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs](http://arxiv.org/abs/2509.18058v2)** | 2025-09-23 |  |
+| **[The Use of the Simplex Architecture to Enhance Safety in Deep-Learning-Powered Autonomous Systems](http://arxiv.org/abs/2509.21014v1)** | 2025-09-25 |  |
+| **[Building Information Models to Robot-Ready Site Digital Twins (BIM2RDT): An Agentic AI Safety-First Framework](http://arxiv.org/abs/2509.20705v1)** | 2025-09-25 |  |
+| **[Reconstruction-Based Adaptive Scheduling Using AI Inferences in Safety-Critical Systems](http://arxiv.org/abs/2509.20513v1)** | 2025-09-24 | 14 pages, 10 figures |
+| **[Hybrid Safety Verification of Multi-Agent Systems using $ψ$-Weighted CBFs and PAC Guarantees](http://arxiv.org/abs/2509.20093v1)** | 2025-09-24 |  |
+| **[Formal Safety Verification and Refinement for Generative Motion Planners via Certified Local Stabilization](http://arxiv.org/abs/2509.19688v1)** | 2025-09-24 | 10 pages, 12 figures |
 
