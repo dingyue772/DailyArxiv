@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 30, 2025
+title: Latest 5 Papers - October 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fine-Grained Detection of Context-Grounded Hallucinations Using LLMs](http://arxiv.org/abs/2509.22582v2)** | 2025-09-29 |  |
-| **[Beyond Textual Context: Structural Graph Encoding with Adaptive Space Alignment to alleviate the hallucination of LLMs](http://arxiv.org/abs/2509.22251v1)** | 2025-09-26 | 11 pages, 5 figures |
-| **[Library Hallucinations in LLMs: Risk Analysis Grounded in Developer Queries](http://arxiv.org/abs/2509.22202v1)** | 2025-09-26 | 23 pages, 5 tables |
-| **[Black-Box Hallucination Detection via Consistency Under the Uncertain Expression](http://arxiv.org/abs/2509.21999v1)** | 2025-09-26 |  |
-| **[Exposing Hallucinations To Suppress Them: VLMs Representation Editing With Generative Anchors](http://arxiv.org/abs/2509.21997v1)** | 2025-09-26 |  |
+| **[Neural Message-Passing on Attention Graphs for Hallucination Detection](http://arxiv.org/abs/2509.24770v1)** | 2025-09-29 | <details><summary>Prepr...</summary><p>Preprint. 25 pages, 2 figures</p></details> |
+| **[Mitigating Visual Hallucinations via Semantic Curriculum Preference Optimization in MLLMs](http://arxiv.org/abs/2509.24491v1)** | 2025-09-29 |  |
+| **[HFuzzer: Testing Large Language Models for Package Hallucinations via Phrase-based Fuzzing](http://arxiv.org/abs/2509.23835v1)** | 2025-09-28 |  |
+| **[LLM Hallucination Detection: HSAD](http://arxiv.org/abs/2509.23580v1)** | 2025-09-28 | in Chinese language |
+| **[CCD: Mitigating Hallucinations in Radiology MLLMs via Clinical Contrastive Decoding](http://arxiv.org/abs/2509.23379v1)** | 2025-09-27 | Preprint |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Closing the Safety Gap: Surgical Concept Erasure in Visual Autoregressive Models](http://arxiv.org/abs/2509.22400v1)** | 2025-09-26 |  |
-| **[Safety Compliance: Rethinking LLM Safety Reasoning through the Lens of Compliance](http://arxiv.org/abs/2509.22250v1)** | 2025-09-26 |  |
-| **[The Rogue Scalpel: Activation Steering Compromises LLM Safety](http://arxiv.org/abs/2509.22067v1)** | 2025-09-26 |  |
-| **[Taxonomy of Comprehensive Safety for Clinical Agents](http://arxiv.org/abs/2509.22041v2)** | 2025-09-29 | EMNLP 2025 Industry |
-| **[Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety](http://arxiv.org/abs/2509.21782v1)** | 2025-09-26 |  |
+| **[Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs](http://arxiv.org/abs/2509.25086v1)** | 2025-09-29 |  |
+| **[Safety-Critical Input-Constrained Nonlinear Intercept Guidance in Multiple Engagement Zones](http://arxiv.org/abs/2509.25053v1)** | 2025-09-29 |  |
+| **[GSPR: Aligning LLM Safeguards as Generalizable Safety Policy Reasoners](http://arxiv.org/abs/2509.24418v1)** | 2025-09-29 |  |
+| **[Assessing Roundabout Safety Perceptions under Heterogeneous Traffic: Socio-Demographic and Geometric Influences in Indian Urban Contexts](http://arxiv.org/abs/2509.24397v1)** | 2025-09-29 |  |
+| **[The 2025 OpenAI Preparedness Framework does not guarantee any AI risk mitigation practices: a proof-of-concept for affordance analyses of AI safety policies](http://arxiv.org/abs/2509.24394v1)** | 2025-09-29 | <details><summary>19 pa...</summary><p>19 pages, 5 tables, 1 figure</p></details> |
 
