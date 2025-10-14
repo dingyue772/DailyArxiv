@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - October 12, 2025
+title: Latest 5 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hallucination Filtering in Radiology Vision-Language Models Using Discrete Semantic Entropy](http://arxiv.org/abs/2510.09256v1)** | 2025-10-10 | <details><summary>Code ...</summary><p>Code is available: https://github.com/TruhnLab/VisionSemanticEntropy</p></details> |
+| **[On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models](http://arxiv.org/abs/2510.09008v1)** | 2025-10-10 |  |
 | **[Revisiting Hallucination Detection with Effective Rank-based Uncertainty](http://arxiv.org/abs/2510.08389v1)** | 2025-10-09 |  |
-| **[Detecting and Mitigating Insertion Hallucination in Video-to-Audio Generation](http://arxiv.org/abs/2510.08078v1)** | 2025-10-09 |  |
+| **[Detecting and Mitigating Insertion Hallucination in Video-to-Audio Generation](http://arxiv.org/abs/2510.08078v2)** | 2025-10-13 |  |
 | **[The Unintended Trade-off of AI Alignment:Balancing Hallucination Mitigation and Safety in LLMs](http://arxiv.org/abs/2510.07775v1)** | 2025-10-09 |  |
-| **[Injecting Hallucinations in Autonomous Vehicles: A Component-Agnostic Safety Evaluation Framework](http://arxiv.org/abs/2510.07749v1)** | 2025-10-09 | <details><summary>22 pa...</summary><p>22 pages, 15 figures, 21 tables</p></details> |
-| **[Distributional Semantics Tracing: A Framework for Explaining Hallucinations in Large Language Models](http://arxiv.org/abs/2510.06107v2)** | 2025-10-08 |  |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safety Game: Balancing Safe and Informative Conversations with Blackbox Agentic AI using LP Solvers](http://arxiv.org/abs/2510.09330v1)** | 2025-10-10 |  |
+| **[Safety Analysis of eVTOL Operations based on STPA](http://arxiv.org/abs/2510.09283v1)** | 2025-10-10 |  |
+| **[Decoupling Safety into Orthogonal Subspace: Cost-Efficient and Performance-Preserving Alignment for Large Language Models](http://arxiv.org/abs/2510.09004v1)** | 2025-10-10 | Work in Progress |
 | **[The Alignment Waltz: Jointly Training Agents to Collaborate for Safety](http://arxiv.org/abs/2510.08240v1)** | 2025-10-09 |  |
 | **[The Unintended Trade-off of AI Alignment:Balancing Hallucination Mitigation and Safety in LLMs](http://arxiv.org/abs/2510.07775v1)** | 2025-10-09 |  |
-| **[Injecting Hallucinations in Autonomous Vehicles: A Component-Agnostic Safety Evaluation Framework](http://arxiv.org/abs/2510.07749v1)** | 2025-10-09 | <details><summary>22 pa...</summary><p>22 pages, 15 figures, 21 tables</p></details> |
-| **[Multimodal Safety Evaluation in Generative Agent Social Simulations](http://arxiv.org/abs/2510.07709v1)** | 2025-10-09 |  |
-| **[SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models](http://arxiv.org/abs/2510.06871v2)** | 2025-10-09 |  |
 
