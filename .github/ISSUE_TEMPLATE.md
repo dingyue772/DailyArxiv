@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - October 24, 2025
+title: Latest 5 Papers - October 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Diversity Regularizes Hallucinations in Small Models](http://arxiv.org/abs/2510.20690v1)** | 2025-10-23 |  |
+| **[The Impact of Negated Text on Hallucination with Large Language Models](http://arxiv.org/abs/2510.20375v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to the EMNLP 2025</p></details> |
+| **[Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context](http://arxiv.org/abs/2510.20229v1)** | 2025-10-23 |  |
 | **[Teaming LLMs to Detect and Mitigate Hallucinations](http://arxiv.org/abs/2510.19507v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 workshop on Reliable ML from Unreliable Data</p></details> |
 | **[HAD: HAllucination Detection Language Models Based on a Comprehensive Hallucination Taxonomy](http://arxiv.org/abs/2510.19318v1)** | 2025-10-22 |  |
-| **[JointCQ: Improving Factual Hallucination Detection with Joint Claim and Query Generation](http://arxiv.org/abs/2510.19310v1)** | 2025-10-22 |  |
-| **[PruneHal: Reducing Hallucinations in Multi-modal Large Language Models through Adaptive KV Cache Pruning](http://arxiv.org/abs/2510.19183v1)** | 2025-10-22 |  |
-| **[A Graph Signal Processing Framework for Hallucination Detection in Large Language Models](http://arxiv.org/abs/2510.19117v1)** | 2025-10-21 | <details><summary>Prepr...</summary><p>Preprint under review (2025). 11 pages, 7 figures. Code and scripts: to be released</p></details> |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
