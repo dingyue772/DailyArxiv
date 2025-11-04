@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - November 03, 2025
+title: Latest 5 Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RepV: Safety-Separable Latent Spaces for Scalable Neurosymbolic Plan Verification](http://arxiv.org/abs/2510.26935v1)** | 2025-10-30 | <details><summary>Code ...</summary><p>Code and data are available at: https://repv-project.github.io/</p></details> |
 | **[The Oversight Game: Learning to Cooperatively Balance an AI Agent's Safety and Autonomy](http://arxiv.org/abs/2510.26752v1)** | 2025-10-30 |  |
 | **[Safety Margins of Inverse Optimal ISSf Controllers](http://arxiv.org/abs/2510.26397v1)** | 2025-10-30 |  |
 | **[ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio-Language Models](http://arxiv.org/abs/2510.26096v1)** | 2025-10-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[Risk-Aware Safety Filters with Poisson Safety Functions and Laplace Guidance Fields](http://arxiv.org/abs/2510.25913v1)** | 2025-10-29 |  |
-| **[Smooth path planning with safety margins using Piece-Wise Bezier curves](http://arxiv.org/abs/2510.24972v1)** | 2025-10-28 |  |
 
