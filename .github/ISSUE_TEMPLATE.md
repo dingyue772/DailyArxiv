@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - November 09, 2025
+title: Latest 5 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -18,7 +18,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Nonparametric Safety Stock Dimensioning: A Data-Driven Approach for Supply Chains of Hardware OEMs](http://arxiv.org/abs/2511.04616v1)** | 2025-11-06 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 3 tables. To appear in INFORMs journal</p></details> |
 | **[RxSafeBench: Identifying Medication Safety Issues of Large Language Models in Simulated Consultation](http://arxiv.org/abs/2511.04328v1)** | 2025-11-06 | <details><summary>To ap...</summary><p>To appear in BIBM2025</p></details> |
-| **[A Proprietary Model-Based Safety Response Framework for AI Agents](http://arxiv.org/abs/2511.03138v1)** | 2025-11-05 |  |
+| **[A Proprietary Model-Based Safety Response Framework for AI Agents](http://arxiv.org/abs/2511.03138v2)** | 2025-11-07 |  |
 | **[LiveSecBench: A Dynamic and Culturally-Relevant AI Safety Benchmark for LLMs in Chinese Context](http://arxiv.org/abs/2511.02366v1)** | 2025-11-04 |  |
 | **[Whole-body motion planning and safety-critical control for aerial manipulation](http://arxiv.org/abs/2511.02342v1)** | 2025-11-04 | <details><summary>Submi...</summary><p>Submitted to 2026 IFAC World Congress with the Journal option (MECHATRONICS)</p></details> |
 
