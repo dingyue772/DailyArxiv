@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - November 17, 2025
+title: Latest 5 Papers - November 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Consistency Is the Key: Detecting Hallucinations in LLM Generated Text By Checking Inconsistencies About Key Facts](https://arxiv.org/abs/2511.12236v1)** | 2025-11-15 | <details><summary>To ap...</summary><p>To appear at International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), 2025</p></details> |
+| **[Suppressing VLM Hallucinations with Spectral Representation Filtering](https://arxiv.org/abs/2511.12220v1)** | 2025-11-15 |  |
+| **[Seeing is Believing: Rich-Context Hallucination Detection for MLLMs via Backward Visual Grounding](https://arxiv.org/abs/2511.12140v1)** | 2025-11-15 |  |
 | **[PAS : Prelim Attention Score for Detecting Object Hallucinations in Large Vision--Language Models](https://arxiv.org/abs/2511.11502v1)** | 2025-11-14 |  |
 | **[Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning](https://arxiv.org/abs/2511.11182v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Can LLMs Detect Their Own Hallucinations?](https://arxiv.org/abs/2511.11087v1)** | 2025-11-14 | 8 pages |
-| **[The Map of Misbelief: Tracing Intrinsic and Extrinsic Hallucinations Through Attention Patterns](https://arxiv.org/abs/2511.10837v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025-FS-ATRACC</p></details> |
-| **[Adaptive Residual-Update Steering for Low-Overhead Hallucination Mitigation in Large Vision Language Models](https://arxiv.org/abs/2511.10292v1)** | 2025-11-13 | Under review |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SGuard-v1: Safety Guardrail for Large Language Models](https://arxiv.org/abs/2511.12497v1)** | 2025-11-16 | Technical Report |
+| **[Enhancing Road Safety Through Multi-Camera Image Segmentation with Post-Encroachment Time Analysis](https://arxiv.org/abs/2511.12018v1)** | 2025-11-15 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, Submitted to IEEE Intelligent Vehicles Symposium 2026</p></details> |
+| **[A Multimodal Manufacturing Safety Chatbot: Knowledge Base Design, Benchmark Development, and Evaluation of Multiple RAG Approaches](https://arxiv.org/abs/2511.11847v1)** | 2025-11-14 | 25 pages, 5 figures |
 | **[Universal Safety Controllers with Learned Prophecies](https://arxiv.org/abs/2511.11390v1)** | 2025-11-14 | AAAI 2026 |
 | **[HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments](https://arxiv.org/abs/2511.10810v1)** | 2025-11-13 |  |
-| **[EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models](https://arxiv.org/abs/2511.09880v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by IEEE Symposium on Security and Privacy (S&P) 2026</p></details> |
-| **[BarrierBench : Evaluating Large Language Models for Safety Verification in Dynamical Systems](https://arxiv.org/abs/2511.09363v1)** | 2025-11-12 |  |
-| **[Argus: Resilience-Oriented Safety Assurance Framework for End-to-End ADSs](https://arxiv.org/abs/2511.09032v1)** | 2025-11-12 | <details><summary>The p...</summary><p>The paper has been accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
 
