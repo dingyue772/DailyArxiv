@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - November 18, 2025
+title: Latest 5 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## Hallucination
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Consistency Is the Key: Detecting Hallucinations in LLM Generated Text By Checking Inconsistencies About Key Facts](https://arxiv.org/abs/2511.12236v1)** | 2025-11-15 | <details><summary>To ap...</summary><p>To appear at International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL), 2025</p></details> |
-| **[Suppressing VLM Hallucinations with Spectral Representation Filtering](https://arxiv.org/abs/2511.12220v1)** | 2025-11-15 |  |
-| **[Seeing is Believing: Rich-Context Hallucination Detection for MLLMs via Backward Visual Grounding](https://arxiv.org/abs/2511.12140v1)** | 2025-11-15 |  |
-| **[PAS : Prelim Attention Score for Detecting Object Hallucinations in Large Vision--Language Models](https://arxiv.org/abs/2511.11502v1)** | 2025-11-14 |  |
-| **[Multi-agent Undercover Gaming: Hallucination Removal via Counterfactual Test for Multimodal Reasoning](https://arxiv.org/abs/2511.11182v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Listen Like a Teacher: Mitigating Whisper Hallucinations using Adaptive Layer Attention and Knowledge Distillation](https://arxiv.org/abs/2511.14219v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 - Main Technical Track</p></details> |
+| **[SymLoc: Symbolic Localization of Hallucination across HaluEval and TruthfulQA](https://arxiv.org/abs/2511.14172v1)** | 2025-11-18 |  |
+| **[VOPE: Revisiting Hallucination of Vision-Language Models in Voluntary Imagination Task](https://arxiv.org/abs/2511.13420v1)** | 2025-11-17 | 8 pages |
+| **[What Color Is It? A Text-Interference Multimodal Hallucination Benchmark](https://arxiv.org/abs/2511.13400v1)** | 2025-11-17 |  |
+| **[HEDGE: Hallucination Estimation via Dense Geometric Entropy for VQA with Vision-Language Models](https://arxiv.org/abs/2511.12693v1)** | 2025-11-16 |  |
 
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SGuard-v1: Safety Guardrail for Large Language Models](https://arxiv.org/abs/2511.12497v1)** | 2025-11-16 | Technical Report |
-| **[Enhancing Road Safety Through Multi-Camera Image Segmentation with Post-Encroachment Time Analysis](https://arxiv.org/abs/2511.12018v1)** | 2025-11-15 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, Submitted to IEEE Intelligent Vehicles Symposium 2026</p></details> |
-| **[A Multimodal Manufacturing Safety Chatbot: Knowledge Base Design, Benchmark Development, and Evaluation of Multiple RAG Approaches](https://arxiv.org/abs/2511.11847v1)** | 2025-11-14 | 25 pages, 5 figures |
-| **[Universal Safety Controllers with Learned Prophecies](https://arxiv.org/abs/2511.11390v1)** | 2025-11-14 | AAAI 2026 |
-| **[HARNESS: Human-Agent Risk Navigation and Event Safety System for Proactive Hazard Forecasting in High-Risk DOE Environments](https://arxiv.org/abs/2511.10810v1)** | 2025-11-13 |  |
+| **[Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks](https://arxiv.org/abs/2511.14592v1)** | 2025-11-18 |  |
+| **[Operationalizing Pluralistic Values in Large Language Model Alignment Reveals Trade-offs in Safety, Inclusivity, and Model Behavior](https://arxiv.org/abs/2511.14476v1)** | 2025-11-18 |  |
+| **[Safe-ROS: An Architecture for Autonomous Robots in Safety-Critical Domains](https://arxiv.org/abs/2511.14433v1)** | 2025-11-18 | <details><summary>In Pr...</summary><p>In Proceedings FMAS 2025, arXiv:2511.13245</p></details> |
+| **[N-GLARE: An Non-Generative Latent Representation-Efficient LLM Safety Evaluator](https://arxiv.org/abs/2511.14195v1)** | 2025-11-18 |  |
+| **[Mind the Gap: Evaluating LLM Understanding of Human-Taught Road Safety Principles](https://arxiv.org/abs/2511.13909v1)** | 2025-11-17 | Preprint |
 
