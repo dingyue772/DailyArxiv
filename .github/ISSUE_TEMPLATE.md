@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - November 26, 2025
+title: Latest 5 Papers - November 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## Safety
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Harmonious Parameter Adaptation in Continual Visual Instruction Tuning for Safety-Aligned MLLMs](https://arxiv.org/abs/2511.20158v1)** | 2025-11-25 |  |
-| **[WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](https://arxiv.org/abs/2511.20022v1)** | 2025-11-25 |  |
-| **[International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management](https://arxiv.org/abs/2511.19863v1)** | 2025-11-25 |  |
-| **[Online Learning-Enhanced High Order Adaptive Safety Control](https://arxiv.org/abs/2511.19651v1)** | 2025-11-24 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, submitted to RA-L</p></details> |
-| **[Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization](https://arxiv.org/abs/2511.19218v1)** | 2025-11-24 |  |
+| **[Predictive Safety Shield for Dyna-Q Reinforcement Learning](https://arxiv.org/abs/2511.21531v1)** | 2025-11-26 |  |
+| **[Self-Guided Defense: Adaptive Safety Alignment for Reasoning Models via Synthesized Guidelines](https://arxiv.org/abs/2511.21214v1)** | 2025-11-26 |  |
+| **[Breaking the Safety-Capability Tradeoff: Reinforcement Learning with Verifiable Rewards Maintains Safety Guardrails in LLMs](https://arxiv.org/abs/2511.21050v1)** | 2025-11-26 | <details><summary>AAAI-...</summary><p>AAAI-26 Workshop on Post-AI Formal Methods</p></details> |
+| **[GuardTrace-VL: Detecting Unsafe Multimodel Reasoning via Iterative Safety Supervision](https://arxiv.org/abs/2511.20994v1)** | 2025-11-26 |  |
+| **[Conformal Safety Monitoring for Flight Testing: A Case Study in Data-Driven Safety Learning](https://arxiv.org/abs/2511.20811v1)** | 2025-11-25 | <details><summary>ICRA ...</summary><p>ICRA 2025 Workshop on Robot safety under uncertainty from intangible specifications</p></details> |
 
