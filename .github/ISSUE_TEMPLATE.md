@@ -1,24 +1,24 @@
 ---
-title: Latest 5 Papers - November 29, 2025
+title: Latest 5 Papers - November 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
 
-## Hallucination
+## omni
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tell Model Where to Look: Mitigating Hallucinations in MLLMs by Vision-Guided Attention](https://arxiv.org/abs/2511.20032v1)** | 2025-11-25 | Under Review |
-| **[Alternating Perception-Reasoning for Hallucination-Resistant Video Understanding](https://arxiv.org/abs/2511.18463v2)** | 2025-11-25 | 32 pages, 36 figures |
-| **["AGI" team at SHROOM-CAP: Data-Centric Approach to Multilingual Hallucination Detection using XLM-RoBERTa](https://arxiv.org/abs/2511.18301v1)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted to the 1st Workshop on Confabulation, Hallucinations & Overgeneration in Multilingual and Practical Settings (CHOMPS) at AACL-IJCNLP 2025</p></details> |
-| **[Measuring the Impact of Lexical Training Data Coverage on Hallucination Detection in Large Language Models](https://arxiv.org/abs/2511.17946v1)** | 2025-11-22 |  |
-| **[Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats](https://arxiv.org/abs/2511.17254v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Project Page: https://github.com/SooLab/AllPath</p></details> |
+| **[Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data](https://arxiv.org/abs/2511.12609v2)** | 2025-11-23 | <details><summary>47 pa...</summary><p>47 pages,10 Figures, Project Website: https://idealistxy.github.io/Uni-MoE-v2.github.io/ Codes: https://github.com/HITsz-TMG/Uni-MoE</p></details> |
+| **[T-Rex-Omni: Integrating Negative Visual Prompt in Generic Object Detection](https://arxiv.org/abs/2511.08997v1)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026. Main paper: 7 pages with 4 figures; Appendix: 8 pages with 7 figures</p></details> |
+| **[Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models](https://arxiv.org/abs/2511.07253v1)** | 2025-11-10 | <details><summary>Proje...</summary><p>Project website: https://umbertocappellazzo.github.io/Omni-AVSR/</p></details> |
+| **[Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images](https://arxiv.org/abs/2511.07222v1)** | 2025-11-10 | Under review |
+| **[Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for Understanding Anything](https://arxiv.org/abs/2511.02834v2)** | 2025-11-05 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 14 tables. Under Review</p></details> |
 
-## Safety
+## audio visual
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predictive Safety Shield for Dyna-Q Reinforcement Learning](https://arxiv.org/abs/2511.21531v1)** | 2025-11-26 |  |
-| **[Self-Guided Defense: Adaptive Safety Alignment for Reasoning Models via Synthesized Guidelines](https://arxiv.org/abs/2511.21214v1)** | 2025-11-26 |  |
-| **[Breaking the Safety-Capability Tradeoff: Reinforcement Learning with Verifiable Rewards Maintains Safety Guardrails in LLMs](https://arxiv.org/abs/2511.21050v1)** | 2025-11-26 | <details><summary>AAAI-...</summary><p>AAAI-26 Workshop on Post-AI Formal Methods</p></details> |
-| **[GuardTrace-VL: Detecting Unsafe Multimodel Reasoning via Iterative Safety Supervision](https://arxiv.org/abs/2511.20994v1)** | 2025-11-26 |  |
-| **[Conformal Safety Monitoring for Flight Testing: A Case Study in Data-Driven Safety Learning](https://arxiv.org/abs/2511.20811v1)** | 2025-11-25 | <details><summary>ICRA ...</summary><p>ICRA 2025 Workshop on Robot safety under uncertainty from intangible specifications</p></details> |
+| **[Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy](https://arxiv.org/abs/2511.21579v1)** | 2025-11-26 |  |
+| **[AV-Edit: Multimodal Generative Sound Effect Editing via Audio-Visual Semantic Joint Control](https://arxiv.org/abs/2511.21146v1)** | 2025-11-26 |  |
+| **[Modular Deep Learning Framework for Assistive Perception: Gaze, Affect, and Speaker Identification](https://arxiv.org/abs/2511.20474v1)** | 2025-11-25 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, and 3 tables</p></details> |
+| **[It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models](https://arxiv.org/abs/2511.19877v1)** | 2025-11-25 |  |
+| **[Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization](https://arxiv.org/abs/2511.19275v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted by IEEE Big Data 2025</p></details> |
 
