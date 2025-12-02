@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - December 01, 2025
+title: Latest 5 Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## audio visual
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement](https://arxiv.org/abs/2511.23475v1)** | 2025-11-28 | <details><summary>Homep...</summary><p>Homepage: https://hkust-c4g.github.io/AnyTalker-homepage</p></details> |
-| **[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)** | 2025-11-28 |  |
-| **[Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering](https://arxiv.org/abs/2511.23304v1)** | 2025-11-28 |  |
-| **[HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding](https://arxiv.org/abs/2511.23178v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Some Modalities are More Equal Than Others: Decoding and Architecting Multimodal Integration in MLLMs](https://arxiv.org/abs/2511.22826v1)** | 2025-11-28 |  |
+| **[Audio-Visual World Models: Towards Multisensory Imagination in Sight and Sound](https://arxiv.org/abs/2512.00883v1)** | 2025-11-30 |  |
+| **[CACARA: Cross-Modal Alignment Leveraging a Text-Centric Approach for Cost-Effective Multimodal and Multilingual Learning](https://arxiv.org/abs/2512.00496v1)** | 2025-11-29 | <details><summary>25 pa...</summary><p>25 pages, 12 tables, 5 figures</p></details> |
+| **[MVAD : A Comprehensive Multimodal Video-Audio Dataset for AIGC Detection](https://arxiv.org/abs/2512.00336v1)** | 2025-11-29 | 7 pages,2 figures |
+| **[Design and Evaluation of a Multi-Agent Perception System for Autonomous Flying Networks](https://arxiv.org/abs/2512.00259v1)** | 2025-11-29 |  |
+| **[OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion](https://arxiv.org/abs/2512.00234v1)** | 2025-11-28 | <details><summary>Prepr...</summary><p>Preprint for ACL 2026</p></details> |
 
