@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - December 07, 2025
+title: Latest 5 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## audio visual
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://arxiv.org/abs/2512.04677v1)** | 2025-12-04 |  |
+| **[CLIO: A Tour Guide Robot with Co-speech Actions for Visual Attention Guidance and Enhanced User Engagement](https://arxiv.org/abs/2512.05389v1)** | 2025-12-05 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, human-robot interaction</p></details> |
+| **[Systematically Evaluating Equivalent Purpose for Digital Maps](https://arxiv.org/abs/2512.05310v1)** | 2025-12-04 | <details><summary>In pr...</summary><p>In press at Journal on Technology and Persons with Disabilities, volume 14</p></details> |
+| **[Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length](https://arxiv.org/abs/2512.04677v2)** | 2025-12-05 |  |
 | **[UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework](https://arxiv.org/abs/2512.03918v1)** | 2025-12-03 | <details><summary>https...</summary><p>https://carlyx.github.io/UniMo/</p></details> |
 | **[Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.03783v2)** | 2025-12-04 |  |
-| **[Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation](https://arxiv.org/abs/2512.03590v1)** | 2025-12-03 |  |
-| **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v1)** | 2025-12-03 | Accepted at KDD 2026 |
 
