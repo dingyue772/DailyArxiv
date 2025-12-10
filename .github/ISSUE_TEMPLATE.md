@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - December 09, 2025
+title: Latest 5 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## audio visual
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeepAgent: A Dual Stream Multi Agent Fusion for Robust Multimodal Deepfake Detection](https://arxiv.org/abs/2512.07351v1)** | 2025-12-08 |  |
+| **[Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits](https://arxiv.org/abs/2512.07209v1)** | 2025-12-08 |  |
 | **[Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation](https://arxiv.org/abs/2512.06689v1)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted to ASRU 2025</p></details> |
 | **[DreamFoley: Scalable VLMs for High-Fidelity Video-to-Audio Generation](https://arxiv.org/abs/2512.06022v1)** | 2025-12-04 | 10 pages; Bytedance |
 | **[Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.03783v2)** | 2025-12-04 |  |
-| **[Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation](https://arxiv.org/abs/2512.03590v1)** | 2025-12-03 |  |
-| **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v1)** | 2025-12-03 | Accepted at KDD 2026 |
 
