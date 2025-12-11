@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - December 10, 2025
+title: Latest 5 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## omni
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ChronusOmni: Improving Time Awareness of Omni Large Language Models](https://arxiv.org/abs/2512.09841v1)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code available at https://github.com/YJCX330/Chronus/</p></details> |
 | **[Omni-Referring Image Segmentation](https://arxiv.org/abs/2512.06862v1)** | 2025-12-07 |  |
 | **[Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning](https://arxiv.org/abs/2512.03783v2)** | 2025-12-04 |  |
 | **[OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning](https://arxiv.org/abs/2512.02306v1)** | 2025-12-02 |  |
 | **[OralGPT-Omni: A Versatile Dental Multimodal Large Language Model](https://arxiv.org/abs/2511.22055v1)** | 2025-11-27 | <details><summary>47 pa...</summary><p>47 pages, 42 figures, 13 tables</p></details> |
-| **[Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data](https://arxiv.org/abs/2511.12609v2)** | 2025-11-23 | <details><summary>47 pa...</summary><p>47 pages,10 Figures, Project Website: https://idealistxy.github.io/Uni-MoE-v2.github.io/ Codes: https://github.com/HITsz-TMG/Uni-MoE</p></details> |
 
 ## audio visual
 | **Title** | **Date** | **Comment** |
