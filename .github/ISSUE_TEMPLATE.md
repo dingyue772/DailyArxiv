@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - December 17, 2025
+title: Latest 5 Papers - December 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## audio visual
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics](https://arxiv.org/abs/2512.15340v1)** | 2025-12-17 |  |
+| **[Audio-Visual Cross-Modal Compression for Generative Face Video Coding](https://arxiv.org/abs/2512.15262v1)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted as a PAPER and for publication in the DCC 2026 proceedings</p></details> |
+| **[Adaptive Multimodal Person Recognition: A Robust Framework for Handling Missing Modalities](https://arxiv.org/abs/2512.14961v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages and 8 tables</p></details> |
+| **[TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation](https://arxiv.org/abs/2512.14938v1)** | 2025-12-16 | <details><summary>open-...</summary><p>open-sourced single-person full-body talking video generation dataset, training code and checkpoints</p></details> |
 | **[Scalable Frameworks for Real-World Audio-Visual Speech Recognition](https://arxiv.org/abs/2512.14083v1)** | 2025-12-16 | PhD Dissertation |
-| **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v2)** | 2025-12-16 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
-| **[Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?](https://arxiv.org/abs/2512.13281v2)** | 2025-12-16 | <details><summary>Code ...</summary><p>Code is at https://github.com/video-reality-test/video-reality-test, page is at https://video-reality-test.github.io/</p></details> |
-| **[STARCaster: Spatio-Temporal AutoRegressive Video Diffusion for Identity- and View-Aware Talking Portraits](https://arxiv.org/abs/2512.13247v1)** | 2025-12-15 | <details><summary>Proje...</summary><p>Project page: https://foivospar.github.io/STARCaster/</p></details> |
-| **[Schrodinger Audio-Visual Editor: Object-Level Audiovisual Removal](https://arxiv.org/abs/2512.12875v1)** | 2025-12-14 |  |
 
