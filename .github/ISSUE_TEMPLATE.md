@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - December 21, 2025
+title: Latest 5 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## omni
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UmniBench: Unified Understand and Generation Model Oriented Omni-dimensional Benchmark](https://arxiv.org/abs/2512.17196v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://umnibench.github.io/</p></details> |
+| **[SFBD-OMNI: Bridge models for lossy measurement restoration with limited clean samples](https://arxiv.org/abs/2512.17051v1)** | 2025-12-18 |  |
 | **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
 | **[Kling-Omni Technical Report](https://arxiv.org/abs/2512.16776v1)** | 2025-12-18 | <details><summary>Kling...</summary><p>Kling-Omni Technical Report</p></details> |
 | **[OMUDA: Omni-level Masking for Unsupervised Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2512.12303v1)** | 2025-12-13 | Submitted to TMM |
-| **[Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](https://arxiv.org/abs/2512.10955v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/omni-attribute</p></details> |
-| **[AgriGPT-Omni: A Unified Speech-Vision-Text Framework for Multilingual Agricultural Intelligence](https://arxiv.org/abs/2512.10624v1)** | 2025-12-11 |  |
 
 ## audio visual
 | **Title** | **Date** | **Comment** |
