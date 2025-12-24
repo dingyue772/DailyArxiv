@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - December 23, 2025
+title: Latest 5 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## audio visual
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[In-Context Audio Control of Video Diffusion Transformers](https://arxiv.org/abs/2512.18772v1)** | 2025-12-21 |  |
-| **[AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding](https://arxiv.org/abs/2512.16250v1)** | 2025-12-18 |  |
-| **[Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics](https://arxiv.org/abs/2512.15340v1)** | 2025-12-17 |  |
-| **[Audio-Visual Cross-Modal Compression for Generative Face Video Coding](https://arxiv.org/abs/2512.15262v1)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted as a PAPER and for publication in the DCC 2026 proceedings</p></details> |
-| **[Adaptive Multimodal Person Recognition: A Robust Framework for Handling Missing Modalities](https://arxiv.org/abs/2512.14961v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages and 8 tables</p></details> |
+| **[TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation](https://arxiv.org/abs/2512.20296v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project page: https://mm.kaist.ac.kr/projects/TAVID</p></details> |
+| **[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v1)** | 2025-12-23 |  |
+| **[DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation](https://arxiv.org/abs/2512.20117v1)** | 2025-12-23 | <details><summary>https...</summary><p>https://trilarflagz.github.io/DDAVS-page/</p></details> |
+| **[ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars](https://arxiv.org/abs/2512.19546v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project Page: https://ziqiaopeng.github.io/ActAvatar/</p></details> |
+| **[D$^{2}$Stream: Decoupled Dual-Stream Temporal-Speaker Interaction for Audio-Visual Speaker Detection](https://arxiv.org/abs/2512.19130v1)** | 2025-12-22 |  |
 
