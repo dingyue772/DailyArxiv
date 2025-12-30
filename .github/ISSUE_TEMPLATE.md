@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - December 29, 2025
+title: Latest 5 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## omni
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding](https://arxiv.org/abs/2512.21643v1)** | 2025-12-25 | <details><summary>25 pa...</summary><p>25 pages, 12 figures. ICLR 2026 submission</p></details> |
+| **[Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding](https://arxiv.org/abs/2512.21643v2)** | 2025-12-29 |  |
 | **[UmniBench: Unified Understand and Generation Model Oriented Omni-dimensional Benchmark](https://arxiv.org/abs/2512.17196v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://umnibench.github.io/</p></details> |
 | **[SFBD-OMNI: Bridge models for lossy measurement restoration with limited clean samples](https://arxiv.org/abs/2512.17051v1)** | 2025-12-18 |  |
 | **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
