@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - December 30, 2025
+title: Latest 5 Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## audio visual
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding](https://arxiv.org/abs/2512.23646v1)** | 2025-12-29 | <details><summary>Websi...</summary><p>Website:https://kd-tao.github.io/OmniAgent/</p></details> |
 | **[Causal-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation](https://arxiv.org/abs/2512.21650v1)** | 2025-12-25 | 10 pages, 4 figures |
 | **[TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation](https://arxiv.org/abs/2512.20296v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project page: https://mm.kaist.ac.kr/projects/TAVID</p></details> |
 | **[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v2)** | 2025-12-24 |  |
 | **[DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation](https://arxiv.org/abs/2512.20117v1)** | 2025-12-23 | <details><summary>https...</summary><p>https://trilarflagz.github.io/DDAVS-page/</p></details> |
-| **[ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars](https://arxiv.org/abs/2512.19546v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project Page: https://ziqiaopeng.github.io/ActAvatar/</p></details> |
 
