@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 06, 2026
+title: Latest 5 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## audio visual
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://arxiv.org/abs/2601.03233v1)** | 2026-01-06 |  |
+| **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v1)** | 2026-01-06 |  |
 | **[PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](https://arxiv.org/abs/2512.23994v1)** | 2025-12-30 | <details><summary>6 maj...</summary><p>6 major physical dimensions, 50 fine-grained test points, 1,000 groups of variable-controlled test samples</p></details> |
 | **[OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding](https://arxiv.org/abs/2512.23646v1)** | 2025-12-29 | <details><summary>Websi...</summary><p>Website:https://kd-tao.github.io/OmniAgent/</p></details> |
 | **[Causal-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation](https://arxiv.org/abs/2512.21650v1)** | 2025-12-25 | 10 pages, 4 figures |
-| **[TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation](https://arxiv.org/abs/2512.20296v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project page: https://mm.kaist.ac.kr/projects/TAVID</p></details> |
-| **[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v2)** | 2025-12-24 |  |
 
