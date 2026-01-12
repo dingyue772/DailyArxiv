@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 11, 2026
+title: Latest 5 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## omni
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings](https://arxiv.org/abs/2601.03666v1)** | 2026-01-07 |  |
+| **[e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings](https://arxiv.org/abs/2601.03666v2)** | 2026-01-09 | <details><summary>https...</summary><p>https://huggingface.co/Haon-Chen/e5-omni-7B</p></details> |
 | **[HyperCLOVA X 8B Omni](https://arxiv.org/abs/2601.01792v1)** | 2026-01-05 | Technical Report |
 | **[Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding](https://arxiv.org/abs/2512.21643v2)** | 2025-12-29 |  |
 | **[UmniBench: Unified Understand and Generation Model Oriented Omni-dimensional Benchmark](https://arxiv.org/abs/2512.17196v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://umnibench.github.io/</p></details> |
