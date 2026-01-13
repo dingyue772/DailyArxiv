@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 12, 2026
+title: Latest 5 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -20,5 +20,5 @@ labels: documentation
 | **[Dynamic Thermal Feedback in Highly Immersive VR Scenarios: a Multimodal Analysis of User Experience](https://arxiv.org/abs/2601.04781v1)** | 2026-01-08 | <details><summary>15 pa...</summary><p>15 pages, 9 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Klear: Unified Multi-Task Audio-Video Joint Generation](https://arxiv.org/abs/2601.04151v1)** | 2026-01-07 |  |
 | **[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://arxiv.org/abs/2601.03233v1)** | 2026-01-06 |  |
-| **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v1)** | 2026-01-06 |  |
+| **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v2)** | 2026-01-11 |  |
 
