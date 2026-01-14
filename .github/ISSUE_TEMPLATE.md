@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 13, 2026
+title: Latest 5 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## audio visual
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?](https://arxiv.org/abs/2601.08133v1)** | 2026-01-13 |  |
 | **[From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)](https://arxiv.org/abs/2601.05059v1)** | 2026-01-08 | <details><summary>Contr...</summary><p>Contributed original research to top tier conference in VLM; currently undergoing peer review</p></details> |
 | **[Dynamic Thermal Feedback in Highly Immersive VR Scenarios: a Multimodal Analysis of User Experience](https://arxiv.org/abs/2601.04781v1)** | 2026-01-08 | <details><summary>15 pa...</summary><p>15 pages, 9 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Klear: Unified Multi-Task Audio-Video Joint Generation](https://arxiv.org/abs/2601.04151v1)** | 2026-01-07 |  |
+| **[Apollo: Unified Multi-Task Audio-Video Joint Generation](https://arxiv.org/abs/2601.04151v2)** | 2026-01-13 |  |
 | **[LTX-2: Efficient Joint Audio-Visual Foundation Model](https://arxiv.org/abs/2601.03233v1)** | 2026-01-06 |  |
-| **[Omni2Sound: Towards Unified Video-Text-to-Audio Generation](https://arxiv.org/abs/2601.02731v2)** | 2026-01-11 |  |
 
