@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 15, 2026
+title: Latest 5 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## omni
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AEQ-Bench: Measuring Empathy of Omni-Modal Large Models](https://arxiv.org/abs/2601.10513v1)** | 2026-01-15 |  |
+| **[ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding](https://arxiv.org/abs/2601.10323v1)** | 2026-01-15 | <details><summary>Our p...</summary><p>Our project page is available at https://eureka-maggie.github.io/ROMA_show</p></details> |
 | **[Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning](https://arxiv.org/abs/2601.09536v1)** | 2026-01-14 |  |
 | **[Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception](https://arxiv.org/abs/2601.09413v1)** | 2026-01-14 | <details><summary>Prepr...</summary><p>Preprint. The version was submitted in October 2025</p></details> |
 | **[e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings](https://arxiv.org/abs/2601.03666v2)** | 2026-01-09 | <details><summary>https...</summary><p>https://huggingface.co/Haon-Chen/e5-omni-7B</p></details> |
-| **[HyperCLOVA X 8B Omni](https://arxiv.org/abs/2601.01792v1)** | 2026-01-05 | Technical Report |
-| **[Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding](https://arxiv.org/abs/2512.21643v2)** | 2025-12-29 |  |
 
 ## audio visual
 | **Title** | **Date** | **Comment** |
