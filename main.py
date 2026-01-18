@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["omni", "audio visual"] # TODO add more keywords
+keywords = ["omni", "video"] # TODO add more keywords
 
 max_result = 20 # maximum query results from arXiv API for each keyword
 issues_result = 5 # maximum papers to be included in the issue
