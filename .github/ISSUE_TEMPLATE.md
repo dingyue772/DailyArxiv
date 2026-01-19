@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 18, 2026
+title: Latest 5 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -13,12 +13,12 @@ labels: documentation
 | **[Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception](https://arxiv.org/abs/2601.09413v1)** | 2026-01-14 | <details><summary>Prepr...</summary><p>Preprint. The version was submitted in October 2025</p></details> |
 | **[e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings](https://arxiv.org/abs/2601.03666v2)** | 2026-01-09 | <details><summary>https...</summary><p>https://huggingface.co/Haon-Chen/e5-omni-7B</p></details> |
 
-## audio visual
+## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?](https://arxiv.org/abs/2601.08133v1)** | 2026-01-13 |  |
-| **[Residual Cross-Modal Fusion Networks for Audio-Visual Navigation](https://arxiv.org/abs/2601.08868v1)** | 2026-01-11 | <details><summary>Main ...</summary><p>Main paper (10 pages). Accepted for publication by the 14th international conference on Computational Visual Media (CVM 2026)</p></details> |
-| **[From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)](https://arxiv.org/abs/2601.05059v1)** | 2026-01-08 | <details><summary>Contr...</summary><p>Contributed original research to top tier conference in VLM; currently undergoing peer review</p></details> |
-| **[Dynamic Thermal Feedback in Highly Immersive VR Scenarios: a Multimodal Analysis of User Experience](https://arxiv.org/abs/2601.04781v1)** | 2026-01-08 | <details><summary>15 pa...</summary><p>15 pages, 9 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Apollo: Unified Multi-Task Audio-Video Joint Generation](https://arxiv.org/abs/2601.04151v2)** | 2026-01-13 |  |
+| **[Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding](https://arxiv.org/abs/2601.11359v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
+| **[SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2](https://arxiv.org/abs/2601.11301v1)** | 2026-01-16 |  |
+| **[Efficient On-Board Processing of Oblique UAV Video for Rapid Flood Extent Mapping](https://arxiv.org/abs/2601.11290v1)** | 2026-01-16 |  |
+| **[FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection](https://arxiv.org/abs/2601.11254v1)** | 2026-01-16 |  |
+| **[VidLeaks: Membership Inference Attacks Against Text-to-Video Models](https://arxiv.org/abs/2601.11210v1)** | 2026-01-16 |  |
 
