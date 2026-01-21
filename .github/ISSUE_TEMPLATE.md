@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 20, 2026
+title: Latest 5 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding](https://arxiv.org/abs/2601.11359v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
-| **[SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2](https://arxiv.org/abs/2601.11301v1)** | 2026-01-16 |  |
-| **[Efficient On-Board Processing of Oblique UAV Video for Rapid Flood Extent Mapping](https://arxiv.org/abs/2601.11290v1)** | 2026-01-16 |  |
-| **[FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection](https://arxiv.org/abs/2601.11254v1)** | 2026-01-16 |  |
-| **[VidLeaks: Membership Inference Attacks Against Text-to-Video Models](https://arxiv.org/abs/2601.11210v1)** | 2026-01-16 |  |
+| **[Video Individual Counting and Tracking from Moving Drones: A Benchmark and Methods](https://arxiv.org/abs/2601.12500v1)** | 2026-01-18 |  |
+| **[Less is More: Label-Guided Summarization of Procedural and Instructional Videos](https://arxiv.org/abs/2601.12243v1)** | 2026-01-18 | 22 pages, 6 figures |
+| **[VIRTUE: Versatile Video Retrieval Through Unified Embeddings](https://arxiv.org/abs/2601.12193v1)** | 2026-01-17 |  |
+| **[VidTune: Creating Video Soundtracks with Generative Music and Contextual Thumbnails](https://arxiv.org/abs/2601.12180v1)** | 2026-01-17 | Accepted to CHI 2026 |
+| **[CroBIM-V: Memory-Quality Controlled Remote Sensing Referring Video Object Segmentation](https://arxiv.org/abs/2601.12076v1)** | 2026-01-17 |  |
 
