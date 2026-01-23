@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 22, 2026
+title: Latest 5 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking Video Generation Model for the Embodied World](https://arxiv.org/abs/2601.15282v1)** | 2026-01-21 | <details><summary>Githu...</summary><p>Github: https://github.com/DAGroup-PKU/ReVidgen/ Project website: https://dagroup-pku.github.io/ReVidgen.github.io/</p></details> |
-| **[StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2601.15281v1)** | 2026-01-21 | <details><summary>17 pa...</summary><p>17 pages, 21 figures,</p></details> |
-| **[Interpreting Multimodal Communication at Scale in Short-Form Video: Visual, Audio, and Textual Mental Health Discourse on TikTok](https://arxiv.org/abs/2601.15278v1)** | 2026-01-21 |  |
-| **[Training-Free and Interpretable Hateful Video Detection via Multi-stage Adversarial Reasoning](https://arxiv.org/abs/2601.15115v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026. \c{opyright} 2026 IEEE. This is the author accepted manuscript. The final published version will be available via IEEE Xplore</p></details> |
-| **[LiViBench: An Omnimodal Benchmark for Interactive Livestream Video Understanding](https://arxiv.org/abs/2601.15016v1)** | 2026-01-21 | AAAI 2026 Main Track |
+| **[CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback](https://arxiv.org/abs/2601.16214v1)** | 2026-01-22 |  |
+| **[PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](https://arxiv.org/abs/2601.16210v1)** | 2026-01-22 |  |
+| **[360Anything: Geometry-Free Lifting of Images and Videos to 360°](https://arxiv.org/abs/2601.16192v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project page: https://360anything.github.io/</p></details> |
+| **[Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163v1)** | 2026-01-22 |  |
+| **[HVD: Human Vision-Driven Video Representation Learning for Text-Video Retrieval](https://arxiv.org/abs/2601.16155v1)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 
