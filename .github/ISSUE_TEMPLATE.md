@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 28, 2026
+title: Latest 5 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Video-KTR: Reinforcing Video Reasoning via Key Token Attribution](https://arxiv.org/abs/2601.19686v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining](https://arxiv.org/abs/2601.19606v1)** | 2026-01-27 |  |
-| **[Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation](https://arxiv.org/abs/2601.19488v1)** | 2026-01-27 |  |
-| **[DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models](https://arxiv.org/abs/2601.19267v1)** | 2026-01-27 | <details><summary>Proje...</summary><p>Project webpage: https://diadem-captioner.github.io/</p></details> |
-| **[VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics](https://arxiv.org/abs/2601.19236v1)** | 2026-01-27 |  |
+| **[FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models](https://arxiv.org/abs/2601.20791v1)** | 2026-01-28 |  |
+| **[ProSkill: Segment-Level Skill Assessment in Procedural Videos](https://arxiv.org/abs/2601.20661v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at The IEEE/CVF Winter Conference on Applications of Computer Vision 2026</p></details> |
+| **[Immersive Volumetric Video Playback: Near-RT Resource Allocation and O-RAN-based Implementation](https://arxiv.org/abs/2601.20625v1)** | 2026-01-28 |  |
+| **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v1)** | 2026-01-28 |  |
+| **[DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression](https://arxiv.org/abs/2601.20564v1)** | 2026-01-28 | 17 pages, 10 figures |
 
