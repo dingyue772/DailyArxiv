@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - January 29, 2026
+title: Latest 5 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models](https://arxiv.org/abs/2601.20791v1)** | 2026-01-28 |  |
-| **[ProSkill: Segment-Level Skill Assessment in Procedural Videos](https://arxiv.org/abs/2601.20661v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at The IEEE/CVF Winter Conference on Applications of Computer Vision 2026</p></details> |
-| **[Immersive Volumetric Video Playback: Near-RT Resource Allocation and O-RAN-based Implementation](https://arxiv.org/abs/2601.20625v1)** | 2026-01-28 |  |
-| **[StructAlign: Structured Cross-Modal Alignment for Continual Text-to-Video Retrieval](https://arxiv.org/abs/2601.20597v1)** | 2026-01-28 |  |
-| **[DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression](https://arxiv.org/abs/2601.20564v1)** | 2026-01-28 | 17 pages, 10 figures |
+| **[JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion](https://arxiv.org/abs/2601.22143v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project webpage available at https://justdubit.github.io</p></details> |
+| **[EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers](https://arxiv.org/abs/2601.22127v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project page: https://edit-yourself.github.io/</p></details> |
+| **[Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving](https://arxiv.org/abs/2601.22032v1)** | 2026-01-29 |  |
+| **[Vidmento: Creating Video Stories Through Context-Aware Expansion With Generative Video](https://arxiv.org/abs/2601.22013v1)** | 2026-01-29 | 25 pages, 18 figures |
+| **[Zero-Shot Video Restoration and Enhancement with Assistance of Video Diffusion Models](https://arxiv.org/abs/2601.21922v1)** | 2026-01-29 |  |
 
