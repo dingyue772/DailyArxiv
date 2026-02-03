@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - February 02, 2026
+title: Latest 5 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## omni
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Omni-Judge: Can Omni-LLMs Serve as Human-Aligned Judges for Text-Conditioned Audio-Video Generation?](https://arxiv.org/abs/2602.01623v1)** | 2026-02-02 |  |
+| **[Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis](https://arxiv.org/abs/2602.00846v1)** | 2026-01-31 |  |
 | **[Omni-fMRI: A Universal Atlas-Free fMRI Foundation Model](https://arxiv.org/abs/2601.23090v1)** | 2026-01-30 |  |
 | **[AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation](https://arxiv.org/abs/2601.17761v1)** | 2026-01-25 |  |
 | **[Omni-directional attention mechanism based on Mamba for speech separation](https://arxiv.org/abs/2601.16603v1)** | 2026-01-23 |  |
-| **[FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](https://arxiv.org/abs/2601.13836v1)** | 2026-01-20 | <details><summary>https...</summary><p>https://openmoss.github.io/FutureOmni</p></details> |
-| **[AEQ-Bench: Measuring Empathy of Omni-Modal Large Models](https://arxiv.org/abs/2601.10513v1)** | 2026-01-15 |  |
 
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://arxiv.org/abs/2601.23286v1)** | 2026-01-30 |  |
-| **[Structured Over Scale: Learning Spatial Reasoning from Educational Video](https://arxiv.org/abs/2601.23251v1)** | 2026-01-30 |  |
-| **[ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232v1)** | 2026-01-30 | 28 pages, 7 figures |
-| **[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224v1)** | 2026-01-30 | <details><summary>24 pa...</summary><p>24 pages, 15 figures, 11 tables</p></details> |
-| **[Hi-Light: A Path to high-fidelity, high-resolution video relighting with a Novel Evaluation Paradigm](https://arxiv.org/abs/2601.23167v1)** | 2026-01-30 |  |
+| **[Grounding Generated Videos in Feasible Plans via World Models](https://arxiv.org/abs/2602.01960v1)** | 2026-02-02 |  |
+| **[WS-IMUBench: Can Weakly Supervised Methods from Audio, Image, and Video Be Adapted for IMU-based Temporal Action Localization?](https://arxiv.org/abs/2602.01850v1)** | 2026-02-02 | <details><summary>Under...</summary><p>Under Review. 28 pages, 9 figures, 6 tables</p></details> |
+| **[GPD: Guided Progressive Distillation for Fast and High-Quality Video Generation](https://arxiv.org/abs/2602.01814v1)** | 2026-02-02 |  |
+| **[Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](https://arxiv.org/abs/2602.01801v1)** | 2026-02-02 | <details><summary>Proje...</summary><p>Project Page: https://dvirsamuel.github.io/fast-auto-regressive-video/</p></details> |
+| **[FreshMem: Brain-Inspired Frequency-Space Hybrid Memory for Streaming Video Understanding](https://arxiv.org/abs/2602.01683v1)** | 2026-02-02 |  |
 
