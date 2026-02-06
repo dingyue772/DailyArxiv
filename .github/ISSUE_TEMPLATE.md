@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - February 05, 2026
+title: Latest 5 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention](https://arxiv.org/abs/2602.04789v1)** | 2026-02-04 | 14 pages, 7 figures |
-| **[AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation](https://arxiv.org/abs/2602.04672v1)** | 2026-02-04 | 11 pages |
-| **[SalFormer360: a transformer-based saliency estimation model for 360-degree videos](https://arxiv.org/abs/2602.04584v1)** | 2026-02-04 |  |
-| **[VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation](https://arxiv.org/abs/2602.04567v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to The ACM Web Conference 2026 (WWW '26). Preprint of conference paper. 7 pages, 2 (7) figures, 4 tables. Dataset available at: https://huggingface.co/datasets/deepvk/VK-LSVD</p></details> |
-| **[Depth-Guided Metric-Aware Temporal Consistency for Monocular Video Human Mesh Recovery](https://arxiv.org/abs/2602.04257v1)** | 2026-02-04 |  |
+| **[Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://arxiv.org/abs/2602.06028v1)** | 2026-02-05 |  |
+| **[MambaVF: State Space Model for Efficient Video Fusion](https://arxiv.org/abs/2602.06017v1)** | 2026-02-05 |  |
+| **[RISE-Video: Can Video Generators Decode Implicit World Rules?](https://arxiv.org/abs/2602.05986v1)** | 2026-02-05 | <details><summary>38 pa...</summary><p>38 pages, 16 figures, 3 tables; Code: https://github.com/VisionXLab/RISE-Video; HuggingFace: https://huggingface.co/datasets/VisionXLab/RISE-Video</p></details> |
+| **[LSA: Localized Semantic Alignment for Enhancing Temporal Consistency in Traffic Video Generation](https://arxiv.org/abs/2602.05966v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to IEEE IV 2026. 8 pages, 3 figures. Code available at https://github.com/mirlanium/LSA</p></details> |
+| **[Pathwise Test-Time Correction for Autoregressive Long Video Generation](https://arxiv.org/abs/2602.05871v1)** | 2026-02-05 |  |
 
