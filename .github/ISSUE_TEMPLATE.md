@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - February 06, 2026
+title: Latest 5 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context Forcing: Consistent Autoregressive Video Generation with Long Context](https://arxiv.org/abs/2602.06028v1)** | 2026-02-05 |  |
-| **[MambaVF: State Space Model for Efficient Video Fusion](https://arxiv.org/abs/2602.06017v1)** | 2026-02-05 |  |
-| **[RISE-Video: Can Video Generators Decode Implicit World Rules?](https://arxiv.org/abs/2602.05986v1)** | 2026-02-05 | <details><summary>38 pa...</summary><p>38 pages, 16 figures, 3 tables; Code: https://github.com/VisionXLab/RISE-Video; HuggingFace: https://huggingface.co/datasets/VisionXLab/RISE-Video</p></details> |
-| **[LSA: Localized Semantic Alignment for Enhancing Temporal Consistency in Traffic Video Generation](https://arxiv.org/abs/2602.05966v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to IEEE IV 2026. 8 pages, 3 figures. Code available at https://github.com/mirlanium/LSA</p></details> |
-| **[Pathwise Test-Time Correction for Autoregressive Long Video Generation](https://arxiv.org/abs/2602.05871v1)** | 2026-02-05 |  |
+| **[CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation](https://arxiv.org/abs/2602.06959v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project website: https://karine-huang.github.io/CineScene/</p></details> |
+| **[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://arxiv.org/abs/2602.06949v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project page: https://dreamdojo-world.github.io/</p></details> |
+| **[Reliable Mislabel Detection for Video Capsule Endoscopy Data](https://arxiv.org/abs/2602.06938v1)** | 2026-02-06 |  |
+| **[RFDM: Residual Flow Diffusion Model for Efficient Causal Video Editing](https://arxiv.org/abs/2602.06871v1)** | 2026-02-06 |  |
+| **[DynFOA: Generating First-Order Ambisonics with Conditional Diffusion for Dynamic and Acoustically Complex 360-Degree Videos](https://arxiv.org/abs/2602.06846v1)** | 2026-02-06 |  |
 
