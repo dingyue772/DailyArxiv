@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - February 09, 2026
+title: Latest 5 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## omni
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2602.04804v1)** | 2026-02-04 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
-| **[GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video](https://arxiv.org/abs/2602.03328v1)** | 2026-02-03 |  |
-| **[vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models](https://arxiv.org/abs/2602.02204v1)** | 2026-02-02 | 12 pages, 8 figures |
-| **[Omni-Judge: Can Omni-LLMs Serve as Human-Aligned Judges for Text-Conditioned Audio-Video Generation?](https://arxiv.org/abs/2602.01623v1)** | 2026-02-02 |  |
-| **[Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis](https://arxiv.org/abs/2602.00846v1)** | 2026-01-31 |  |
+| **[Tele-Omni: a Unified Multimodal Framework for Video Generation and Editing](https://arxiv.org/abs/2602.09609v1)** | 2026-02-10 |  |
+| **[Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment](https://arxiv.org/abs/2602.10161v1)** | 2026-02-10 |  |
+| **[Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing](https://arxiv.org/abs/2602.08820v1)** | 2026-02-09 | <details><summary>Techn...</summary><p>Technical Report, Project: https://howellyoung-s.github.io/Omni-Video2-project/</p></details> |
+| **[Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models](https://arxiv.org/abs/2602.07106v1)** | 2026-02-06 |  |
+| **[Exploring Physical Intelligence Emergence via Omni-Modal Architecture and Physical Data Engine](https://arxiv.org/abs/2602.07064v1)** | 2026-02-05 |  |
 
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation](https://arxiv.org/abs/2602.06959v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project website: https://karine-huang.github.io/CineScene/</p></details> |
-| **[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://arxiv.org/abs/2602.06949v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project page: https://dreamdojo-world.github.io/</p></details> |
-| **[Reliable Mislabel Detection for Video Capsule Endoscopy Data](https://arxiv.org/abs/2602.06938v1)** | 2026-02-06 |  |
-| **[RFDM: Residual Flow Diffusion Model for Efficient Causal Video Editing](https://arxiv.org/abs/2602.06871v1)** | 2026-02-06 |  |
-| **[DynFOA: Generating First-Order Ambisonics with Conditional Diffusion for Dynamic and Acoustically Complex 360-Degree Videos](https://arxiv.org/abs/2602.06846v1)** | 2026-02-06 |  |
+| **[SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos](https://arxiv.org/abs/2602.11154v1)** | 2026-02-11 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project website: https://yuegao.me/SurfPhase</p></details> |
+| **[HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion](https://arxiv.org/abs/2602.11117v1)** | 2026-02-11 | <details><summary>Websi...</summary><p>Website: https://boese0601.github.io/hairweaver/</p></details> |
+| **[ContactGaussian-WM: Learning Physics-Grounded World Model from Videos](https://arxiv.org/abs/2602.11021v1)** | 2026-02-11 |  |
+| **[Flow caching for autoregressive video generation](https://arxiv.org/abs/2602.10825v1)** | 2026-02-11 |  |
+| **[Say, Dream, and Act: Learning Video World Models for Instruction-Driven Robot Manipulation](https://arxiv.org/abs/2602.10717v1)** | 2026-02-11 |  |
 
