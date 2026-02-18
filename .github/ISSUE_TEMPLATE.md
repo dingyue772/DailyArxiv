@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - February 17, 2026
+title: Latest 5 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing](https://arxiv.org/abs/2602.15031v1)** | 2026-02-16 | <details><summary>Proje...</summary><p>Project page: https://yehonathanlitman.github.io/edit_ctrl</p></details> |
-| **[AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories](https://arxiv.org/abs/2602.14941v1)** | 2026-02-16 | <details><summary>Proje...</summary><p>Project website: https://zunwang1.github.io/AnchorWeave</p></details> |
-| **[Adapting VACE for Real-Time Autoregressive Video Diffusion](https://arxiv.org/abs/2602.14381v1)** | 2026-02-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 7 tables</p></details> |
-| **[Dual-Signal Adaptive KV-Cache Optimization for Long-Form Video Understanding in Vision-Language Models](https://arxiv.org/abs/2602.14236v1)** | 2026-02-15 |  |
-| **[HiVid: LLM-Guided Video Saliency For Content-Aware VOD And Live Streaming](https://arxiv.org/abs/2602.14214v1)** | 2026-02-15 | ICLR 2026 |
+| **[VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/abs/2602.15819v1)** | 2026-02-17 |  |
+| **[Automatic Funny Scene Extraction from Long-form Cinematic Videos](https://arxiv.org/abs/2602.15381v1)** | 2026-02-17 |  |
+| **[EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use](https://arxiv.org/abs/2602.15329v1)** | 2026-02-17 |  |
+| **[Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs](https://arxiv.org/abs/2602.15318v1)** | 2026-02-17 | 15 pages , 6 figures |
+| **[Consistency-Preserving Diverse Video Generation](https://arxiv.org/abs/2602.15287v1)** | 2026-02-17 |  |
 
