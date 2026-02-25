@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - February 24, 2026
+title: Latest 5 Papers - February 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159v1)** | 2026-02-23 | <details><summary>Homep...</summary><p>Homepage: https://video-reason.com/</p></details> |
-| **[NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning](https://arxiv.org/abs/2602.20119v1)** | 2026-02-23 | <details><summary>25 pa...</summary><p>25 pages, 15 figures. Project webpage: https://nova-plan.github.io/</p></details> |
-| **[Towards Understanding Views on Combining Videos and Gamification in Software Engineering Training](https://arxiv.org/abs/2602.19628v1)** | 2026-02-23 | <details><summary>2 pag...</summary><p>2 pages, ICSE-Companion '26</p></details> |
-| **[PedaCo-Gen: Scaffolding Pedagogical Agency in Human-AI Collaborative Video Authoring](https://arxiv.org/abs/2602.19623v1)** | 2026-02-23 |  |
-| **[Vid2Sid: Videos Can Help Close the Sim2Real Gap](https://arxiv.org/abs/2602.19359v1)** | 2026-02-22 |  |
+| **[Human Video Generation from a Single Image with 3D Pose and View Control](https://arxiv.org/abs/2602.21188v1)** | 2026-02-24 |  |
+| **[UDVideoQA: A Traffic Video Question Answering Dataset for Multi-Object Spatio-Temporal Reasoning in Urban Dynamics](https://arxiv.org/abs/2602.21137v1)** | 2026-02-24 |  |
+| **[VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models](https://arxiv.org/abs/2602.20999v1)** | 2026-02-24 | <details><summary>Proje...</summary><p>Project page: https://Zbwwwwwwww.github.io/VII</p></details> |
+| **[Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models](https://arxiv.org/abs/2602.20981v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](https://arxiv.org/abs/2602.20913v1)** | 2026-02-24 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 8 tables, accepted to CVPR 2026</p></details> |
 
