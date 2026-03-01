@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - February 28, 2026
+title: Latest 5 Papers - March 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
