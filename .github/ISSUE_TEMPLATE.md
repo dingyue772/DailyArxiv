@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 03, 2026
+title: Latest 5 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,18 +7,18 @@ labels: documentation
 ## omni
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization](https://arxiv.org/abs/2603.03192v1)** | 2026-03-03 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project Page: https://mod-dpo.github.io/</p></details> |
+| **[Wukong-Omni: Design, Modeling and Control of a Multi-mode Robot for Air, Land, and Underwater Exploration with All-in-One Propulsion Unit](https://arxiv.org/abs/2603.02602v1)** | 2026-03-03 | 19 pages, 27 figures |
+| **[OmniRet: Efficient and High-Fidelity Omni Modality Retrieval](https://arxiv.org/abs/2603.02098v1)** | 2026-03-02 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project link: https://github.com/hmchuong/omniret</p></details> |
 | **[LLaDA-o: An Effective and Length-Adaptive Omni Diffusion Model](https://arxiv.org/abs/2603.01068v1)** | 2026-03-01 |  |
 | **[Teleoperated Omni-directional Dual Arm Mobile Manipulation Robotic System with Shared Control for Retail Store](https://arxiv.org/abs/2602.23923v1)** | 2026-02-27 | <details><summary>This ...</summary><p>This work has been accepted for publication in the Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC 2024). $©$ IEEE. The final version is available via IEEE Xplore</p></details> |
-| **[ThinkOmni: Lifting Textual Reasoning to Omni-modal Scenarios via Guidance Decoding](https://arxiv.org/abs/2602.23306v1)** | 2026-02-26 | Accept by ICLR 2026 |
-| **[OmniGAIA: Towards Native Omni-Modal AI Agents](https://arxiv.org/abs/2602.22897v2)** | 2026-02-28 |  |
-| **[EmoOmni: Bridging Emotional Understanding and Expression in Omni-Modal LLMs](https://arxiv.org/abs/2602.21900v1)** | 2026-02-25 |  |
 
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Action-Guided Attention for Video Action Anticipation](https://arxiv.org/abs/2603.01743v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[MVR: Multi-view Video Reward Shaping for Reinforcement Learning](https://arxiv.org/abs/2603.01694v1)** | 2026-03-02 | ICLR 2026 |
-| **[FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters](https://arxiv.org/abs/2603.01685v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[PPEDCRF: Privacy-Preserving Enhanced Dynamic CRF for Location-Privacy Protection for Sequence Videos with Minimal Detection Degradation](https://arxiv.org/abs/2603.01593v1)** | 2026-03-02 |  |
-| **[Training-Free Spatio-temporal Decoupled Reasoning Video Segmentation with Adaptive Object Memory](https://arxiv.org/abs/2603.01545v1)** | 2026-03-02 | Accept by AAAI2026 |
+| **[EduVQA: Benchmarking AI-Generated Video Quality Assessment for Education](https://arxiv.org/abs/2603.03066v1)** | 2026-03-03 |  |
+| **[Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers](https://arxiv.org/abs/2603.02919v1)** | 2026-03-03 | CVPR 2026 |
+| **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
+| **[SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers](https://arxiv.org/abs/2603.02883v1)** | 2026-03-03 |  |
+| **[SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion](https://arxiv.org/abs/2603.02882v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 
