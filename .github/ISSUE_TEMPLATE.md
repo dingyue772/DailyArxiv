@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 04, 2026
+title: Latest 5 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EduVQA: Benchmarking AI-Generated Video Quality Assessment for Education](https://arxiv.org/abs/2603.03066v1)** | 2026-03-03 |  |
-| **[Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers](https://arxiv.org/abs/2603.02919v1)** | 2026-03-03 | CVPR 2026 |
-| **[LLandMark: A Multi-Agent Framework for Landmark-Aware Multimodal Interactive Video Retrieval](https://arxiv.org/abs/2603.02888v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Workshop on New Frontiers in Information Retrieval</p></details> |
-| **[SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers](https://arxiv.org/abs/2603.02883v1)** | 2026-03-03 |  |
-| **[SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion](https://arxiv.org/abs/2603.02882v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379v1)** | 2026-03-04 | <details><summary>Page:...</summary><p>Page: pku-yuangroup.github.io/Helios-Page</p></details> |
+| **[FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering](https://arxiv.org/abs/2603.04349v1)** | 2026-03-04 |  |
+| **[ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors](https://arxiv.org/abs/2603.04338v1)** | 2026-03-04 | <details><summary>Proje...</summary><p>Project Page: https://arthoi.github.io/</p></details> |
+| **[CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video](https://arxiv.org/abs/2603.04291v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[RIVER: A Real-Time Interaction Benchmark for Video LLMs](https://arxiv.org/abs/2603.03985v1)** | 2026-03-04 |  |
 
