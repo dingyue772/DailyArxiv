@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 09, 2026
+title: Latest 5 Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[NEGATE: Constrained Semantic Guidance for Linguistic Negation in Text-to-Video Diffusion](https://arxiv.org/abs/2603.06533v1)** | 2026-03-06 | 50 pages, 32 figures |
-| **[Match4Annotate: Propagating Sparse Video Annotations via Implicit Neural Feature Matching](https://arxiv.org/abs/2603.06471v1)** | 2026-03-06 |  |
-| **[Physical Simulator In-the-Loop Video Generation](https://arxiv.org/abs/2603.06408v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[FlowMotion: Training-Free Flow Guidance for Video Motion Transfer](https://arxiv.org/abs/2603.06289v1)** | 2026-03-06 |  |
-| **[DreamToNav: Generalizable Navigation for Robots via Generative Video Planning](https://arxiv.org/abs/2603.06190v1)** | 2026-03-06 | <details><summary>Submi...</summary><p>Submitted to conference</p></details> |
+| **[HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising](https://arxiv.org/abs/2603.08703v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://jacky-hate.github.io/HiAR/ Code: https://github.com/Jacky-hate/HiAR</p></details> |
+| **[CAST: Modeling Visual State Transitions for Consistent Video Retrieval](https://arxiv.org/abs/2603.08648v1)** | 2026-03-09 |  |
+| **[StreamReady: Learning What to Answer and When in Long Streaming Videos](https://arxiv.org/abs/2603.08620v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted in CVPR 2026</p></details> |
+| **[SWIFT: Sliding Window Reconstruction for Few-Shot Training-Free Generated Video Attribution](https://arxiv.org/abs/2603.08536v1)** | 2026-03-09 |  |
+| **[3PoinTr: 3D Point Tracks for Robot Manipulation Pretraining from Casual Videos](https://arxiv.org/abs/2603.08485v1)** | 2026-03-09 |  |
 
