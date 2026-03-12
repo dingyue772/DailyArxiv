@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 11, 2026
+title: Latest 5 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary](https://arxiv.org/abs/2603.09883v1)** | 2026-03-10 |  |
-| **[MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents](https://arxiv.org/abs/2603.09827v1)** | 2026-03-10 | Under review |
-| **[ConfCtrl: Enabling Precise Camera Control in Video Diffusion via Confidence-Aware Interpolation](https://arxiv.org/abs/2603.09819v1)** | 2026-03-10 | 13 pages |
-| **[TIMID: Time-Dependent Mistake Detection in Videos of Robot Executions](https://arxiv.org/abs/2603.09782v1)** | 2026-03-10 | <details><summary>8 pag...</summary><p>8 pages, 5 figures , IROS submission</p></details> |
-| **[LAP: A Language-Aware Planning Model For Procedure Planning In Instructional Videos](https://arxiv.org/abs/2603.09743v1)** | 2026-03-10 |  |
+| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
+| **[Contrastive learning-based video quality assessment-jointed video vision transformer for video recognition](https://arxiv.org/abs/2603.10965v1)** | 2026-03-11 | <details><summary>9 fig...</summary><p>9 figures, 10 tables,</p></details> |
+| **[Are Video Reasoning Models Ready to Go Outside?](https://arxiv.org/abs/2603.10652v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project Page: https://robust-video-reason.github.io/</p></details> |
+| **[P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video](https://arxiv.org/abs/2603.10551v1)** | 2026-03-11 | <details><summary>MMSys...</summary><p>MMSys 2026; Project Website: see https://longanwang-cs.github.io/PGSVC-webpage/</p></details> |
+| **[DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control](https://arxiv.org/abs/2603.10448v1)** | 2026-03-11 | <details><summary>https...</summary><p>https://dit4dit.github.io/</p></details> |
 
