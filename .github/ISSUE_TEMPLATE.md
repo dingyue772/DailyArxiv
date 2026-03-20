@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - March 19, 2026
+title: Latest 5 Papers - March 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](https://arxiv.org/abs/2603.18004v1)** | 2026-03-18 |  |
-| **[Versatile Editing of Video Content, Actions, and Dynamics without Training](https://arxiv.org/abs/2603.17989v1)** | 2026-03-18 | <details><summary>Proje...</summary><p>Project page at https://dynaedit.github.io/</p></details> |
-| **[Feeling the Space: Egomotion-Aware Video Representation for Efficient and Accurate 3D Scene Understanding](https://arxiv.org/abs/2603.17980v1)** | 2026-03-18 |  |
-| **[AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors](https://arxiv.org/abs/2603.17975v1)** | 2026-03-18 | <details><summary>Our p...</summary><p>Our project page is available at https://miraymen.github.io/ahoy/</p></details> |
-| **[VideoAtlas: Navigating Long-Form Video in Logarithmic Compute](https://arxiv.org/abs/2603.17948v1)** | 2026-03-18 |  |
+| **[SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](https://arxiv.org/abs/2603.19228v1)** | 2026-03-19 | 24 pages, 12 figures |
+| **[EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing](https://arxiv.org/abs/2603.19224v1)** | 2026-03-19 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Page: https://henghuiding.com/EffectErase/</p></details> |
+| **[LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs](https://arxiv.org/abs/2603.19217v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://kd-tao.github.io/LVOmniBench/</p></details> |
+| **[Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding](https://arxiv.org/abs/2603.19054v1)** | 2026-03-19 |  |
+| **[Measuring 3D Spatial Geometric Consistency in Dynamic Generated Videos](https://arxiv.org/abs/2603.19048v1)** | 2026-03-19 | <details><summary>Code ...</summary><p>Code available at https://github.com/tj12323/SGC</p></details> |
 
