@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - April 06, 2026
+title: Latest 5 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model](https://arxiv.org/abs/2604.03181v1)** | 2026-04-03 | <details><summary>Proje...</summary><p>Project Website: https://lpy1219.github.io/MV-VDP-Web/</p></details> |
-| **[Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation](https://arxiv.org/abs/2604.03118v1)** | 2026-04-03 | under review |
-| **[STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models](https://arxiv.org/abs/2604.03045v1)** | 2026-04-03 | Preprint |
-| **[QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection](https://arxiv.org/abs/2604.03040v1)** | 2026-04-03 |  |
-| **[Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation](https://arxiv.org/abs/2604.02979v1)** | 2026-04-03 |  |
+| **[DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing](https://arxiv.org/abs/2604.04875v1)** | 2026-04-06 |  |
+| **[Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale](https://arxiv.org/abs/2604.04634v1)** | 2026-04-06 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready</p></details> |
+| **[Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?](https://arxiv.org/abs/2604.04502v1)** | 2026-04-06 | <details><summary>16 pa...</summary><p>16 pages, 12 figures. Equal contribution by Zhongru Zhang, Chenghan Yang, Qingzhou Lu and Yanjiang Guo. Project lead: Yanjiang Guo</p></details> |
+| **[Scalable and Explainable Learner-Video Interaction Prediction using Multimodal Large Language Models](https://arxiv.org/abs/2604.04482v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted as long paper to the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
+| **[Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse](https://arxiv.org/abs/2604.04451v1)** | 2026-04-06 |  |
 
