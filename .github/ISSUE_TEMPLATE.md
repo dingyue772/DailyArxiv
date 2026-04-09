@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - April 08, 2026
+title: Latest 5 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Action Images: End-to-End Policy Learning via Multiview Video Generation](https://arxiv.org/abs/2604.06168v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project Page: https://actionimages.github.io/</p></details> |
-| **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/abs/2604.06161v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://yzmblog.github.io/projects/DiffHDR/</p></details> |
-| **[CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics](https://arxiv.org/abs/2604.06036v1)** | 2026-04-07 | 18 pages, 34 figures |
-| **[OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control](https://arxiv.org/abs/2604.06010v1)** | 2026-04-07 |  |
-| **[HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation](https://arxiv.org/abs/2604.05961v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://taohuumd.github.io/projects/HumANDiff/</p></details> |
+| **[GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos](https://arxiv.org/abs/2604.07273v1)** | 2026-04-08 |  |
+| **[NTIRE 2026 Challenge on Bitstream-Corrupted Video Restoration: Methods and Results](https://arxiv.org/abs/2604.06945v1)** | 2026-04-08 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 1 table, CVPRW2026 NTIRE Challenge Report</p></details> |
+| **[Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis](https://arxiv.org/abs/2604.06939v1)** | 2026-04-08 |  |
+| **[Video-guided Machine Translation with Global Video Context](https://arxiv.org/abs/2604.06789v1)** | 2026-04-08 |  |
+| **[LiveStre4m: Feed-Forward Live Streaming of Novel Views from Unposed Multi-View Video](https://arxiv.org/abs/2604.06740v1)** | 2026-04-08 |  |
 
