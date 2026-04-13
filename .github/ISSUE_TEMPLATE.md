@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - April 12, 2026
+title: Latest 5 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,9 @@ labels: documentation
 ## video
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models](https://arxiv.org/abs/2604.08546v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://h-embodvis.github.io/NUMINA</p></details> |
-| **[AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation](https://arxiv.org/abs/2604.08540v1)** | 2026-04-09 |  |
-| **[UniversalVTG: A Universal and Lightweight Foundation Model for Video Temporal Grounding](https://arxiv.org/abs/2604.08522v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project Page: https://vision.cs.utexas.edu/projects/universalvtg</p></details> |
-| **[Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics](https://arxiv.org/abs/2604.08503v1)** | 2026-04-09 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, CVPR 2026</p></details> |
-| **[Novel View Synthesis as Video Completion](https://arxiv.org/abs/2604.08500v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://frame-crafter.github.io/</p></details> |
+| **[Tango: Taming Visual Signals for Efficient Video Large Language Models](https://arxiv.org/abs/2604.09547v1)** | 2026-04-10 | <details><summary>Code ...</summary><p>Code is available at https://github.com/xjtupanda/Tango</p></details> |
+| **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](https://arxiv.org/abs/2604.09473v1)** | 2026-04-10 | <details><summary>Journ...</summary><p>Journal extension of CVPR 2025. See also arXiv:2503.14359 . Project page and code: https://github.com/Metaverse-AI-Lab-THU/ImViD</p></details> |
+| **[Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories](https://arxiv.org/abs/2604.09429v1)** | 2026-04-10 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables. Project page: https://wbjang.github.io/raysaspixels/</p></details> |
+| **[Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application](https://arxiv.org/abs/2604.09421v1)** | 2026-04-10 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Circuits and Systems for Video Technology</p></details> |
+| **[VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis](https://arxiv.org/abs/2604.09330v1)** | 2026-04-10 |  |
 
