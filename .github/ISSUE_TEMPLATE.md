@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - May 02, 2026
+title: Latest 5 Papers - May 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -13,27 +13,27 @@ labels: documentation
 ## video understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CurEvo: Curriculum-Guided Self-Evolution for Video Understanding](https://arxiv.org/abs/2604.26707v1)** | 2026-04-29 | 10 pages, 5 figures |
-| **[DenseStep2M: A Scalable, Training-Free Pipeline for Dense Instructional Video Annotation](https://arxiv.org/abs/2604.26565v1)** | 2026-04-29 |  |
-| **[$\text{PKS}^4$:Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding](https://arxiv.org/abs/2604.26461v1)** | 2026-04-29 |  |
-| **[Report of the 5th PVUW Challenge: Towards More Diverse Modalities in Pixel-Level Understanding](https://arxiv.org/abs/2604.26031v1)** | 2026-04-28 | <details><summary>Offic...</summary><p>Official Report of the 5th PVUW Challenge on CVPR 2026</p></details> |
-| **[MarkIt: Training-Free Visual Markers for Precise Video Temporal Grounding](https://arxiv.org/abs/2604.25886v1)** | 2026-04-28 |  |
+| **[MedHorizon: Towards Long-context Medical Video Understanding in the Wild](https://arxiv.org/abs/2605.06537v1)** | 2026-05-07 |  |
+| **[Event-Causal RAG: A Retrieval-Augmented Generation Framework for Long Video Reasoning in Complex Scenarios](https://arxiv.org/abs/2605.06185v1)** | 2026-05-07 |  |
+| **[VideoRouter: Query-Adaptive Dual Routing for Efficient Long-Video Understanding](https://arxiv.org/abs/2605.05848v1)** | 2026-05-07 |  |
+| **[VTAgent: Agentic Keyframe Anchoring for Evidence-Aware Video TextVQA](https://arxiv.org/abs/2605.04870v1)** | 2026-05-06 |  |
+| **[VEBench:Benchmarking Large Multimodal Models for Real-World Video Editing](https://arxiv.org/abs/2605.03276v1)** | 2026-05-05 | CVPR Findings 2026 |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning from Medical Entity Trees: An Entity-Centric Medical Data Engineering Framework for MLLMs](https://arxiv.org/abs/2604.25296v1)** | 2026-04-28 |  |
-| **[Robust Grounding with MLLMs Against Occlusion and Small Objects via Language-Guided Semantic Cues](https://arxiv.org/abs/2604.24036v2)** | 2026-04-29 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, ICASSP 2026</p></details> |
-| **[CNSL-bench: Benchmarking the Sign Language Understanding Capabilities of MLLMs on Chinese National Sign Language](https://arxiv.org/abs/2604.22367v1)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted as the Main Conference at ACL 2026</p></details> |
-| **[Do MLLMs Understand Pointing? Benchmarking and Enhancing Referential Reasoning in Egocentric Vision](https://arxiv.org/abs/2604.21461v1)** | 2026-04-23 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. Committed to ACL 2026</p></details> |
-| **[Can MLLMs "Read" What is Missing?](https://arxiv.org/abs/2604.21277v2)** | 2026-04-26 |  |
+| **[Towards Annotation-Free Validation of MLLMs: A Vision-Language Logical Consistency Metric](https://arxiv.org/abs/2605.06201v1)** | 2026-05-07 |  |
+| **[CrossCult-KIBench: A Benchmark for Cross-Cultural Knowledge Insertion in MLLMs](https://arxiv.org/abs/2605.06115v1)** | 2026-05-07 |  |
+| **[Null Space Constrained Contrastive Visual Forgetting for MLLM Unlearning](https://arxiv.org/abs/2605.05909v1)** | 2026-05-07 | 20 pages, 5 figures |
+| **[Conceal, Reconstruct, Jailbreak: Exploiting the Reconstruction-Concealment Tradeoff in MLLMs](https://arxiv.org/abs/2605.05709v1)** | 2026-05-07 | <details><summary>39 pa...</summary><p>39 pages, including appendices</p></details> |
+| **[MASRA: MLLM-Assisted Semantic-Relational Consistent Alignment for Video Temporal Grounding](https://arxiv.org/abs/2605.03398v1)** | 2026-05-05 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://arxiv.org/abs/2604.28185v1)** | 2026-04-30 | <details><summary>Proje...</summary><p>Project Page: https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation</p></details> |
-| **[Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows](https://arxiv.org/abs/2604.28139v1)** | 2026-04-30 | <details><summary>Proje...</summary><p>Project page: https://claw-eval-live.github.io</p></details> |
-| **[Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes](https://arxiv.org/abs/2604.28138v1)** | 2026-04-30 | 15 pages, 21 figures |
-| **[What Makes a Good Terminal-Agent Benchmark Task: A Guideline for Adversarial, Difficult, and Legible Evaluation Design](https://arxiv.org/abs/2604.28093v1)** | 2026-04-30 |  |
-| **[Agent-Agnostic Evaluation of SQL Accuracy in Production Text-to-SQL Systems](https://arxiv.org/abs/2604.28049v1)** | 2026-04-30 |  |
+| **[AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](https://arxiv.org/abs/2605.06651v1)** | 2026-05-07 | 22 pages |
+| **[Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval](https://arxiv.org/abs/2605.06647v1)** | 2026-05-07 |  |
+| **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642v1)** | 2026-05-07 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 7 tables</p></details> |
+| **[Recursive Agent Optimization](https://arxiv.org/abs/2605.06639v1)** | 2026-05-07 |  |
+| **[Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents](https://arxiv.org/abs/2605.06635v1)** | 2026-05-07 |  |
 
