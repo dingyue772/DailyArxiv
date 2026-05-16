@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - May 09, 2026
+title: Latest 5 Papers - May 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -13,27 +13,27 @@ labels: documentation
 ## video understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MedHorizon: Towards Long-context Medical Video Understanding in the Wild](https://arxiv.org/abs/2605.06537v1)** | 2026-05-07 |  |
-| **[Event-Causal RAG: A Retrieval-Augmented Generation Framework for Long Video Reasoning in Complex Scenarios](https://arxiv.org/abs/2605.06185v1)** | 2026-05-07 |  |
-| **[VideoRouter: Query-Adaptive Dual Routing for Efficient Long-Video Understanding](https://arxiv.org/abs/2605.05848v1)** | 2026-05-07 |  |
-| **[VTAgent: Agentic Keyframe Anchoring for Evidence-Aware Video TextVQA](https://arxiv.org/abs/2605.04870v1)** | 2026-05-06 |  |
-| **[VEBench:Benchmarking Large Multimodal Models for Real-World Video Editing](https://arxiv.org/abs/2605.03276v1)** | 2026-05-05 | CVPR Findings 2026 |
+| **[Video-Zero: Self-Evolution Video Understanding](https://arxiv.org/abs/2605.14733v1)** | 2026-05-14 |  |
+| **[ViMU: Benchmarking Video Metaphorical Understanding](https://arxiv.org/abs/2605.14607v1)** | 2026-05-14 |  |
+| **[CoRDS: Coreset-based Representative and Diverse Selection for Streaming Video Understanding](https://arxiv.org/abs/2605.14310v1)** | 2026-05-14 |  |
+| **[Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831v1)** | 2026-05-13 | work in progress |
+| **[ReTool-Video: Recursive Tool-Using Video Agents with Meta-Augmented Tool Grounding](https://arxiv.org/abs/2605.13228v1)** | 2026-05-13 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Annotation-Free Validation of MLLMs: A Vision-Language Logical Consistency Metric](https://arxiv.org/abs/2605.06201v1)** | 2026-05-07 |  |
-| **[CrossCult-KIBench: A Benchmark for Cross-Cultural Knowledge Insertion in MLLMs](https://arxiv.org/abs/2605.06115v1)** | 2026-05-07 |  |
-| **[Null Space Constrained Contrastive Visual Forgetting for MLLM Unlearning](https://arxiv.org/abs/2605.05909v1)** | 2026-05-07 | 20 pages, 5 figures |
-| **[Conceal, Reconstruct, Jailbreak: Exploiting the Reconstruction-Concealment Tradeoff in MLLMs](https://arxiv.org/abs/2605.05709v1)** | 2026-05-07 | <details><summary>39 pa...</summary><p>39 pages, including appendices</p></details> |
-| **[MASRA: MLLM-Assisted Semantic-Relational Consistent Alignment for Video Temporal Grounding](https://arxiv.org/abs/2605.03398v1)** | 2026-05-05 |  |
+| **[Towards Unified Surgical Scene Understanding:Bridging Reasoning and Grounding via MLLMs](https://arxiv.org/abs/2605.13530v1)** | 2026-05-13 |  |
+| **[Beyond Localization: A Comprehensive Diagnosis of Perspective-Conditioned Spatial Reasoning in MLLMs from Omnidirectional Images](https://arxiv.org/abs/2605.12413v2)** | 2026-05-13 | <details><summary>Under...</summary><p>Under review at ACM MM 2026. Corresponding author: Wai Keung Wong (calvin.wong@polyu.edu.hk). 10pages, 4 figures</p></details> |
+| **[When Looking Is Not Enough: Visual Attention Structure Reveals Hallucination in MLLMs](https://arxiv.org/abs/2605.11559v1)** | 2026-05-12 |  |
+| **[LDDR: Linear-DPP-Based Dynamic-Resolution Frame Sampling for Video MLLMs](https://arxiv.org/abs/2605.11477v1)** | 2026-05-12 | 21 pages, 4 figures |
+| **[MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation](https://arxiv.org/abs/2605.10769v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings. 11 pages, 6 figures</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](https://arxiv.org/abs/2605.06651v1)** | 2026-05-07 | 22 pages |
-| **[Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval](https://arxiv.org/abs/2605.06647v1)** | 2026-05-07 |  |
-| **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642v1)** | 2026-05-07 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 7 tables</p></details> |
-| **[Recursive Agent Optimization](https://arxiv.org/abs/2605.06639v1)** | 2026-05-07 |  |
-| **[Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents](https://arxiv.org/abs/2605.06635v1)** | 2026-05-07 |  |
+| **[ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](https://arxiv.org/abs/2605.15198v1)** | 2026-05-14 | <details><summary>Proje...</summary><p>Project Page: https://atlas-oneword.github.io Code: https://github.com/ZiyuGuo99/ATLAS</p></details> |
+| **[FutureSim: Replaying World Events to Evaluate Adaptive Agents](https://arxiv.org/abs/2605.15188v1)** | 2026-05-14 | 31 pages, 10 main |
+| **[Articraft: An Agentic System for Scalable Articulated 3D Asset Generation](https://arxiv.org/abs/2605.15187v1)** | 2026-05-14 | <details><summary>Proje...</summary><p>Project page: https://articraft3d.github.io/</p></details> |
+| **[Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184v1)** | 2026-05-14 |  |
+| **[Self-Distilled Agentic Reinforcement Learning](https://arxiv.org/abs/2605.15155v1)** | 2026-05-14 |  |
 
