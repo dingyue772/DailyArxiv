@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - June 20, 2026
+title: Latest 5 Papers - June 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,33 +7,33 @@ labels: documentation
 ## omni understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos](https://arxiv.org/abs/2603.14145v1)** | 2026-03-14 | <details><summary>Proje...</summary><p>Project Page: https://huggingface.co/datasets/nvidia/MMOU</p></details> |
+| **[MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos](https://arxiv.org/abs/2603.14145v2)** | 2026-06-20 | <details><summary>Proje...</summary><p>Project Page: https://huggingface.co/datasets/nvidia/MMOU</p></details> |
 | **[Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception](https://arxiv.org/abs/2601.09413v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. Oral Presentation. Code: https://github.com/YukinoWan/Speech-Hands OpenClaw Branch: https://github.com/openclaw/openclaw/pull/69073</p></details> |
 
 ## video understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/abs/2606.20559v1)** | 2026-06-18 |  |
-| **[CARE: Competence-Aware Reward Shaping for Adaptive Reasoning Length in Video-MLLMs](https://arxiv.org/abs/2606.19927v1)** | 2026-06-18 |  |
-| **[NEST: Narrative Event Structures in Time for Long Video Understanding](https://arxiv.org/abs/2606.19706v1)** | 2026-06-18 |  |
-| **[Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Code and models: https://github.com/harryhsing/omniagent</p></details> |
-| **[APT: Atomic Physical Transitions for Causal Video-Language Understanding](https://arxiv.org/abs/2606.18586v1)** | 2026-06-17 |  |
+| **[DnA: Denoising Attention for Visual Tasks](https://arxiv.org/abs/2606.27372v1)** | 2026-06-25 |  |
+| **[HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models](https://arxiv.org/abs/2606.27187v1)** | 2026-06-25 |  |
+| **[Confidence-Aware Tool Orchestration for Robust Video Understanding](https://arxiv.org/abs/2606.26904v1)** | 2026-06-25 | <details><summary>Proje...</summary><p>Project page: https://rova-v2.github.io/</p></details> |
+| **[ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory](https://arxiv.org/abs/2606.26762v1)** | 2026-06-25 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, Accepted to ICML 2026</p></details> |
+| **[SurgAtlas: A Large-Scale Surgical Video-Language Dataset with 2,391 Hours of Open and Minimally Invasive Surgery](https://arxiv.org/abs/2606.25905v1)** | 2026-06-24 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs](https://arxiv.org/abs/2606.20527v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to the non-archival workshops AI4Good and Culture x AI at ICML 2026</p></details> |
-| **[Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs](https://arxiv.org/abs/2606.20177v1)** | 2026-06-18 | ECCV 2026 Accepted |
-| **[SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision](https://arxiv.org/abs/2606.19915v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2026</p></details> |
-| **[Image Prompt Reconstruction Attacks on Distributed MLLM Inference Frameworks](https://arxiv.org/abs/2606.18710v1)** | 2026-06-17 |  |
-| **[Reasoning as Intersection: Consensus-Frame Alignment for Visual Focus in Video-MLLMs](https://arxiv.org/abs/2606.18441v1)** | 2026-06-16 |  |
+| **[CORTEX: A Structured Reasoning Benchmark for Trustworthy 3D Chest CT MLLMs](https://arxiv.org/abs/2606.27264v1)** | 2026-06-25 |  |
+| **[TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference](https://arxiv.org/abs/2606.27161v1)** | 2026-06-25 | 27 pages, 18 figures |
+| **[Staying VIGILant: Mitigating Visual Laziness via Counterfactual Visual Alignment in MLLMs](https://arxiv.org/abs/2606.26387v1)** | 2026-06-24 | ECCV 2026 |
+| **[TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs](https://arxiv.org/abs/2606.26029v1)** | 2026-06-24 | 26 pages, 8 figures |
+| **[ShutterMuse: Capture-Time Photography Guidance with MLLMs](https://arxiv.org/abs/2606.25763v1)** | 2026-06-24 | <details><summary>Proje...</summary><p>Project Page:https://lijayutnt.github.io/ShutterMuse</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](https://arxiv.org/abs/2606.20529v1)** | 2026-06-18 | Work in Progress |
-| **[Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes](https://arxiv.org/abs/2606.20520v1)** | 2026-06-18 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 10 tables</p></details> |
-| **[S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence](https://arxiv.org/abs/2606.20515v1)** | 2026-06-18 | <details><summary>Proje...</summary><p>Project Page : https://Ropedia.github.io/S-Agent</p></details> |
-| **[Probe-and-Refine Tuning of Repository Guidance for Coding Agents](https://arxiv.org/abs/2606.20512v1)** | 2026-06-18 |  |
-| **[Efficient and Sound Probabilistic Verification for AI Agents](https://arxiv.org/abs/2606.20510v1)** | 2026-06-18 |  |
+| **[CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research](https://arxiv.org/abs/2606.27350v1)** | 2026-06-25 |  |
+| **[Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://arxiv.org/abs/2606.27330v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
+| **[When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models](https://arxiv.org/abs/2606.27288v1)** | 2026-06-25 |  |
+| **[Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy](https://arxiv.org/abs/2606.27251v1)** | 2026-06-25 |  |
+| **[NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems](https://arxiv.org/abs/2606.27243v1)** | 2026-06-25 | 12 pages, 3 figures |
 
