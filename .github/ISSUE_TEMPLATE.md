@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - July 18, 2026
+title: Latest 5 Papers - July 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -13,27 +13,27 @@ labels: documentation
 ## video understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stitch-Inferencer: Enhance Endoscopic Video Segmentation and Tracking via Panoramic Reconstruction](https://arxiv.org/abs/2607.14968v1)** | 2026-07-16 |  |
-| **[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935v1)** | 2026-07-16 |  |
-| **[VideoSEMA: a scalable and efficient Mamba-like attention for video understanding](https://arxiv.org/abs/2607.14711v1)** | 2026-07-16 | 15 pages, 3 figures |
-| **[VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders](https://arxiv.org/abs/2607.14088v1)** | 2026-07-15 | <details><summary>Home ...</summary><p>Home page: https://zhxie0117.github.io/VideoRAE</p></details> |
-| **[RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination](https://arxiv.org/abs/2607.14187v1)** | 2026-07-15 |  |
+| **[BasketEvent: Understanding Who Did What and When in Basketball Videos](https://arxiv.org/abs/2607.21267v1)** | 2026-07-23 |  |
+| **[T-STAR: A Large-Scale Benchmark for Spatio-Temporal Panoptic Scene Graph Generation in Satellite Video](https://arxiv.org/abs/2607.21228v1)** | 2026-07-23 | 17 pages, 8 figures |
+| **[EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization](https://arxiv.org/abs/2607.21013v1)** | 2026-07-23 |  |
+| **[ViSTR-Bench: Can MLLMs Reason from Continuous Visual Cues in Dynamic Scenes?](https://arxiv.org/abs/2607.20868v1)** | 2026-07-23 | 37 pages, 37 figures |
+| **[BLUE: Semantics-Preserving Video Compression for Efficient Vision-Language Surveillance Analytics](https://arxiv.org/abs/2607.19515v1)** | 2026-07-21 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, 6 tables</p></details> |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding](https://arxiv.org/abs/2607.15054v1)** | 2026-07-16 |  |
-| **[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935v1)** | 2026-07-16 |  |
-| **[DynTrace: Tracking Dynamic Object Evidence for 4D Spatio-Temporal Reasoning in MLLMs](https://arxiv.org/abs/2607.12503v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
-| **[Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112v1)** | 2026-07-13 | <details><summary>submi...</summary><p>submitted to IEEE JSTSP</p></details> |
-| **[PFAdapter: Hierarchical LoRA Decomposition for Personalized Federated MLLMs](https://arxiv.org/abs/2607.12111v1)** | 2026-07-13 | <details><summary>submi...</summary><p>submitted to IEEE TCCN</p></details> |
+| **[C-PTQ: Fisher-weighted Channel-wise Sensitivity for Post-training Quantization of MLLMs](https://arxiv.org/abs/2607.21076v1)** | 2026-07-23 | 7 pages |
+| **[MVEI & EmObserver: Empowering MLLM-Oriented Visual Emotional Intelligence via Emotion Statement Judgement](https://arxiv.org/abs/2607.21061v1)** | 2026-07-23 |  |
+| **[ViSTR-Bench: Can MLLMs Reason from Continuous Visual Cues in Dynamic Scenes?](https://arxiv.org/abs/2607.20868v1)** | 2026-07-23 | 37 pages, 37 figures |
+| **[Continual Video-MLLM Adaptation over Evolving Domains](https://arxiv.org/abs/2607.18716v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
+| **[WeedExpert-R1: Incentivizing Botanical Reasoning in MLLMs with Reinforcement Learning for Precision Weed Grounding](https://arxiv.org/abs/2607.16492v1)** | 2026-07-17 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents](https://arxiv.org/abs/2607.15263v1)** | 2026-07-16 |  |
-| **[SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](https://arxiv.org/abs/2607.15257v1)** | 2026-07-16 | <details><summary>Code ...</summary><p>Code is available at https://github.com/antins-labs/SearchOS</p></details> |
-| **[Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search](https://arxiv.org/abs/2607.15253v1)** | 2026-07-16 | <details><summary>Prepr...</summary><p>Preprint; extended version in preparation</p></details> |
-| **[AutoSynthesis: An agentic system for automated meta-analysis](https://arxiv.org/abs/2607.15247v1)** | 2026-07-16 |  |
-| **[ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors](https://arxiv.org/abs/2607.15246v1)** | 2026-07-16 |  |
+| **[Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers](https://arxiv.org/abs/2607.21594v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project page: https://vail-ucla.github.io/worldweaver/</p></details> |
+| **[OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557v1)** | 2026-07-23 |  |
+| **[GS-Agent: Creating 4D Physical Worlds With Generative Simulation](https://arxiv.org/abs/2607.21522v1)** | 2026-07-23 |  |
+| **[Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation](https://arxiv.org/abs/2607.21518v1)** | 2026-07-23 | <details><summary>21 pa...</summary><p>21 pages; welcome comments</p></details> |
+| **[Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](https://arxiv.org/abs/2607.21503v1)** | 2026-07-23 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 4 tables. Evaluation harness and study data: github.com/maximem-ai</p></details> |
 
