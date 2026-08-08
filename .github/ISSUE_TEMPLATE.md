@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - August 01, 2026
+title: Latest 5 Papers - August 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -13,27 +13,27 @@ labels: documentation
 ## video understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Frame Selection: Generative Latent Evidence Aggregation for Long-Video Understanding](https://arxiv.org/abs/2607.28516v1)** | 2026-07-30 |  |
-| **[VisualRouter: Query-Grounded Visual Sampling for Long Video Understanding](https://arxiv.org/abs/2607.28463v1)** | 2026-07-30 |  |
-| **[ObjectStream: Latent Objects as Memory Anchors for Streaming Video Understanding](https://arxiv.org/abs/2607.28312v1)** | 2026-07-30 | 9 pages |
-| **[EgoSafe: A First-Person Mobile-Captured Benchmark for Visual Safety Understanding](https://arxiv.org/abs/2607.26518v2)** | 2026-07-30 |  |
-| **[RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2607.25392v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted to ACMMM 2026</p></details> |
+| **[Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding](https://arxiv.org/abs/2608.05780v1)** | 2026-08-06 | <details><summary>Proje...</summary><p>Project Page: https://zhangbo135.github.io/EviSelect/</p></details> |
+| **[GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?](https://arxiv.org/abs/2608.05747v1)** | 2026-08-06 |  |
+| **[One Ranking, Any Budget: Matryoshka Evidence-to-Context Frame Selection for Long-Video Understanding](https://arxiv.org/abs/2608.05707v1)** | 2026-08-06 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, 7 tables</p></details> |
+| **[StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding](https://arxiv.org/abs/2608.05703v1)** | 2026-08-06 |  |
+| **[Beyond Frame Selection: Rethinking Long-Video Understanding with MLLMs](https://arxiv.org/abs/2608.05592v1)** | 2026-08-06 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval](https://arxiv.org/abs/2607.27959v1)** | 2026-07-30 |  |
-| **[LAST: The Last Query Token Guides Visual Token Pruning for Edge-Cloud Collaborative MLLM Inference](https://arxiv.org/abs/2607.27952v1)** | 2026-07-30 |  |
-| **[One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting](https://arxiv.org/abs/2607.27902v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 11 figures. Accepted to ACM Multimedia 2026</p></details> |
-| **[Understanding Knowledge Transfer Mechanism in Heterogeneous MLLM Fusion: A Simple Linear Approach](https://arxiv.org/abs/2607.26608v1)** | 2026-07-29 | <details><summary>17 pa...</summary><p>17 pages, 6 figures; includes supplementary material</p></details> |
-| **[SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM](https://arxiv.org/abs/2607.26595v1)** | 2026-07-29 |  |
+| **[Beyond Frame Selection: Rethinking Long-Video Understanding with MLLMs](https://arxiv.org/abs/2608.05592v1)** | 2026-08-06 |  |
+| **[From Sports to Safety: Benchmarking Proactive Risk Inference in MLLMs](https://arxiv.org/abs/2608.05560v1)** | 2026-08-06 | Preprints |
+| **[Teaching MLLMs to Say No: Generalized Referring Expression Comprehension via Refusal Calibrated GRPO](https://arxiv.org/abs/2608.04698v1)** | 2026-08-05 |  |
+| **[A Model Merging Approach for Continual MLLM Unlearning](https://arxiv.org/abs/2608.04548v1)** | 2026-08-05 | 17 pages, 5 figures |
+| **[ChartAnno: Evaluating MLLMs for Chart Annotation Generation](https://arxiv.org/abs/2608.03464v1)** | 2026-08-04 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beacon: Knowing When and How to Perform Agentic Visual Reasoning](https://arxiv.org/abs/2607.28595v1)** | 2026-07-30 | 33 pages |
-| **[Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments](https://arxiv.org/abs/2607.28591v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, and 15 tables, including appendices</p></details> |
-| **[Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs](https://arxiv.org/abs/2607.28573v1)** | 2026-07-30 |  |
-| **[ORCA-bench: How Ready Are Language Model Agents for Oncall?](https://arxiv.org/abs/2607.28545v1)** | 2026-07-30 |  |
-| **[MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems](https://arxiv.org/abs/2607.28527v1)** | 2026-07-30 |  |
+| **[AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games](https://arxiv.org/abs/2608.06362v1)** | 2026-08-06 | 34 pages, 5 figures |
+| **[Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents](https://arxiv.org/abs/2608.06353v1)** | 2026-08-06 | 22 pages, 9 Figures |
+| **[TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories](https://arxiv.org/abs/2608.06346v1)** | 2026-08-06 |  |
+| **[Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents](https://arxiv.org/abs/2608.06329v1)** | 2026-08-06 | 15 pages |
+| **[Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](https://arxiv.org/abs/2608.06305v1)** | 2026-08-06 |  |
 
