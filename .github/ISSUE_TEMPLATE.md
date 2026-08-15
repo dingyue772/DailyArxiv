@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - August 08, 2026
+title: Latest 5 Papers - August 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -13,27 +13,27 @@ labels: documentation
 ## video understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding](https://arxiv.org/abs/2608.05780v1)** | 2026-08-06 | <details><summary>Proje...</summary><p>Project Page: https://zhangbo135.github.io/EviSelect/</p></details> |
-| **[GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?](https://arxiv.org/abs/2608.05747v1)** | 2026-08-06 |  |
-| **[One Ranking, Any Budget: Matryoshka Evidence-to-Context Frame Selection for Long-Video Understanding](https://arxiv.org/abs/2608.05707v1)** | 2026-08-06 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, 7 tables</p></details> |
-| **[StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding](https://arxiv.org/abs/2608.05703v1)** | 2026-08-06 |  |
-| **[Beyond Frame Selection: Rethinking Long-Video Understanding with MLLMs](https://arxiv.org/abs/2608.05592v1)** | 2026-08-06 |  |
+| **[NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video](https://arxiv.org/abs/2608.13210v1)** | 2026-08-13 | <details><summary>Yuhen...</summary><p>Yuheng Huang and Jianlang Chen contributed equally to this work. More details available on the project's website https://ma-labo.github.io/naru/ and https://infinimind.io/en/company/news/2026/narubench-release</p></details> |
+| **[A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources](https://arxiv.org/abs/2608.13183v1)** | 2026-08-13 |  |
+| **[EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory](https://arxiv.org/abs/2608.13113v1)** | 2026-08-13 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 6 tables, including appendices</p></details> |
+| **[UniTraffic-Agent: Unified Traffic Video Reasoning for AI City Challenge 2026 Track 3 with Two Out-of-Domain Evaluations](https://arxiv.org/abs/2608.13031v1)** | 2026-08-13 | <details><summary>This ...</summary><p>This paper has been accepted to ECCV 2026 AI City Challenge Workshop</p></details> |
+| **[TennisVAR: A Stroke-Evidence-Grounded Multimodal Large Language Model for Tactical Reasoning in Tennis Videos](https://arxiv.org/abs/2608.12920v1)** | 2026-08-13 | <details><summary>Proje...</summary><p>Project Page: https://whynotgit2025.github.io/TennisVAR/</p></details> |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Frame Selection: Rethinking Long-Video Understanding with MLLMs](https://arxiv.org/abs/2608.05592v1)** | 2026-08-06 |  |
-| **[From Sports to Safety: Benchmarking Proactive Risk Inference in MLLMs](https://arxiv.org/abs/2608.05560v1)** | 2026-08-06 | Preprints |
-| **[Teaching MLLMs to Say No: Generalized Referring Expression Comprehension via Refusal Calibrated GRPO](https://arxiv.org/abs/2608.04698v1)** | 2026-08-05 |  |
-| **[A Model Merging Approach for Continual MLLM Unlearning](https://arxiv.org/abs/2608.04548v1)** | 2026-08-05 | 17 pages, 5 figures |
-| **[ChartAnno: Evaluating MLLMs for Chart Annotation Generation](https://arxiv.org/abs/2608.03464v1)** | 2026-08-04 |  |
+| **[MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification](https://arxiv.org/abs/2608.13463v1)** | 2026-08-13 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 7 tables</p></details> |
+| **[Beyond Visual Evidence: Revealing and Mitigating Relational Privacy Leakage in Document MLLMs](https://arxiv.org/abs/2608.12911v1)** | 2026-08-13 | ACM mm 2026 |
+| **[Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs](https://arxiv.org/abs/2608.12781v1)** | 2026-08-13 | <details><summary>8 tab...</summary><p>8 tables and 6figures</p></details> |
+| **[Does It Render Everywhere? A Study of Cross-Environment Compatibility in MLLM-Generated Webpages](https://arxiv.org/abs/2608.12518v1)** | 2026-08-12 |  |
+| **[Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization](https://arxiv.org/abs/2608.12158v1)** | 2026-08-12 | Accepted at ECCV2026 |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games](https://arxiv.org/abs/2608.06362v1)** | 2026-08-06 | 34 pages, 5 figures |
-| **[Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents](https://arxiv.org/abs/2608.06353v1)** | 2026-08-06 | 22 pages, 9 Figures |
-| **[TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories](https://arxiv.org/abs/2608.06346v1)** | 2026-08-06 |  |
-| **[Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents](https://arxiv.org/abs/2608.06329v1)** | 2026-08-06 | 15 pages |
-| **[Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](https://arxiv.org/abs/2608.06305v1)** | 2026-08-06 |  |
+| **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560v1)** | 2026-08-13 | <details><summary>Tech ...</summary><p>Tech Report. Code at: https://github.com/Yaxin9Luo/AutoDesign</p></details> |
+| **[PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives](https://arxiv.org/abs/2608.13552v1)** | 2026-08-13 | <details><summary>proje...</summary><p>project page: https://kxding.github.io/project/PlayWorld/</p></details> |
+| **[Vero: Can AI Agents Build Formally Verified Software Repositories?](https://arxiv.org/abs/2608.13522v1)** | 2026-08-13 |  |
+| **[Intern-S2-Preview: Scientific Agentic Foundation Model](https://arxiv.org/abs/2608.13505v1)** | 2026-08-13 | 35 pages, 12 figures |
+| **[MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination](https://arxiv.org/abs/2608.13476v1)** | 2026-08-13 | 13 pages, 4 figures |
 
