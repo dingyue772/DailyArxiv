@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - August 29, 2026
+title: Latest 5 Papers - September 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -13,27 +13,27 @@ labels: documentation
 ## video understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Video-OPSD: Exploiting Privileged Visual Evidence for On-Policy Self-Distillation in Video Large Language Models](https://arxiv.org/abs/2608.27065v1)** | 2026-08-27 |  |
-| **[LongVU-TTT: Causal Test-Time Training for Visual Resampling in Long Video Understanding](https://arxiv.org/abs/2608.25729v1)** | 2026-08-26 |  |
-| **[AdaVDR: Adaptive Tool Use and Reflection for Video Deep Research](https://arxiv.org/abs/2608.25559v1)** | 2026-08-26 |  |
-| **[Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios](https://arxiv.org/abs/2608.25529v1)** | 2026-08-26 |  |
-| **[Where to Look Matters: On-Policy Self-Distillation for Long-Video Understanding](https://arxiv.org/abs/2608.25356v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 5 tables</p></details> |
+| **[Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding](https://arxiv.org/abs/2609.04131v1)** | 2026-09-03 |  |
+| **[CoFiE: Coarse-to-Fine Evidence Selection for Efficient Streaming Video Understanding](https://arxiv.org/abs/2609.03675v1)** | 2026-09-03 |  |
+| **[ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding](https://arxiv.org/abs/2609.02780v1)** | 2026-09-02 | Work in Progress |
+| **[Who Drives the Probability Game of VLMs? A Temporal Causal Drive Evaluation Framework](https://arxiv.org/abs/2609.02000v1)** | 2026-09-02 |  |
+| **[StreamScout: Learning When to Look Deeper for Streaming Video Understanding](https://arxiv.org/abs/2609.00291v1)** | 2026-08-31 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations](https://arxiv.org/abs/2608.25575v1)** | 2026-08-26 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
-| **[SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting](https://arxiv.org/abs/2608.25493v1)** | 2026-08-26 |  |
-| **[Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs](https://arxiv.org/abs/2608.24354v1)** | 2026-08-25 |  |
-| **[PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control](https://arxiv.org/abs/2608.24115v1)** | 2026-08-25 | <details><summary>Proje...</summary><p>Project page: https://worv-ai.github.io/ponderpounce/</p></details> |
-| **[Mind the Couch! Eliciting MLLM Reasoning in Interior Design via Weak-to-Strong Task Vector Injection](https://arxiv.org/abs/2608.23242v1)** | 2026-08-24 |  |
+| **[CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation](https://arxiv.org/abs/2609.04083v1)** | 2026-09-03 |  |
+| **[Beauty is in the AI of the beholder: MLLMs systematically overrate facial attractiveness](https://arxiv.org/abs/2609.02512v1)** | 2026-09-02 |  |
+| **[YesTrack: Referring Multi-Object Tracking via MLLM-based Yes/No Verification](https://arxiv.org/abs/2609.02318v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Distributed Implicit Harm: A Compositional Safety Blind Spot in MLLM-Based Video Moderation](https://arxiv.org/abs/2609.00206v1)** | 2026-08-31 |  |
+| **[TUE-Detector: A Tool-Using Expert MLLM-Based Detector for AI-Generated Videos](https://arxiv.org/abs/2608.30704v1)** | 2026-08-31 | <details><summary>32 pa...</summary><p>32 pages, 7 figures, 28 tables; includes supplementary material. Code: https://github.com/Louis-YW/TUE</p></details> |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](https://arxiv.org/abs/2608.27454v1)** | 2026-08-27 |  |
-| **[Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](https://arxiv.org/abs/2608.27443v1)** | 2026-08-27 | 15 pages, 5 figures |
-| **[RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution](https://arxiv.org/abs/2608.27439v1)** | 2026-08-27 |  |
-| **[Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit](https://arxiv.org/abs/2608.27427v1)** | 2026-08-27 | 36 pages |
-| **[INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment](https://arxiv.org/abs/2608.27348v1)** | 2026-08-27 |  |
+| **[SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents](https://arxiv.org/abs/2609.04167v1)** | 2026-09-03 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
+| **[SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center](https://arxiv.org/abs/2609.04159v1)** | 2026-09-03 |  |
+| **[Formation Matrix and Energy-based Control of Multi-Agent Systems](https://arxiv.org/abs/2609.04158v1)** | 2026-09-03 | 14 pages, 14 Figures |
+| **[Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://arxiv.org/abs/2609.04148v1)** | 2026-09-03 |  |
+| **[The Natural Language Interaction Protocol and Standard for AI Agents](https://arxiv.org/abs/2609.04135v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by ACM AI Summit 2026</p></details> |
 
