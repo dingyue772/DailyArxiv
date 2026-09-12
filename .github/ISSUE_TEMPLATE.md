@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 05, 2026
+title: Latest 5 Papers - September 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,33 +7,35 @@ labels: documentation
 ## omni understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Omni Interaction Agent Technical Report](https://arxiv.org/abs/2609.08977v2)** | 2026-09-09 | <details><summary>Proje...</summary><p>Project Page: https://Omni-Interaction-Gander.github.io/Omni-Interaction-Agent</p></details> |
+| **[Training-Free Speech-Centric Omni Understanding with Frozen VLMs](https://arxiv.org/abs/2609.04242v1)** | 2026-08-07 | <details><summary>18 Pa...</summary><p>18 Pages, 13 Tables, 3 Figures</p></details> |
 | **[MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos](https://arxiv.org/abs/2603.14145v2)** | 2026-06-20 | <details><summary>Proje...</summary><p>Project Page: https://huggingface.co/datasets/nvidia/MMOU</p></details> |
 | **[Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception](https://arxiv.org/abs/2601.09413v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. Oral Presentation. Code: https://github.com/YukinoWan/Speech-Hands OpenClaw Branch: https://github.com/openclaw/openclaw/pull/69073</p></details> |
 
 ## video understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding](https://arxiv.org/abs/2609.04131v1)** | 2026-09-03 |  |
-| **[CoFiE: Coarse-to-Fine Evidence Selection for Efficient Streaming Video Understanding](https://arxiv.org/abs/2609.03675v1)** | 2026-09-03 |  |
-| **[ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding](https://arxiv.org/abs/2609.02780v1)** | 2026-09-02 | Work in Progress |
-| **[Who Drives the Probability Game of VLMs? A Temporal Causal Drive Evaluation Framework](https://arxiv.org/abs/2609.02000v1)** | 2026-09-02 |  |
-| **[StreamScout: Learning When to Look Deeper for Streaming Video Understanding](https://arxiv.org/abs/2609.00291v1)** | 2026-08-31 |  |
+| **[Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding](https://arxiv.org/abs/2609.11899v1)** | 2026-09-10 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
+| **[Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs](https://arxiv.org/abs/2609.10355v1)** | 2026-09-09 | <details><summary>Suppl...</summary><p>Supplementary material at https://www.killian-steunou.com/videollm-survey/static/pdfs/videollm_survey_supplementary.pdf</p></details> |
+| **[VLX-VR: An Agentic-Aware Video Reasoning Model](https://arxiv.org/abs/2609.09985v1)** | 2026-09-09 | 10 pages |
+| **[Video-MOPD: Multi-Teacher On-Policy Distillation for Video Understanding](https://arxiv.org/abs/2609.09300v1)** | 2026-09-08 | Technical report |
+| **[MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging](https://arxiv.org/abs/2609.08273v1)** | 2026-09-08 | 23 pages, 6 figures |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation](https://arxiv.org/abs/2609.04083v1)** | 2026-09-03 |  |
-| **[Beauty is in the AI of the beholder: MLLMs systematically overrate facial attractiveness](https://arxiv.org/abs/2609.02512v1)** | 2026-09-02 |  |
-| **[YesTrack: Referring Multi-Object Tracking via MLLM-based Yes/No Verification](https://arxiv.org/abs/2609.02318v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Distributed Implicit Harm: A Compositional Safety Blind Spot in MLLM-Based Video Moderation](https://arxiv.org/abs/2609.00206v1)** | 2026-08-31 |  |
-| **[TUE-Detector: A Tool-Using Expert MLLM-Based Detector for AI-Generated Videos](https://arxiv.org/abs/2608.30704v1)** | 2026-08-31 | <details><summary>32 pa...</summary><p>32 pages, 7 figures, 28 tables; includes supplementary material. Code: https://github.com/Louis-YW/TUE</p></details> |
+| **[Multi-Faceted Evaluation and Mitigation of Emotion Hallucinations in MLLMs](https://arxiv.org/abs/2609.11154v1)** | 2026-09-10 | 10 pages, 6 figures |
+| **[EMMI: Edge Multi-Modal Intelligence for Communication-Efficient MLLM Inference via Fused Representation Compression](https://arxiv.org/abs/2609.11058v1)** | 2026-09-10 |  |
+| **[Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs](https://arxiv.org/abs/2609.10346v1)** | 2026-09-09 | <details><summary>26 pa...</summary><p>26 pages, 6 figures. Code will be released soon</p></details> |
+| **[MV-STRIDE: Enabling MLLMs to Master Multi-View Spatial Reasoning via Hierarchical Capability Modeling](https://arxiv.org/abs/2609.07258v1)** | 2026-09-07 |  |
+| **[One MLLM, One Call: Efficient Zero-Shot Vision-and-Language Navigation via Spatial-Aware Waypoints](https://arxiv.org/abs/2609.06476v1)** | 2026-09-06 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents](https://arxiv.org/abs/2609.04167v1)** | 2026-09-03 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables</p></details> |
-| **[SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center](https://arxiv.org/abs/2609.04159v1)** | 2026-09-03 |  |
-| **[Formation Matrix and Energy-based Control of Multi-Agent Systems](https://arxiv.org/abs/2609.04158v1)** | 2026-09-03 | 14 pages, 14 Figures |
-| **[Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](https://arxiv.org/abs/2609.04148v1)** | 2026-09-03 |  |
-| **[The Natural Language Interaction Protocol and Standard for AI Agents](https://arxiv.org/abs/2609.04135v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by ACM AI Summit 2026</p></details> |
+| **[Artificial Id: Drive and Persistent Alignment in Agentic AI](https://arxiv.org/abs/2609.11911v1)** | 2026-09-10 |  |
+| **[Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding](https://arxiv.org/abs/2609.11899v1)** | 2026-09-10 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
+| **[Learning Agent-based Model Predictive Control for Holistic Vehicle Performance](https://arxiv.org/abs/2609.11871v1)** | 2026-09-10 | <details><summary>12 pa...</summary><p>12 pages. Author accepted manuscript</p></details> |
+| **[BlueSTAR: Tiered Agentic Architecture for Autonomous Cyber Defense](https://arxiv.org/abs/2609.11852v1)** | 2026-09-10 |  |
+| **[Reproducibility in the Age of Agentic AI: Context Engineering at the Timescale of a Codebase](https://arxiv.org/abs/2609.11728v1)** | 2026-09-10 | 10 pages |
 
