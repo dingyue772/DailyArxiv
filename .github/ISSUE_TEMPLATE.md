@@ -1,5 +1,5 @@
 ---
-title: Latest 5 Papers - September 19, 2026
+title: Latest 5 Papers - September 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/dingyue772/DailyArxiv) page for a better reading experience and more papers.**
@@ -14,27 +14,27 @@ labels: documentation
 ## video understanding
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoResearcher: Self-Improving Tool Design for Long-Video Understanding](https://arxiv.org/abs/2609.19664v1)** | 2026-09-17 |  |
-| **[EvoSherlock: Towards Agentic Lifelong Evolution for Unseen Long-Tailed Security-Critical Events in Videos](https://arxiv.org/abs/2609.19201v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2026</p></details> |
-| **[Video-HolmesV2: Can MLLMs Reason with Spatio-Temporal Audio-Visual Evidence in Long Videos?](https://arxiv.org/abs/2609.17248v1)** | 2026-09-15 | Accepted by ECCV2026 |
-| **[Not Another Text Benchmark: Putting the "Visual" Back in Visual Question Answering for Large Video Models](https://arxiv.org/abs/2609.17112v1)** | 2026-09-15 |  |
-| **[VideoMM: Adaptive Macro-Micro Inference for Efficient Video MLLMs](https://arxiv.org/abs/2609.16722v1)** | 2026-09-15 |  |
+| **[Beneath the Scores: Rethinking Hallucination Evaluation for Video Understanding Models](https://arxiv.org/abs/2609.28991v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2026 TAE workshop</p></details> |
+| **[CinematicVQA: Benchmarking Film-Grammar Reasoning in Large Vision-Language Models](https://arxiv.org/abs/2609.28813v1)** | 2026-09-23 | 6 pages |
+| **[Prompt, Probe, Train, or Annotate? Single-camera sports video understanding in amateur settings](https://arxiv.org/abs/2609.28049v1)** | 2026-09-23 |  |
+| **[A Hierarchy-Aware Video-Language Model Evaluation and Hyperbolic Baseline for Surgery](https://arxiv.org/abs/2609.27139v1)** | 2026-09-22 |  |
+| **[Video-HopChain: Multi-Hop Questions and Confidence-Gated Exploration for Video Reasoning Models](https://arxiv.org/abs/2609.25773v1)** | 2026-09-22 |  |
 
 ## MLLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking MLLMs via Cognitive Expected Scene Graph for Safety-Critical Visual Negation Understanding](https://arxiv.org/abs/2609.19767v1)** | 2026-09-17 |  |
-| **[Region-Level Policy Optimization for Fine-grained MLLM Perception](https://arxiv.org/abs/2609.19745v1)** | 2026-09-17 |  |
-| **[Scaling Articulated Rationales for MLLM-based Recommendation](https://arxiv.org/abs/2609.17639v1)** | 2026-09-15 |  |
-| **[Sparse MLLM Anchors, Dense Adaptation: Breaking the Self-Referential Loop in Wild Test-Time Adaptation](https://arxiv.org/abs/2609.17040v1)** | 2026-09-15 |  |
-| **[VideoMM: Adaptive Macro-Micro Inference for Efficient Video MLLMs](https://arxiv.org/abs/2609.16722v1)** | 2026-09-15 |  |
+| **[Exploiting Target Knowledge from MLLMs for Robust Few-Shot Segmentation](https://arxiv.org/abs/2609.28949v1)** | 2026-09-24 |  |
+| **[DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs](https://arxiv.org/abs/2609.28570v1)** | 2026-09-23 |  |
+| **[ChartRevive: Reconstructing Data Visualizations from Chart Images Using MLLM](https://arxiv.org/abs/2609.27146v1)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted as a Poster Session at IEEE VIS 2026 VISxGenAI Workshop</p></details> |
+| **[PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing](https://arxiv.org/abs/2609.23784v1)** | 2026-09-20 | <details><summary>The c...</summary><p>The code, model, dataset, and benchmark are available at https://github.com/Correr-Zhou/PackLab</p></details> |
+| **[Pay More Attention To Text In High-Resolution MLLMs](https://arxiv.org/abs/2609.23495v1)** | 2026-09-20 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](https://arxiv.org/abs/2609.20822v1)** | 2026-09-17 |  |
-| **[Quantifying Overclaiming Propensity in Frontier LLM Agents](https://arxiv.org/abs/2609.20812v1)** | 2026-09-17 | 7 figures, 6 tables |
-| **[An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804v1)** | 2026-09-17 | 43 pages |
-| **[StageGuard: Learning Stage Transitions for Long-Horizon Robot Tasks via Agentic Distillation](https://arxiv.org/abs/2609.20791v1)** | 2026-09-17 | 8 pages, 2 figures |
-| **[RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning](https://arxiv.org/abs/2609.20784v1)** | 2026-09-17 |  |
+| **[LLM Agents Can Easily Tamper With Their Own Traces](https://arxiv.org/abs/2609.30266v1)** | 2026-09-24 |  |
+| **[Agentic Detection of Online Conspiracies](https://arxiv.org/abs/2609.30250v1)** | 2026-09-24 |  |
+| **[RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249v1)** | 2026-09-24 |  |
+| **[Coding Agents for Generalized Task and Motion Planning Problems](https://arxiv.org/abs/2609.30233v1)** | 2026-09-24 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 tables</p></details> |
+| **[Jev-Mobile: Jev as an Executor for Mobile GUI Agents](https://arxiv.org/abs/2609.30186v1)** | 2026-09-24 |  |
 
